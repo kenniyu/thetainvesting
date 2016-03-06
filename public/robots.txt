@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://yoursite.com/sitemap.xml 
+Sitemap: https://rocky-inlet-68994.herokuapp.com/sitemap.xml 
