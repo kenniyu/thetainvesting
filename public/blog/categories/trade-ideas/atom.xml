@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[theta trading]]></title>
-  <link href="https://rocky-inlet-68994.herokuapp.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: trade ideas | theta trading]]></title>
+  <link href="https://rocky-inlet-68994.herokuapp.com/blog/categories/trade-ideas/atom.xml" rel="self"/>
   <link href="https://rocky-inlet-68994.herokuapp.com/"/>
   <updated>2016-03-06T14:41:20-08:00</updated>
   <id>https://rocky-inlet-68994.herokuapp.com/</id>
@@ -20,7 +20,7 @@
     <id>https://rocky-inlet-68994.herokuapp.com/blog/2016/03/06/market-outlook-will-the-short-squeeze-continue</id>
     <content type="html"><![CDATA[<p>For the past 6 weeks, the SPX has been rallying almost non-stop from the double-bottom lows. Last week, I wasn&rsquo;t convinced that we would see a follow through in the Bulls, but after the Bears failed to take this market lower on Monday, we only got more short squeeze action, and the Bulls remained in charge.</p>
 
-<p><a href="https://rocky-inlet-68994.herokuapp.com/images/blog/03062016/spx.png"><img src="https://rocky-inlet-68994.herokuapp.com/images/blog/03062016/spx.png" alt="SPX" /></a></p>
+<p><a href="/images/blog/03062016/spx.png"><img src="/images/blog/03062016/spx.png" alt="SPX" /></a></p>
 
 <p>Last Friday, SPX closed at the 61.8% fib retracement level. Will we continue to see a rally, or will we turn here? There are many factors leading me to think that the market will turn lower at this point - I&rsquo;ll first argue the Bear case:
 1. The market has been extremely overextended to the upside, and almost every rally has been built on poor structure
@@ -38,13 +38,13 @@
 <p>Although the edge is to the Bears here, any upside continuation may only cause more shorts to be nervous.</p>
 
 <p>Looking at all the other major indices, the RUT is the strongest and doesn&rsquo;t look like it&rsquo;ll be pulling back, as the 61.8% fib level hasn&rsquo;t been reached, yet:
-<a href="https://rocky-inlet-68994.herokuapp.com/images/blog/03062016/rut.png"><img src="https://rocky-inlet-68994.herokuapp.com/images/blog/03062016/rut.png" alt="RUT" /></a></p>
+<a href="/images/blog/03062016/rut.png"><img src="/images/blog/03062016/rut.png" alt="RUT" /></a></p>
 
 <p>The NDX had balancing action over the past 3 trading days (2 hammers, 1 doji). It&rsquo;s currently sitting just a bit above the 50% fib level (Dec - Feb). A break out of balance to either side would most likely result in violent moves in that direction.
-<a href="https://rocky-inlet-68994.herokuapp.com/images/blog/03062016/ndx.png"><img src="https://rocky-inlet-68994.herokuapp.com/images/blog/03062016/ndx.png" alt="NDX" /></a></p>
+<a href="/images/blog/03062016/ndx.png"><img src="/images/blog/03062016/ndx.png" alt="NDX" /></a></p>
 
 <p>The DJX peaked above the 61.8% fib level, but closed underneath it:
-<a href="https://rocky-inlet-68994.herokuapp.com/images/blog/03062016/djx.png"><img src="https://rocky-inlet-68994.herokuapp.com/images/blog/03062016/djx.png" alt="DJX" /></a></p>
+<a href="/images/blog/03062016/djx.png"><img src="/images/blog/03062016/djx.png" alt="DJX" /></a></p>
 
 <p>With that, I&rsquo;ll leave you with a couple of trade ideas. These are mostly bearish plays, as is my current bias.</p>
 
@@ -55,17 +55,6 @@
 <p>More direct, bullish plays here with credits are a bit hard to put on right now. IV is low, and any downmove will inflate our premium, which will most likely hurt us, so I caution against putting those on.</p>
 
 <p>That&rsquo;s it for this week&rsquo;s outlook. I&rsquo;ll be posting updates as the week progresses. Good luck, and happy trading.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Beginning Steps]]></title>
-    <link href="https://rocky-inlet-68994.herokuapp.com/blog/2016/03/06/beginning-steps/"/>
-    <updated>2016-03-06T00:49:05-08:00</updated>
-    <id>https://rocky-inlet-68994.herokuapp.com/blog/2016/03/06/beginning-steps</id>
-    <content type="html"><![CDATA[<p>This is the beginning of my personal investing blog.</p>
-
-<p>I&rsquo;ll be tracking my journey in trading as closely as I can, reviewing my progress and always bettering myself. I&rsquo;ll also be posting trade ideas and monitoring ongoing positions that I have in the market.</p>
 ]]></content>
   </entry>
   
