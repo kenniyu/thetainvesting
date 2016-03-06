@@ -6,6 +6,12 @@
 	{% if site.twitter_tweet_button %}
 	<a class="addthis_button_tweet"></a>
 	{% endif %}
+	{% if site.linkedin_share %}
+	<script src="//platform.linkedin.com/in.js" type="text/javascript">
+		lang: en_US
+	</script>
+	<script type="IN/Share" data-url="{{ site.url }}{{ page.url }}" data-counter="right"></script>
+	{% endif %}
 	{% if site.google_plus_one %}
 	<a class="addthis_button_google_plusone" g:plusone:size="{{ site.google_plus_one_size }}"></a>
 	{% endif %}

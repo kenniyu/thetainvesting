@@ -74,7 +74,7 @@ twitter_user: theta_positive
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
@@ -91,11 +91,14 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: thetatrading
+disqus_short_name: thetatrades
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-74758186-1
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
+
+# LinkedIn Share
+linkedin_share: true
