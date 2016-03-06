@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[theta trading]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: reflection | theta trading]]></title>
+  <link href="http://yoursite.com/blog/categories/reflection/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
   <updated>2016-03-06T00:58:48-08:00</updated>
   <id>http://yoursite.com/</id>
