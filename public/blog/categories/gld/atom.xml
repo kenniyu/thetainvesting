@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: gld | theta trades]]></title>
+  <link href="https://rocky-inlet-68994.herokuapp.com/blog/categories/gld/atom.xml" rel="self"/>
+  <link href="https://rocky-inlet-68994.herokuapp.com/"/>
+  <updated>2016-03-06T20:05:14-08:00</updated>
+  <id>https://rocky-inlet-68994.herokuapp.com/</id>
+  <author>
+    <name><![CDATA[theta]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A Bullish Play Gold]]></title>
+    <link href="https://rocky-inlet-68994.herokuapp.com/blog/2016/03/06/a-bullish-play-gold/"/>
+    <updated>2016-03-06T17:05:56-08:00</updated>
+    <id>https://rocky-inlet-68994.herokuapp.com/blog/2016/03/06/a-bullish-play-gold</id>
+    <content type="html"><![CDATA[<p>Probably everyone and their mothers have already gotten the memo to buy Gold. I don&rsquo;t want to be jumping on the bandwagon because everyone else is, but because technical analysis points to further upside potential. Observe the chart of /GC below:</p>
+
+<p><a href="/images/blog/03062016/gc_f_zoomed_out.png"><img src="/images/blog/03062016/gc_f_zoomed_out.png" alt="/GC" /></a></p>
+
+<p>Gold has had a massive rally ever since the rounded bottom formed during the end of last year. On Feb 10-11 when the market double bottomed, we saw /GC put in a high, but even as the broad market rallied, /GC hasn&rsquo;t fallen much; instead, it consolidated and formed a wedge, and then towards the end of last week, it broke up and out of that wedge:</p>
+
+<p><a href="/images/blog/03062016/gc_f_zoomed_in.png"><img src="/images/blog/03062016/gc_f_zoomed_in.png" alt="/GC" /></a></p>
+
+<p>As such, we can expect this break out to continue to trend upwards. Any failure to maintain this new uptrend should be considered bearish, since that would be a classic &ldquo;look above and fail&rdquo; pattern.</p>
+
+<p>For those that would like to take a theta-positive trade on this instrument, consider selling naked puts (perhaps at the 0.05 delta).</p>
+
+<p>Another strategy that collects more premium but has upside risk is selling a strangle to finance a vertical debit call spread. One idea is to buy the 1300/1325 call spread, and finance it by selling the 1175/1375 strangle. This is currently trading for about 0.20 cr, so even after commissions, this trade can be put on for &ldquo;free.&rdquo; Here&rsquo;s the risk graph:</p>
+
+<p><a href="/images/blog/03062016/gc_f_risk_graph.png"><img src="/images/blog/03062016/gc_f_risk_graph.png" alt="/GC" /></a></p>
+
+<p>This trade has about a 71% probability of success, with the breakeven at 1400 to the upside (which lines up nicely with a previous horizontal resistance) and a bit below 1175 to the downside. Management is key here, as risk is unlimited - make sure to roll up/down and out in duration if the strikes are being threatened.</p>
+
+<p>You can also consider legging into this position, if you believe that /GC will make a quick run up first. In that case, consider selling the naked put and buying the call spread, but leaving the naked call to be placed at a later time. Finding the right credit for these setups may be harder, but if you have the edge of technical analysis, you may not always need to place trades for a credit initially.</p>
+]]></content>
+  </entry>
+  
+</feed>

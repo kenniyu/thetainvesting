@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://rocky-inlet-68994.herokuapp.com/blog/2016/03/06/a-bullish-play-gold/</loc>
+<lastmod>2016-03-06T17:05:56-08:00</lastmod>
+</url>
+<url>
 <loc>https://rocky-inlet-68994.herokuapp.com/blog/2016/03/06/market-outlook-will-the-short-squeeze-continue/</loc>
 <lastmod>2016-03-06T09:16:35-08:00</lastmod>
 </url>
@@ -46,5 +50,11 @@
 </url>
 <url>
 <loc>https://rocky-inlet-68994.herokuapp.com/blog/categories/trade-ideas/</loc>
+</url>
+<url>
+<loc>https://rocky-inlet-68994.herokuapp.com/blog/categories/slash-gc/</loc>
+</url>
+<url>
+<loc>https://rocky-inlet-68994.herokuapp.com/blog/categories/gld/</loc>
 </url>
 </urlset>
