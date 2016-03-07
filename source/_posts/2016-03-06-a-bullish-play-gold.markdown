@@ -25,3 +25,5 @@ Another strategy that collects more premium but has upside risk is selling a str
 This trade has about a 71% probability of success, with the breakeven at 1400 to the upside (which lines up nicely with a previous horizontal resistance) and a bit below 1175 to the downside. Management is key here, as risk is unlimited - make sure to roll up/down and out in duration if the strikes are being threatened.
 
 You can also consider legging into this position, if you believe that /GC will make a quick run up first. In that case, consider selling the naked put and buying the call spread, but leaving the naked call to be placed at a later time. Finding the right credit for these setups may be harder, but if you have the edge of technical analysis, you may not always need to place trades for a credit initially.
+
+As always, stay small, and trade safely.
