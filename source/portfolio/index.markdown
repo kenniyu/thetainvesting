@@ -6,3 +6,7 @@ comments: true
 sharing: true
 footer: true
 ---
+
+**Bias:** Bearish
+
+**Theta:** ~400
