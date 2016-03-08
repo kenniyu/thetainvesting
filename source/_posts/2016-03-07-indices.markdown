@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Keeping an Eye Out on Indices and Crude Oil"
+date: 2016-03-07 13:42:40 -0800
+comments: true
+categories: [spx, djx, ndx, rut, /cl, harmonic pattern]
+---
+
+The markets continue to grind higher, with the SPX closing today above the 61.8% fib level. The likely target is the descending trendline resistance, which should be around 2020:
+
+[![SPX - 2016-03-07 Daily Time Frame - Descending Trendline Resistance & Fibonacci Retracement](/images/blog/03072016/spx.png)](/images/blog/03072016/spx.png)
+
+Looking at the DJX, it has also closed above the 61.8% fib level:
+[![DJX - 2016-03-07 Daily Time Frame - Descending Trendline Resistance and Fibonacci Retracement](/images/blog/03072016/djx.png)](/images/blog/03072016/djx.png)
+
+Of course, the strongest of them all, RUT, grinds higher:
+[![RUT - 2016-03-07 Daily Time Frame - Ascending Trendline Support as Resistance and Fibonacci Retracement](/images/blog/03072016/rut.png)](/images/blog/03072016/rut.png)
+
+And then, interestingly enough the NDX, which has been having a hard time getting some love:
+[![NDX - 2016-03-07 Daily Time Frame - Fibonacci Retracement](/images/blog/03072016/ndx.png)](/images/blog/03072016/ndx.png)
+
+Whatever the case, it looks like the markets are mostly pointing to being neutral or moving higher. Unless the Bears have more confidence, this market will most likely continue to meander up here, dominated by many short term traders. Look for yesterday's trade idea on the market for ideas on trade location.
+
+Moving over to /CL.
+
+[![/CL - 2016-03-07 Daily Time Frame - Fibonacci Retracement and Harmonic Pattern](/images/blog/03072016/cl_f.png)](/images/blog/03072016/cl_f.png)
+
+/CL is approaching its previous resistance levels, as well as the 50% fib level (Oct - Feb). Furthermore, a [harmonic pattern AB=CD](http://www.harmonictrader.com/price_patternsabcd.htm "harmonic pattern") could be forming again (we saw one form from last May to last August, and a completion of the pattern from last October to last month). If we do see crude oil begin to roll over, we can initiate a short position, giving us a good trade location. However, for confirmation, I'd like to see it trade below 35 again before shorting. For now, do keep an eye out on /CL.
+
+For those that are a bit more aggressive, you may consider selling a call vertical here on /CL. The MAY 42/42.5 call spread (39 DTE) is trading for .15 cr currently, or the 42/43 call spread, currently trading for .28 cr.
+
+That's it for today, happy trading out there, and enjoy the markets tomorrow.

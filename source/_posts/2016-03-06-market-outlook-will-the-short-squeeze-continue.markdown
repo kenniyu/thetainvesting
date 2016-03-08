@@ -8,7 +8,7 @@ categories: [market outlook, spx, ndx, djx, rut, trade ideas]
 
 For the past 6 weeks, the SPX has been rallying almost non-stop from the double-bottom lows. Last week, I wasn't convinced that we would see a follow through in the Bulls, but after the Bears failed to take this market lower on Monday, we only got more short squeeze action, and the Bulls remained in charge.
 
-[![SPX](/images/blog/03062016/spx.png)](/images/blog/03062016/spx.png)
+[![SPX - 2016-03-06 Daily Timeframe Fibonaccis](/images/blog/03062016/spx.png)](/images/blog/03062016/spx.png)
 
 Last Friday, SPX closed at the 61.8% fib retracement level. Will we continue to see a rally, or will we turn here? There are many factors leading me to think that the market will turn lower at this point - I'll first argue the Bear case:
 1. The market has been extremely overextended to the upside, and almost every rally has been built on poor structure
@@ -26,13 +26,13 @@ But, I'll also argue the other Bull case - we can continue to see higher prices:
 Although the edge is to the Bears here, any upside continuation may only cause more shorts to be nervous.
 
 Looking at all the other major indices, the RUT is the strongest and doesn't look like it'll be pulling back, as the 61.8% fib level hasn't been reached, yet:
-[![RUT](/images/blog/03062016/rut.png)](/images/blog/03062016/rut.png)
+[![RUT - 2016-03-06 Daily Timeframe Fibonaccis](/images/blog/03062016/rut.png)](/images/blog/03062016/rut.png)
 
 The NDX had balancing action over the past 3 trading days (2 hammers, 1 doji). It's currently sitting just a bit above the 50% fib level (Dec - Feb). A break out of balance to either side would most likely result in violent moves in that direction.
-[![NDX](/images/blog/03062016/ndx.png)](/images/blog/03062016/ndx.png)
+[![NDX - 2016-03-06 Daily Timeframe Fibonaccis](/images/blog/03062016/ndx.png)](/images/blog/03062016/ndx.png)
 
 The DJX peaked above the 61.8% fib level, but closed underneath it:
-[![DJX](/images/blog/03062016/djx.png)](/images/blog/03062016/djx.png)
+[![DJX - 2016-03-06 Daily Timeframe Fibonaccis](/images/blog/03062016/djx.png)](/images/blog/03062016/djx.png)
 
 With that, I'll leave you with a couple of trade ideas. These are mostly bearish plays, as is my current bias.
 
