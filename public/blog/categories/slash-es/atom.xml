@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: reflection | theta trades]]></title>
-  <link href="https://rocky-inlet-68994.herokuapp.com/blog/categories/reflection/atom.xml" rel="self"/>
+  <title><![CDATA[Category: /es | theta trades]]></title>
+  <link href="https://rocky-inlet-68994.herokuapp.com/blog/categories/slash-es/atom.xml" rel="self"/>
   <link href="https://rocky-inlet-68994.herokuapp.com/"/>
   <updated>2016-03-10T19:22:54-08:00</updated>
   <id>https://rocky-inlet-68994.herokuapp.com/</id>
@@ -31,17 +31,6 @@
 <p>Crude looks like it wants to hit 40 or the 61.8% fib level. I&rsquo;ve set up the 39.5/40/40.5 balanced butterfly for a 0.30 debit.</p>
 
 <p>That&rsquo;s it for today. Good luck and happy trading in in the markets tomorrow.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Beginning Steps]]></title>
-    <link href="https://rocky-inlet-68994.herokuapp.com/blog/2016/03/06/beginning-steps/"/>
-    <updated>2016-03-06T00:49:05-08:00</updated>
-    <id>https://rocky-inlet-68994.herokuapp.com/blog/2016/03/06/beginning-steps</id>
-    <content type="html"><![CDATA[<p>This is the beginning of my personal investing blog.</p>
-
-<p>I&rsquo;ll be tracking my journey in trading as closely as I can, reviewing my progress and always bettering myself. I&rsquo;ll also be posting trade ideas and monitoring ongoing positions that I have in the market.</p>
 ]]></content>
   </entry>
   

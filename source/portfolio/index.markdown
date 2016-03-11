@@ -7,6 +7,10 @@ sharing: true
 footer: true
 ---
 
-**Bias:** Bearish
+Bias
 
-**Theta:** ~400
+**Equities**: Bearish
+
+**Precious Metals**: Bullish
+
+**Theta:** ~485
