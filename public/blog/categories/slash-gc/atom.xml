@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: /gc | theta trades]]></title>
-  <link href="https://rocky-inlet-68994.herokuapp.com/blog/categories/slash-gc/atom.xml" rel="self"/>
-  <link href="https://rocky-inlet-68994.herokuapp.com/"/>
-  <updated>2016-03-10T19:22:54-08:00</updated>
-  <id>https://rocky-inlet-68994.herokuapp.com/</id>
+  <link href="http://kenniyu.github.io/blog/categories/slash-gc/atom.xml" rel="self"/>
+  <link href="http://kenniyu.github.io/"/>
+  <updated>2016-03-11T18:37:12-08:00</updated>
+  <id>http://kenniyu.github.io/</id>
   <author>
     <name><![CDATA[theta]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[A Bullish Play Gold]]></title>
-    <link href="https://rocky-inlet-68994.herokuapp.com/blog/2016/03/06/a-bullish-play-gold/"/>
+    <link href="http://kenniyu.github.io/blog/2016/03/06/a-bullish-play-gold/"/>
     <updated>2016-03-06T17:05:56-08:00</updated>
-    <id>https://rocky-inlet-68994.herokuapp.com/blog/2016/03/06/a-bullish-play-gold</id>
+    <id>http://kenniyu.github.io/blog/2016/03/06/a-bullish-play-gold</id>
     <content type="html"><![CDATA[<p>Probably everyone and their mothers have already gotten the memo to buy Gold. I don&rsquo;t want to be jumping on the bandwagon because everyone else is, but because technical analysis points to further upside potential. Observe the chart of /GC below:</p>
 
 <p><a href="/images/blog/03062016/gc_f_zoomed_out.png"><img src="/images/blog/03062016/gc_f_zoomed_out.png" alt="/GC" /></a></p>

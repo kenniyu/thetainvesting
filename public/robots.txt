@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://rocky-inlet-68994.herokuapp.com/sitemap.xml 
+Sitemap: http://kenniyu.github.io/sitemap.xml 
