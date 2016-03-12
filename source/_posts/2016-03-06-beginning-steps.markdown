@@ -3,7 +3,7 @@ layout: post
 title: "Beginning Steps"
 date: 2016-03-06 00:49:05 -0800
 comments: true
-categories: [reflection]
+categories:
 ---
 
 This is the beginning of my personal investing blog.

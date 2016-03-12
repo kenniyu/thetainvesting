@@ -3,7 +3,7 @@ layout: post
 title: "A Bullish Play Gold"
 date: 2016-03-06 17:05:56 -0800
 comments: true
-categories: [/GC, GLD]
+categories: [/gc, gld]
 ---
 
 Probably everyone and their mothers have already gotten the memo to buy Gold. I don't want to be jumping on the bandwagon because everyone else is, but because technical analysis points to further upside potential. Observe the chart of /GC below:

@@ -3,7 +3,7 @@ layout: post
 title: "Short Term Traders Dominating"
 date: 2016-03-10 19:09:16 -0800
 comments: true
-categories: [reflection, outlook, /es, /cl, balanced butterfly]
+categories: [recap, outlook, /es, /cl, balanced butterfly]
 ---
 
 The market has been doing nothing other than balancing over the past 8 trading sessions. We're bracketing, and it's apparent that the market is being dominated by the shorter term traders looking to buy at the bottom of balance and sell at the top. We're unable to push prices higher, and today, we look below and failed. All of this price action over the past couple of weeks paints a very clear picture: traders have extremely low confidence.

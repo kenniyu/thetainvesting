@@ -3,7 +3,7 @@ layout: post
 title: "Market Outlook - Will the Short Squeeze Continue"
 date: 2016-03-06 09:16:35 -0800
 comments: true
-categories: [market outlook, spx, ndx, djx, rut, trade ideas]
+categories: [outlook, spx, ndx, djx, rut, trade ideas]
 ---
 
 For the past 6 weeks, the SPX has been rallying almost non-stop from the double-bottom lows. Last week, I wasn't convinced that we would see a follow through in the Bulls, but after the Bears failed to take this market lower on Monday, we only got more short squeeze action, and the Bulls remained in charge.

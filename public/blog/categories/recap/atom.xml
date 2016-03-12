@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: outlook | theta trades]]></title>
-  <link href="http://kenniyu.github.io/blog/categories/outlook/atom.xml" rel="self"/>
+  <title><![CDATA[Category: recap | theta trades]]></title>
+  <link href="http://kenniyu.github.io/blog/categories/recap/atom.xml" rel="self"/>
   <link href="http://kenniyu.github.io/"/>
   <updated>2016-03-11T19:22:09-08:00</updated>
   <id>http://kenniyu.github.io/</id>
@@ -78,51 +78,6 @@
 <p>Crude looks like it wants to hit 40 or the 61.8% fib level. I&rsquo;ve set up the 39.5/40/40.5 balanced butterfly for a 0.30 debit.</p>
 
 <p>That&rsquo;s it for today. Good luck and happy trading in in the markets tomorrow.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Market Outlook - Will the Short Squeeze Continue]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/03/06/market-outlook-will-the-short-squeeze-continue/"/>
-    <updated>2016-03-06T09:16:35-08:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/03/06/market-outlook-will-the-short-squeeze-continue</id>
-    <content type="html"><![CDATA[<p>For the past 6 weeks, the SPX has been rallying almost non-stop from the double-bottom lows. Last week, I wasn&rsquo;t convinced that we would see a follow through in the Bulls, but after the Bears failed to take this market lower on Monday, we only got more short squeeze action, and the Bulls remained in charge.</p>
-
-<p><a href="/images/blog/03062016/spx.png"><img src="/images/blog/03062016/spx.png" alt="SPX - 2016-03-06 Daily Timeframe Fibonaccis" /></a></p>
-
-<p>Last Friday, SPX closed at the 61.8% fib retracement level. Will we continue to see a rally, or will we turn here? There are many factors leading me to think that the market will turn lower at this point - I&rsquo;ll first argue the Bear case:
-1. The market has been extremely overextended to the upside, and almost every rally has been built on poor structure
-2. The recent rallying has been closely tied to crude, and crude is coming up to major resistance levels
-3. Friday&rsquo;s late day selloff was a bit unusual (usually on a short-squeezing day, we see the action continue all the way to the closing bell) and lends support to the fact that:
-5. There is major overhead supply above us; path of least resistance is to the downside
-6. Overall fundamentals have not changed</p>
-
-<p>But, I&rsquo;ll also argue the other Bull case - we can continue to see higher prices:
-1. Looking at the SPX chart above, a full extension of the W pattern goes as high as 2080 (though we may not see that target to be fully reached due to multiple trendline resistances along the way)
-2. Though Friday&rsquo;s late day selloff was unusual, the longer term players usually don&rsquo;t wait until near the closing bell to sell a market
-3. Liquidation breaks strengthen the market, and we had one on Friday morning
-4. The RUT is the strongest out of all the indices and has not reached the 61.8% fib level (Dec - Feb). The NDX also closed above the 50% fib level (Dec - Feb), but has not reached the 61.8%</p>
-
-<p>Although the edge is to the Bears here, any upside continuation may only cause more shorts to be nervous.</p>
-
-<p>Looking at all the other major indices, the RUT is the strongest and doesn&rsquo;t look like it&rsquo;ll be pulling back, as the 61.8% fib level hasn&rsquo;t been reached, yet:
-<a href="/images/blog/03062016/rut.png"><img src="/images/blog/03062016/rut.png" alt="RUT - 2016-03-06 Daily Timeframe Fibonaccis" /></a></p>
-
-<p>The NDX had balancing action over the past 3 trading days (2 hammers, 1 doji). It&rsquo;s currently sitting just a bit above the 50% fib level (Dec - Feb). A break out of balance to either side would most likely result in violent moves in that direction.
-<a href="/images/blog/03062016/ndx.png"><img src="/images/blog/03062016/ndx.png" alt="NDX - 2016-03-06 Daily Timeframe Fibonaccis" /></a></p>
-
-<p>The DJX peaked above the 61.8% fib level, but closed underneath it:
-<a href="/images/blog/03062016/djx.png"><img src="/images/blog/03062016/djx.png" alt="DJX - 2016-03-06 Daily Timeframe Fibonaccis" /></a></p>
-
-<p>With that, I&rsquo;ll leave you with a couple of trade ideas. These are mostly bearish plays, as is my current bias.</p>
-
-<p>For a bearish play on the SPX: knowing that the peak of the extension from the W pattern is around 2080, we can place the APR 2080/2100 bear call spread (currently priced for about 3.00 cr). This trade has a 92% probability of success, and should be managed to avoid taking the max loss (consider rolling out in time for duration once the short strike is threatened). If the margin requirement on SPX is too much, consider the 208/210 bear call on the SPY - adjust the lot size as you see fit.</p>
-
-<p>Another trade idea that is bearish, but also allows room for bullishness: we can sell the APR 206/208 call ratio spread on the SPY for about a 0.12 credit. If the market does in fact roll over, we win. But if not, and if it grinds higher and hovers around our 208 resistance area by expiration, even better. Our breakeven to the upside is 210.12, with a 93% win rate, and a max profit of 2.12 per spread. Adjust lot size as you see fit.</p>
-
-<p>More direct, bullish plays here with credits are a bit hard to put on right now. IV is low, and any downmove will inflate our premium, which will most likely hurt us, so I caution against putting those on.</p>
-
-<p>That&rsquo;s it for this week&rsquo;s outlook. I&rsquo;ll be posting updates as the week progresses. Good luck, and happy trading.</p>
 ]]></content>
   </entry>
   
