@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://kenniyu.github.io/blog/2016/03/12/thoughts-on-the-market/</loc>
+<lastmod>2016-03-12T12:14:17-08:00</lastmod>
+</url>
+<url>
 <loc>http://kenniyu.github.io/blog/2016/03/11/further-upside-expected/</loc>
 <lastmod>2016-03-11T18:45:36-08:00</lastmod>
 </url>
@@ -33,10 +37,10 @@
 <lastmod>2016-03-06T00:49:05-08:00</lastmod>
 </url>
 <url>
-<loc>http://kenniyu.github.io/archives/</loc>
+<loc>http://kenniyu.github.io/blog/</loc>
 </url>
 <url>
-<loc>http://kenniyu.github.io/blog/</loc>
+<loc>http://kenniyu.github.io/archives/</loc>
 </url>
 <url>
 <loc>http://kenniyu.github.io/blog/archives/</loc>
@@ -103,5 +107,17 @@
 </url>
 <url>
 <loc>http://kenniyu.github.io/blog/categories/bottoming-tail-hammer/</loc>
+</url>
+<url>
+<loc>http://kenniyu.github.io/blog/categories/reflection/</loc>
+</url>
+<url>
+<loc>http://kenniyu.github.io/blog/categories/opinion/</loc>
+</url>
+<url>
+<loc>http://kenniyu.github.io/blog/categories/trade-idea/</loc>
+</url>
+<url>
+<loc>http://kenniyu.github.io/blog/categories/risk-graph/</loc>
 </url>
 </urlset>
