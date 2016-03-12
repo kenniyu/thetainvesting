@@ -12,13 +12,13 @@ Yesterday after the ECB announcement, traders attempted to push the market lower
 
 This is a very bullish signal, regardless of how overbought the conditions are. Here's the current SPX chart:
 
-[![SPX - 2016-03-11 Daily Time Frame - Fibonacci Retracement, Trendline Resistance, Range Extension](/images/blog/03112016/spx.png)](/images/blog/03112016/spx.png)
+[![SPX - 2016-03-11 Daily Time Frame - Fibonacci Retracement, Trendline Resistance, Range Extension](/images/blog/03112016/spx_daily.png)](/images/blog/03112016/spx_daily.png)
 
 For those that took a bullish stance on the market during that time, congratulations. In the first SPX chart that I posted a couple of weeks back, I outlined the potential range extension we could see as possible target areas (via the pink rectangles). This week, not only did we break the 61.8% fib level, but we've also broken the trendline resistance connected by the tops of November and December 2015. I believe we're headed to 2060. So if you're long, continue to hold that position.
 
 Zooming out and taking a look at the market on the weekly:
 
-[![SPX - 2016-03-11 Weekly Time Frame - Fibonacci Retracement, Trendline Resistance, Range Extension, Bottoming-Tail Hammer](/images/blog/03112016/spx.png)](/images/blog/03112016/spx.png)
+[![SPX - 2016-03-11 Weekly Time Frame - Fibonacci Retracement, Trendline Resistance, Range Extension, Bottoming-Tail Hammer](/images/blog/03112016/spx_weekly.png)](/images/blog/03112016/spx_weekly.png)
 
 Notice the bottoming tail hammer that formed. I count many weekly bars from before that ended with a higher close the following week.
 
