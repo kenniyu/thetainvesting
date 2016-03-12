@@ -16,9 +16,9 @@ As much as I'm punishing myself for missing out on the rally, my sentiment on th
 
 Take a look at some of the famous, big-name stocks like FB, AMZN, NFLX, GOOG, CMG, AAPL, etc. I would've expected these stocks to rally a lot higher in conjunction with the SPX - at least if it had done so, it would've shown that risk was back on. Instead, they all look very weak; it doesn't seem like investors are all that excited about these stocks anymore. Furthermore, it appears we've rotated to defensive sector stocks like energy, and based off of what? Crude oil's fundamentals being better? I don't think so. In fact, I have no idea.
 
-We started this year at 2038.2 in the SPX. We're currently at 2022.19. If we breach 2038.2 with vigor, I believe the next point of resistance is 2060:
+We started this year at 2038.2 in the SPX. We're currently at 2022.19. If we breach 2038.2 with vigor, I believe the next point of resistance is 2060 (highlighted by the gray oval):
 
-[![SPX - 2016-03-12 Daily Time Frame - Target](/images/blog/03122016/spx.png)](/images/blog/03122016/spx.png)
+[![SPX - 2016-03-12 Daily Time Frame - Target 2060](/images/blog/03122016/spx.png)](/images/blog/03122016/spx.png)
 
 Because a lot of overhead supply is above us, I think it makes sense that we won't be surging sharply higher - instead, we'll probably slowly float upwards. So I'll leave you with a trade idea: the 2055/2060/2070 unbalanced butterfly (currently priced for 0.15 cr) expiring March:
 
