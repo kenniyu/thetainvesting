@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: reflection | theta trades]]></title>
+  <link href="http://kenniyu.github.io/blog/categories/reflection/atom.xml" rel="self"/>
+  <link href="http://kenniyu.github.io/"/>
+  <updated>2016-03-11T18:37:12-08:00</updated>
+  <id>http://kenniyu.github.io/</id>
+  <author>
+    <name><![CDATA[theta]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Short Term Traders Dominating]]></title>
+    <link href="http://kenniyu.github.io/blog/2016/03/10/short-term-traders-dominating/"/>
+    <updated>2016-03-10T19:09:16-08:00</updated>
+    <id>http://kenniyu.github.io/blog/2016/03/10/short-term-traders-dominating</id>
+    <content type="html"><![CDATA[<p>The market has been doing nothing other than balancing over the past 8 trading sessions. We&rsquo;re bracketing, and it&rsquo;s apparent that the market is being dominated by the shorter term traders looking to buy at the bottom of balance and sell at the top. We&rsquo;re unable to push prices higher, and today, we look below and failed. All of this price action over the past couple of weeks paints a very clear picture: traders have extremely low confidence.</p>
+
+<p>While one can argue that the market seems bearish because Mario wasn&rsquo;t able to push prices higher with his market manipulation techniques, one can also argue that if we were truly bearish, we wouldn&rsquo;t have look outside below balance, and then come back in. We settled today at the point of control, which has just been getting more and more prominent over the past couple of weeks. Traders just like it here.</p>
+
+<p>Today we formed a poor low in the /ES. Expect that to be repaired in the (possibly near) future.</p>
+
+<p>/CL seems a bit confused about where it wants to go. We&rsquo;ve had back to back days that just completely engulfed the previous days, until today, when we closed on a Doji:</p>
+
+<p><a href="/images/blog/03102016/cl_f.png"><img src="/images/blog/03102016/cl_f.png" alt="/CL - 2016-03-10 Daily Time Frame - Doji, Fibonacci" /></a></p>
+
+<p>Crude looks like it wants to hit 40 or the 61.8% fib level. I&rsquo;ve set up the 39.5/40/40.5 balanced butterfly for a 0.30 debit.</p>
+
+<p>That&rsquo;s it for today. Good luck and happy trading in in the markets tomorrow.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Beginning Steps]]></title>
+    <link href="http://kenniyu.github.io/blog/2016/03/06/beginning-steps/"/>
+    <updated>2016-03-06T00:49:05-08:00</updated>
+    <id>http://kenniyu.github.io/blog/2016/03/06/beginning-steps</id>
+    <content type="html"><![CDATA[<p>This is the beginning of my personal investing blog.</p>
+
+<p>I&rsquo;ll be tracking my journey in trading as closely as I can, reviewing my progress and always bettering myself. I&rsquo;ll also be posting trade ideas and monitoring ongoing positions that I have in the market.</p>
+]]></content>
+  </entry>
+  
+</feed>
