@@ -3,6 +3,13 @@
 @import "footnote";
 
 .adsense {
-  margin: auto;
-  margin-top: 20px;
+  padding: 25px;
+}
+
+.post .meta {
+  width: 240px;
+
+  @media screen and (max-width: 620px) {
+    width: auto;
+  }
 }
