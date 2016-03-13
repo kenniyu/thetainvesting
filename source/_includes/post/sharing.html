@@ -6,16 +6,19 @@
 	{% if site.twitter_tweet_button %}
 	<a class="addthis_button_tweet"></a>
 	{% endif %}
-	{% if false and site.linkedin_share %}
+	{% if site.linkedin_share %}
 	<script src="//platform.linkedin.com/in.js" type="text/javascript">
 		lang: en_US
 	</script>
 	<script type="IN/Share" data-url="{{ site.url }}{{ page.url }}" data-counter="right"></script>
 	{% endif %}
+	{% if site.stocktwits_share %}
+	<a href="http://stocktwits.com/widgets/share" id="stocktwits-share-button"><img src="https://stocktwits.com/assets/widget/stocktwits_share.png" alt="Share on StockTwits"/></a><script src="http://stocktwits.com/addon/button/share.min.js"></script>
+	{% endif %}
+<!---	<a class="addthis_counter addthis_pill_style"></a> --->
 	{% if site.google_plus_one %}
 	<a class="addthis_button_google_plusone" g:plusone:size="{{ site.google_plus_one_size }}"></a>
 	{% endif %}
-<!---	<a class="addthis_counter addthis_pill_style"></a> --->
 	</div>
   <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid={{ site.addthis_profile_id }}"></script>
 </div>

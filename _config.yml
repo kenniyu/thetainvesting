@@ -14,7 +14,8 @@ keywords: trading, cashflow, investing, money, trade, stocks, options, theta, fi
 # You can customize the format as defined in
 # http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
 # Additionally, %o will give you the ordinal representation of the day
-date_format: "ordinal"
+date_format: '%a'     # July 3rd, 2014
+time_format: '%-I:%M %P'   # 2:08 pm
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
@@ -103,3 +104,6 @@ facebook_like: true
 
 # LinkedIn Share
 linkedin_share: true
+
+# ST Share
+stocktwits_share: true
