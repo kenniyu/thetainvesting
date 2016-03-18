@@ -6,8 +6,6 @@ comments: true
 categories: [observing, ung, /ng, aud/jpy]
 ---
 
-Slightly under the weather today, and probably will be tomorrow as well.
+We're in a holding pattern, as Janet Yellen is stepping up to the mic tomorrow, so watch out for movements afterwards, and stay on the sidelines in the meantime.
 
-Janet Yellen is stepping up to the mic tomorrow, so watch out for movements and stay on the sidelines if need be.
-
-Trade idea that triggered last night was the AUD/JPY. I'm still waiting on UNG to go a bit higher before shorting. Until then, <a href="https://twitter.com/theta_positive/">follow me on Twitter</a> to get my real-time updates on my entries and positions.
+Trade idea that triggered last night was the AUD/JPY. I'm still waiting on UNG to go a bit higher before shorting. <a href="https://twitter.com/theta_positive/">Follow me on Twitter</a> to get my real-time updates on my entries and positions.

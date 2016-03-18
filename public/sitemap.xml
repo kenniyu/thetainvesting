@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://kenniyu.github.io/blog/2016/03/17/spx-gap-filled/</loc>
+<lastmod>2016-03-17T17:43:05-07:00</lastmod>
+</url>
+<url>
+<loc>http://kenniyu.github.io/blog/2016/03/16/market-continues-to-upside/</loc>
+<lastmod>2016-03-16T19:27:04-07:00</lastmod>
+</url>
+<url>
 <loc>http://kenniyu.github.io/blog/2016/03/15/grandma-yellen-stepping-to-the-mic/</loc>
 <lastmod>2016-03-15T23:49:16-07:00</lastmod>
 </url>
@@ -153,5 +161,11 @@
 </url>
 <url>
 <loc>http://kenniyu.github.io/blog/categories/observing/</loc>
+</url>
+<url>
+<loc>http://kenniyu.github.io/blog/categories/fomc/</loc>
+</url>
+<url>
+<loc>http://kenniyu.github.io/posts/2/</loc>
 </url>
 </urlset>
