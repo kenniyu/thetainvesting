@@ -16,4 +16,19 @@
 
 #content article.post {
   overflow: hidden;
+
+  blockquote {
+    background: #fff;
+    text-align: center;
+    padding: 15px 0;
+    border: none;
+    margin: 0;
+
+    p {
+      font-size: 24px;
+      font-weight: 900;
+      font-style: italic;
+    }
+  }
+
 }
