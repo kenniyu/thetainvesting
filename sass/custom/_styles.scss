@@ -6,11 +6,17 @@
   padding: 25px;
 }
 
-.post .meta {
-  width: 240px;
+.post {
+  .twitter-tweet.twitter-tweet-rendered {
+    margin: auto;
+  }
 
-  @media screen and (max-width: 620px) {
-    width: auto;
+  .meta {
+    width: 240px;
+
+    @media screen and (max-width: 620px) {
+      width: auto;
+    }
   }
 }
 

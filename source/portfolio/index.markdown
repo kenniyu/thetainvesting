@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "portfolio"
+title: "trades"
 date: 2016-03-05 23:27
 comments: true
 sharing: true
