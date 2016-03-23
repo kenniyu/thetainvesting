@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: market recap | ThetaTrades]]></title>
+  <title><![CDATA[Category: market recap | theta trades]]></title>
   <link href="http://kenniyu.github.io/blog/categories/market-recap/atom.xml" rel="self"/>
   <link href="http://kenniyu.github.io/"/>
-  <updated>2016-03-22T13:53:09-07:00</updated>
+  <updated>2016-03-22T22:48:11-07:00</updated>
   <id>http://kenniyu.github.io/</id>
   <author>
     <name><![CDATA[theta]]></name>
@@ -12,6 +12,99 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Decision Point]]></title>
+    <link href="http://kenniyu.github.io/blog/2016/03/22/decision-point/"/>
+    <updated>2016-03-22T20:38:00-07:00</updated>
+    <id>http://kenniyu.github.io/blog/2016/03/22/decision-point</id>
+    <content type="html"><![CDATA[<p>Market stalls here.</p>
+
+<p>We had the SPX close today on a Doji - this doesn&rsquo;t mean a reversal is coming, it just means indecision, or consolidation, before a break out higher or lower. The longer we consolidate, the more forceful the breakout, so do keep that in mind. Here&rsquo;s the SPX:</p>
+
+<p><a href="/images/blog/03222016/spx.png"><img src="/images/blog/03222016/spx.png" alt="SPX - 2016-03-22 Daily Time Frame - Target 2060 - Consolidation" /></a></p>
+
+<p>We actually peeked above the consolidation area not once, but twice, since yesterday. While that may seem bearish, keep in mind we did the same look-below-and-fail today. So still, trade is being dominated by short-term traders.</p>
+
+<p>Here&rsquo;s the DJX:</p>
+
+<p><a href="/images/blog/03222016/djx.png"><img src="/images/blog/03222016/djx.png" alt="DJX - 2016-03-22 Daily Time Frame - Trendline Resistance Tag" /></a></p>
+
+<p>It actually tagged that trendline resistance and fell back a bit, which was what we expected. If the markets continue to exhibit weakness tomorrow, I&rsquo;m considering the APR5 177.5/180 call spread going for .98 cr right now.</p>
+
+<p>Here&rsquo;s the NDX:</p>
+
+<p><a href="/images/blog/03222016/ndx.png"><img src="/images/blog/03222016/ndx.png" alt="NDX - 2016-03-22 Daily Time Frame - Grinding Higher" /></a></p>
+
+<p>It actually continued higher today and was the strongest of the bunch. Not surprising here as it was the laggard for most of the huge rally that the SPX had.</p>
+
+<p>And the RUT:</p>
+
+<p><a href="/images/blog/03222016/rut.png"><img src="/images/blog/03222016/rut.png" alt="RUT - 2016-03-22 Daily Time Frame - Look Everywhere and Fail - Consolidation" /></a></p>
+
+<p>Yesterday we were looking for either a follow through higher from possibly a bounce off of the trendline support, but we did not get that. Earlier during today&rsquo;s session, it appeared that yesterday&rsquo;s session was nothing but a look-above-and-fail, but by the end of today, we didn&rsquo;t have a look-below-and-fail, either. Again, indecision here, so keep your eyes peeled.</p>
+
+<p>Overall, the indices spell very mixed signals. On one hand, you have the NDX up and the DJX down, but both SPX and RUT aren&rsquo;t sure where to go. The longer the market stays in a tight consolidation range, the more explosive the breakout. Stay aware.</p>
+
+<p>Today we got filled on three trades:</p>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Still working the fly on it, but in the meantime: SOLD VERTICAL <a href="https://twitter.com/search?q=%24PCLN&amp;src=ctag">$PCLN</a> 100 APR 16 1375/1380 CALL <a href="https://twitter.com/1">@1</a>.25</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/712273450153283584">March 22, 2016</a></blockquote>
+
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">SOLD -COMBO <a href="https://twitter.com/search?q=%24UNG&amp;src=ctag">$UNG</a> 100 (Weeklys) APR5 16 6.5/6 CALL/PUT @.13</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/712295330461552640">March 22, 2016</a></blockquote>
+
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ro" dir="ltr">SOLD VERTICAL <a href="https://twitter.com/search?q=%24VXX&amp;src=ctag">$VXX</a> 100 APR 16 17.5/15 PUT @.58</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/712352871283470336">March 22, 2016</a></blockquote>
+
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<p>These trades are now being logged in the <a href="/trades%20Trades">All Trades Page</a> section of the site, so we&rsquo;ll continue monitoring these trades and managing as necessary. Updates will be posted on that page over time.</p>
+
+<p>Potential trades for tomorrow:</p>
+
+<p>Earlier today I was looking at PCLN as a potential candidate for a balanced butterfly, centered around the 1300 level. Here&rsquo;s why:</p>
+
+<p><a href="/images/blog/03222016/pcln.png"><img src="/images/blog/03222016/pcln.png" alt="PCLN - 2016-03-22 Daily Time Frame - Trendline Channel Support" /></a></p>
+
+<p>There is an ascending trendline support which should end up at around 1300 by this Thursday. In the event of a slight downdraft in the markets, we may be able to find support here. There&rsquo;s also a rising channel support going back to the gap up from earnings. This should help the 1300 level act as a support as well.</p>
+
+<p><a href="/images/blog/03222016/pcln_risk_graph.png"><img src="/images/blog/03222016/pcln_risk_graph.png" alt="PCLN Risk Graph - 2016-03-22 - Balanced Butterfly" /></a></p>
+
+<p>The 1310/1300/1290 butterfly is currently being priced for about .80 db. I&rsquo;ll be trying to lowball this for about .50.</p>
+
+<p>And for DIA:</p>
+
+<p><a href="/images/blog/03222016/dia.png"><img src="/images/blog/03222016/dia.png" alt="DIA - 2016-03-22 Daily Time Frame - Short &amp; Long Strikes" /></a></p>
+
+<p>In the market recap before, I mentioned that if the market exhibits weakness and we see all indices drop, a 177.5/180 call vertical on DIA would not be a bad idea.</p>
+
+<p><a href="/images/blog/03222016/dia_risk_graph.png"><img src="/images/blog/03222016/dia_risk_graph.png" alt="DIA Risk Graoh - 2016-03-22 - Vertical Credit Call Spread" /></a></p>
+
+<p>It&rsquo;s currently being priced at about 1.01 cr for the spread expiring on APR5, but depending on when the fill happens and how much the market drops, it&rsquo;ll be lower.</p>
+
+<p>Another trade idea here is GDX:</p>
+
+<p><a href="/images/blog/03222016/gdx.png"><img src="/images/blog/03222016/gdx.png" alt="GDX - 2016-03-22 Daily Time Frame - Channel Resistance" /></a></p>
+
+<p>I&rsquo;m looking for a bit of a pullback from this big run that we&rsquo;ve had. As GDX stalls here, I&rsquo;m hoping to collect some premium on the call side, possibly the APR 21.5 naked call, and I&rsquo;m also looking to add a more bearish bias, as we&rsquo;re at the top of this channel resistance. To that effect, I&rsquo;m considering buying the 20/19 put spread, also in APR. Together, this should bring in about .22 cr.</p>
+
+<p><a href="/images/blog/03222016/gdx_risk_graph.png"><img src="/images/blog/03222016/gdx_risk_graph.png" alt="GDX Risk Graph - 2016-03-22 Daily Time Frame - Look Everywhere and Fail - Consolidation" /></a></p>
+
+<p>That&rsquo;s it for today. I&rsquo;ll be posting my trades <a href="https://twitter.com/theta_positive" title="live on Twitter">Follow @thetatrades on Twitter </a>, so follow me to get those real-time notifications.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Expecting a Turnaround Very Soon]]></title>
