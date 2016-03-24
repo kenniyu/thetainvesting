@@ -15,28 +15,49 @@ All trades are posted real-time on Twitter - <a href="https://twitter.com/theta_
 This page is updated daily with the new entries, and existing trades and managements are updated here as well. All trade sizes are based off of 1 unit (single, spread, etc...).
 
 ***
+*Opened Today*
+
+**Opening:** *03-23-2016* - SOLD 1/-1/1 CUSTOM **GDX** 100 APR 16/APR 16/APR 16 20.5/19.5/18.5 CALL/PUT/PUT **@.14**<br/>
+**Closing:** *pending*
+
+[![GDX - 2016-03-23 Custom Combo Risk Graph](/images/pages/trades/03232016_gdx_combo.png)](/images/pages/trades/03232016_gdx_combo.png)
+
+
+**Opening:** *03-23-2016* - SOLD VERTICAL **TSLA** 100 APR 16 245/250 CALL **@1.20**<br/>
+**Closing:** *pending*
+
+[![TSLA - 2016-03-23 Vertical Call Risk Graph](/images/pages/trades/03232016_tsla_call_vertical.png)](/images/pages/trades/03232016_tsla_call_vertical.png)
+
+
+**Opening:** *03-23-2016* - SOLD VERTICAL **DIA** 100 (Weeklys) APR5 16 177.5/180 CALL **@.88**<br/>
+**Closing:** *pending*
+
+[![DIA - 2016-03-23 Vertical Call Risk Graph](/images/pages/trades/03232016_dia_call_vertical.png)](/images/pages/trades/03232016_dia_call_vertical.png)
+
+
+***
 
 **Opening:** *03-22-2016* - SOLD VERTICAL **PCLN** 100 APR 16 1375/1380 CALL **@1.25**<br/>
 **Closing:** *pending*
 
-[![PCLN - 2016-03-22 Vertical Call Risk Graph](/images/pages/trades/03222016_pcln_call_vertical_risk_graph.png)](/images/pages/trades/03222016_pcln_call_vertical_risk_graph.png)
+[![PCLN - 2016-03-22 Vertical Call Risk Graph](/images/pages/trades/03232016_pcln_call_vertical.png)](/images/pages/trades/03232016_pcln_call_vertical.png)
 
 **Opening:** *03-22-2016* - SOLD COMBO **UNG** 100 (Weeklys) APR5 16 6.5/6 CALL/PUT **@.13**<br/>
 **Closing:** *pending*
 
-[![UNG - 2016-03-22 Combo Risk Graph](/images/pages/trades/03222016_ung_combo_risk_graph.png)](/images/pages/trades/03222016_ung_combo_risk_graph.png)
+[![UNG - 2016-03-22 Combo Risk Graph](/images/pages/trades/03232016_ung_combo.png)](/images/pages/trades/03232016_ung_combo.png)
 
 **Opening:** *03-22-2016* - SOLD VERTICAL **VXX** 100 APR 16 17.5/15 PUT **@.58**<br/>
 **Closing:** *pending*
 
-[![VXX - 2016-03-22 Vertical Put Risk Graph](/images/pages/trades/03222016_vxx_put_vertical_risk_graph.png)](/images/pages/trades/03222016_vxx_put_vertical_risk_graph.png)
+[![VXX - 2016-03-22 Vertical Put Risk Graph](/images/pages/trades/03232016_vxx_put_vertical.png)](/images/pages/trades/03232016_vxx_put_vertical.png)
 
 **Opening:** *03-21-2016* - BOT BUTTERFLY **AMZN** 100 APR 16 480/475/465 PUT **@-.17**<br/>
 **Closing:** *pending*
 
-[![AMZN - 2016-03-21 Unbalanced Butterfly Risk Graph](/images/pages/trades/03212016_amzn_bfly_risk_graph.png)](/images/pages/trades/03212016_amzn_bfly_risk_graph.png)
+[![AMZN - 2016-03-21 Unbalanced Butterfly Risk Graph](/images/pages/trades/03232016_amzn_bfly.png)](/images/pages/trades/03232016_amzn_bfly.png)
 
 **Opening:** *03-18-2016* - BOT CALENDAR **AAPL** 100 APR 16/APR1 16 110 CALL **@.44**<br/>
 **Closing:** *pending*
 
-[![AAPL - 2016-03-18 Calendar Risk Graph](/images/pages/trades/03182016_aapl_calendar_risk_graph.png)](/images/pages/trades/03182016_aapl_calendar_risk_graph.png)
+[![AAPL - 2016-03-18 Calendar Risk Graph](/images/pages/trades/03232016_aapl_calendar.png)](/images/pages/trades/03232016_aapl_calendar.png)

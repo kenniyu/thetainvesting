@@ -3,7 +3,7 @@ layout: post
 title: "Decision Point"
 date: 2016-03-22 20:38:00 -0700
 comments: true
-categories: [market recap, spx, djx, ndx, rut]
+categories: [market recap, trade idea, spx, djx, ndx, rut]
 ---
 
 Market stalls here.
@@ -45,7 +45,7 @@ Today we got filled on three trades:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ro" dir="ltr">SOLD VERTICAL <a href="https://twitter.com/search?q=%24VXX&amp;src=ctag">$VXX</a> 100 APR 16 17.5/15 PUT @.58</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/712352871283470336">March 22, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-These trades are now being logged in the [All Trades Page](/trades Trades) section of the site, so we'll continue monitoring these trades and managing as necessary. Updates will be posted on that page over time.
+These trades are now being logged in the [Trades page](/trades "Trades") section of the site, so we'll continue monitoring these trades and managing as necessary. Updates will be posted on that page over time.
 
 Potential trades for tomorrow:
 
@@ -77,4 +77,4 @@ I'm looking for a bit of a pullback from this big run that we've had. As GDX sta
 
 [![GDX Risk Graph - 2016-03-22 Daily Time Frame - Look Everywhere and Fail - Consolidation](/images/blog/03222016/gdx_risk_graph.png)](/images/blog/03222016/gdx_risk_graph.png)
 
-That's it for today. I'll be posting my trades [Follow @thetatrades on Twitter ](https://twitter.com/theta_positive "live on Twitter"), so follow me to get those real-time notifications.
+That's it for today. I'll be posting my trades [live on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter"), so follow me to get those real-time notifications.

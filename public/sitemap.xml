@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://kenniyu.github.io/blog/2016/03/23/an-edge-to-the-bears/</loc>
+<lastmod>2016-03-23T17:47:43-07:00</lastmod>
+</url>
+<url>
 <loc>http://kenniyu.github.io/blog/2016/03/22/decision-point/</loc>
 <lastmod>2016-03-22T20:38:00-07:00</lastmod>
 </url>
@@ -77,10 +81,10 @@
 <lastmod>2016-03-06T00:49:05-08:00</lastmod>
 </url>
 <url>
-<loc>http://kenniyu.github.io/blog/</loc>
+<loc>http://kenniyu.github.io/archives/</loc>
 </url>
 <url>
-<loc>http://kenniyu.github.io/archives/</loc>
+<loc>http://kenniyu.github.io/blog/</loc>
 </url>
 <url>
 <loc>http://kenniyu.github.io/blog/archives/</loc>
@@ -210,8 +214,5 @@
 </url>
 <url>
 <loc>http://kenniyu.github.io/blog/categories/amzn/</loc>
-</url>
-<url>
-<loc>http://kenniyu.github.io/posts/2/</loc>
 </url>
 </urlset>
