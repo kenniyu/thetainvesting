@@ -55,6 +55,6 @@ We had a nice pop from last week, and a nice rally for a whole month now. I thin
 
 Remember that the markets are closed on Friday.  
 
-If you haven't yet,  [follow me on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") - you can see all my trades in real-time as they fill.
+If you haven't yet, [follow me on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") - you can see all my trades in real-time as they fill.
 
 Trade safe, and trade small!
