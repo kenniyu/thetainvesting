@@ -3,16 +3,20 @@ layout: post
 title: "Bias Remains to the Upside Currently"
 date: 2016-03-26 17:38:12 -0700
 comments: true
-categories: [spx, rut, djx, ndx, /es]
+categories: [spx, rut, djx, ndx, /es, trade ideas, amzn, ewz, condor, strangle, diagonal]
 ---
 
 Remember this chart from last Friday?
 
 [![/ESM6 - 2016-03-18 Hourly Time Frame - Single Prints Separating Distributions as Weak Reference Points](/images/blog/03182016/esm6_thurs_fri.png)](/images/blog/03182016/esm6_thurs_fri.png)
 
-If you missed the explanation of what these reference points mean, [please take a look](https://twitter.com/theta_positive "/ES Weak Reference Points").
+If you missed the explanation of what these reference points mean, [please take a look](/blog/2016/03/18/the-most-dangerous-aspect-of-the-recent-rally/ "/ES Weak Reference Points").
 
-Prior to Thursday's action, I was thinking that perhaps this could be the turning point for the Bears to step in and take the market back lower. However, from Thursday's action, we came close to the 2012 level, and instead of taking out that weak reference point, we bounced off hard and the Bulls took the market back up to fill the gap between Wednesday and Thursday. So the way we edge lower has me thinking that we will test 2060 soon on the SPX and possibly take that out and move higher to about 2090.
+Prior to Thursday's action, I was thinking that perhaps this could be the turning point for the Bears to step in and take the market back lower. However, from Thursday's action:
+
+[![/ESM6 - 2016-03-18 Hourly Time Frame - Bias Continues to Upside](/images/blog/03262016/es_f.png)](/images/blog/03262016/es_f.png)
+
+We came close to the 2012 level, and instead of taking out that weak reference point, we bounced off hard and the Bulls took the market back up to fill the gap between Wednesday and Thursday. So the way we edge lower has me thinking that we will test 2060 soon on the SPX and possibly take that out and move higher to about 2090.
 
 At the same time, value built lower on Thursday because most of the time was spent trading around 2016 on the /ES. And while we did finish the day filling the gap, late day rallies (and selloffs) are usually suspect and unsustainable. So Bulls, don't get too excited here. Keep value in mind, and don't be fooled by price (don't fight it, either).
 
