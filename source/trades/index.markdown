@@ -26,20 +26,9 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 
 ***
 
-*Here's what happened today:*
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">SOLD <a href="https://twitter.com/search?q=%24GDX&amp;src=ctag">$GDX</a> 100 APR 16 18.5 PUT @.18 (position adjustment)</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/714883486922878976">March 29, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<h3 id="today">Here's what happened today:</h3>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">SOLD VERTICAL <a href="https://twitter.com/search?q=%24VXX&amp;src=ctag">$VXX</a> 100 (Weeklys) APR5 16 17/15 PUT @.47</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/714859544405409792">March 29, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">BOT BUTTERFLY <a href="https://twitter.com/search?q=%24AMZN&amp;src=ctag">$AMZN</a> 100 (Weeklys) APR2 16 605/615/630 CALL @.60</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/714837024440590336">March 29, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">SOLD CALENDAR <a href="https://twitter.com/search?q=%24AAPL&amp;src=ctag">$AAPL</a> 100 (Weeklys) APR2 16/APR1 16 110 CALL @.11 (adjustment: keeping the dream alive by rolling the short call out one week)</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/714812310590623744">March 29, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">SOLD 1/2 BACKRATIO <a href="https://twitter.com/search?q=%24LNKD&amp;src=ctag">$LNKD</a> 100 APR 16 104/101 PUT @.44</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/714811213260009472">March 29, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">SOLD VERTICAL <a href="https://twitter.com/search?q=%24PCLN&amp;src=ctag">$PCLN</a> 100 (Weeklys) APR5 16 1400/1410 CALL @1.50</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/715202664540209154">March 30, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ***
