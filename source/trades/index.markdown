@@ -28,7 +28,16 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 
 <h3 id="today">Here's what happened today:</h3>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">SOLD VERTICAL <a href="https://twitter.com/search?q=%24PCLN&amp;src=ctag">$PCLN</a> 100 (Weeklys) APR5 16 1400/1410 CALL @1.50</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/715202664540209154">March 30, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This should be interesting: BOT 1/3/2 ~BUTTERFLY <a href="https://twitter.com/search?q=%24AMZN&amp;src=ctag">$AMZN</a> 100 (Weeklys) APR1 16 595/600/605 CALL @.28</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/715629320052482048">March 31, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">SOLD BUTTERFLY AMZN 100 (Weeklys) APR2 16 605/615/630 CALL @.94</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/715607821786591232">March 31, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">BOT BUTTERFLY <a href="https://twitter.com/search?q=%24PCLN&amp;src=ctag">$PCLN</a> 100 (Weeklys) APR2 16 1240/1220/1195 PUT @.40</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/715547352979738624">March 31, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">For those with options on futures: SOLD 1/2 BACKRATIO /CLK6 1/1000 MAY 16 /LOK6 35/33.5 PUT @.03 <a href="https://t.co/jXQtqyFpsa">pic.twitter.com/jXQtqyFpsa</a></p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/715531256650276865">March 31, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ***
