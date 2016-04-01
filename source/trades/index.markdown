@@ -28,16 +28,10 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 
 <h3 id="today">Here's what happened today:</h3>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This should be interesting: BOT 1/3/2 ~BUTTERFLY <a href="https://twitter.com/search?q=%24AMZN&amp;src=ctag">$AMZN</a> 100 (Weeklys) APR1 16 595/600/605 CALL @.28</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/715629320052482048">March 31, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">BOT 1/2 BACKRATIO <a href="https://twitter.com/search?q=%24LNKD&amp;src=ctag">$LNKD</a> 100 APR 16 104/101 PUT @.04</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/715988382283907073">April 1, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">SOLD BUTTERFLY AMZN 100 (Weeklys) APR2 16 605/615/630 CALL @.94</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/715607821786591232">March 31, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">BOT BUTTERFLY <a href="https://twitter.com/search?q=%24PCLN&amp;src=ctag">$PCLN</a> 100 (Weeklys) APR2 16 1240/1220/1195 PUT @.40</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/715547352979738624">March 31, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">For those with options on futures: SOLD 1/2 BACKRATIO /CLK6 1/1000 MAY 16 /LOK6 35/33.5 PUT @.03 <a href="https://t.co/jXQtqyFpsa">pic.twitter.com/jXQtqyFpsa</a></p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/715531256650276865">March 31, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">SOLD 1/3/2 ~BUTTERFLY <a href="https://twitter.com/search?q=%24AMZN&amp;src=ctag">$AMZN</a> 100 (Weeklys) APR1 16 595/600/605 CALL @.81</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/715908232263241729">April 1, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ***
@@ -69,22 +63,6 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 
 
 [![VXX - 2016-03-31 Bull Put Vertical](/images/pages/trades/03312016_vxx_bull_put_vertical.png)](/images/pages/trades/03312016_vxx_bull_put_vertical.png)
-
-***
-
-<h3 id="LNKD">LNKD</h3>
-
-**Opening:** *03-29-2016* - SOLD 1/2 BACKRATIO **LNKD** 100 APR 16 104/101 PUT **@.44**
-
-**Closing:** *pending*
-
-**Notes:**
-
-- *03-29-2016* - Opened up this trade with the intention of having LNKD move down to around the 101 area. Will still be profitable if LNKD moves higher from here.
-- *03-30-2016* - No updates - this is currently a 92% probability of profit trade. For those that want to free up buying power, consider purchasing the 98 put to turn this backratio into a butterfly. Your maximum profit is then reduced by the cost of that 98 put, and you will turn this position into one with 100% probability of profit.
-- *03-31-2016* - Still holding as is. If market drops hard, this could fall near our short strikes. Big if.
-
-[![LNKD - 2016-03-31 1x2 Put Backratio](/images/pages/trades/03312016_lnkd_put_backratio.png)](/images/pages/trades/03312016_lnkd_put_backratio.png)
 
 ***
 
@@ -235,18 +213,6 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - *03-21-2016* - This is very far from our center, but we put this on for a credit so no problem here.
 - *03-30-2016* - No updates
 - *03-30-2016* - No updates. This is so far, will let it expire worthless if anything.
-
-[![AMZN - 2016-03-31 Unbalanced Butterfly Risk Graph](/images/pages/trades/03312016_amzn_bfly.png)](/images/pages/trades/03312016_amzn_bfly.png)
-
-**Opening:** *03-31-2016* - BOT 1/3/2 ~BUTTERFLY **AMZN** 100 (Weeklys) APR1 16 595/600/605 CALL **@.28**
-
-**Closing:** *pending*
-
-**Notes:**
-
-- *03-31-2016* - This is a one-day play. A pin at 600 would be nice.
-
-[![AMZN - 2016-03-31 Unbalanced Butterfly Risk Graph](/images/pages/trades/03312016_amzn_apr1_unbalanced_call_bfly.png)](/images/pages/trades/03312016_amzn_apr1_unbalanced_call_bfly.png)
 
 ***
 

@@ -14,9 +14,43 @@ All trades here are **closed** and have been posted real-time on <a href="https:
 
 To view opened trades, check out the [Trades](/trades "Ongoing Trades") page.
 
+All trades listed here assume smallest unit size (1 single, 1 vertical, 1 butterfly, etc...)
+
 ***
 
-<h3 id="AMZN">AMZN</h3>
+<h3 id="LNKD-20160329-20160331">LNKD</h3>
+
+**Opening:** *03-29-2016* - SOLD 1 / 2 BACKRATIO **LNKD** 100 APR 16 104/101 PUT **@.44**
+
+**Closing:** *03-31-2016* - BOT 1 / 2 BACKRATIO **LNKD** 100 APR 16 104/101 PUT **@.04**
+
+**P/L**: **+.40**
+
+**Notes:**
+
+- *03-29-2016* - Opened up this trade with the intention of having LNKD move down to around the 101 area. Will still be profitable if LNKD moves higher from here.
+- *03-30-2016* - No updates - this is currently a 92% probability of profit trade. For those that want to free up buying power, consider purchasing the 98 put to turn this backratio into a butterfly. Your maximum profit is then reduced by the cost of that 98 put, and you will turn this position into one with 100% probability of profit.
+- *03-31-2016* - Still holding as is. If market drops hard, this could fall near our short strikes. Big if.
+- *04-01-2016* - Closed up this trade and just booking the winner.
+
+***
+
+<h3 id="AMZN-20160331-20160401">AMZN</h3>
+
+**Opening:** *03-31-2016* - BOT 1/3/2 ~BUTTERFLY **AMZN** 100 (Weeklys) APR1 16 595/600/605 CALL **@.28**
+
+**Closing:** *04-01-2016* - SOLD 1/3/2 ~BUTTERFLY **AMZN** 100 (Weeklys) APR1 16 595/600/605 CALL **@.81**
+
+**P/L**: **+.53**
+
+**Notes:**
+
+- *03-31-2016* - This is a one-day play. A pin at 600 would be nice.
+- *04-01-2016* - Booking a quick winner.
+
+***
+
+<h3 id="AMZN-20160329-20160331">AMZN</h3>
 
 **Opening:** *03-29-2016* - BOT BUTTERFLY **AMZN** 100 (Weeklys) APR2 16 605/615/630 CALL **@.60**
 
@@ -32,7 +66,7 @@ To view opened trades, check out the [Trades](/trades "Ongoing Trades") page.
 
 ***
 
-<h3 id="PCLN">PCLN</h3>
+<h3 id="PCLN-20160322-20160328">PCLN</h3>
 
 **Opening:** *03-22-2016* - SOLD VERTICAL **PCLN** 100 APR 16 1375/1380 CALL **@1.25**
 
@@ -46,7 +80,7 @@ To view opened trades, check out the [Trades](/trades "Ongoing Trades") page.
 
 ***
 
-<h3 id="VXX-20160324">VXX</h3>
+<h3 id="VXX-20160322-20160324">VXX</h3>
 
 **Opening:** *03-22-2016* - SOLD VERTICAL **VXX** 100 APR 16 17.5/15 PUT **@.58**
 
