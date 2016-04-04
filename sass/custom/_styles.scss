@@ -20,6 +20,15 @@
   }
 }
 
+.pl {
+  &.loss {
+    color: red;
+  }
+  &.profit {
+    color: rgb(8, 160, 23);
+  }
+}
+
 .footer-ad {
   margin: 20px 0;
 }

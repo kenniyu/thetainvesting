@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://kenniyu.github.io/blog/2016/04/03/potential-upside-plays/</loc>
+<lastmod>2016-04-03T21:34:10-07:00</lastmod>
+</url>
+<url>
+<loc>http://kenniyu.github.io/blog/2016/04/02/bullish-into-next-week/</loc>
+<lastmod>2016-04-02T11:29:57-07:00</lastmod>
+</url>
+<url>
 <loc>http://kenniyu.github.io/blog/2016/03/31/important-weak-reference-points/</loc>
 <lastmod>2016-03-31T21:36:53-07:00</lastmod>
 </url>
@@ -255,5 +263,14 @@
 </url>
 <url>
 <loc>http://kenniyu.github.io/blog/categories/backratio/</loc>
+</url>
+<url>
+<loc>http://kenniyu.github.io/blog/categories/weak-sellers/</loc>
+</url>
+<url>
+<loc>http://kenniyu.github.io/blog/categories/spy/</loc>
+</url>
+<url>
+<loc>http://kenniyu.github.io/blog/categories/gs/</loc>
 </url>
 </urlset>

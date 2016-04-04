@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: spy | theta trades]]></title>
+  <link href="http://kenniyu.github.io/blog/categories/spy/atom.xml" rel="self"/>
+  <link href="http://kenniyu.github.io/"/>
+  <updated>2016-04-03T22:10:51-07:00</updated>
+  <id>http://kenniyu.github.io/</id>
+  <author>
+    <name><![CDATA[theta]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Potential Upside Plays]]></title>
+    <link href="http://kenniyu.github.io/blog/2016/04/03/potential-upside-plays/"/>
+    <updated>2016-04-03T21:34:10-07:00</updated>
+    <id>http://kenniyu.github.io/blog/2016/04/03/potential-upside-plays</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve been looking at a couple of trade setups given the bullish follow-through I&rsquo;m expecting this coming week and the lack of bearishness out there.</p>
+
+<p>First is GS:</p>
+
+<p><a href="/images/blog/04032016/gs.png"><img src="/images/blog/04032016/gs.png" alt="GS - 2016-04-03 - Daily - Trendline Resistance" /></a></p>
+
+<p>We&rsquo;ve currently put in a rounded-bottom / inverted head-and-shoulders pattern, and on Friday it appears that we&rsquo;re just breaking out of that right shoulder. If we continue to see bullishness, GS has room to run up to the trendline resistance. This should bring us to about 177 by the time of their earnings. As I&rsquo;m expecting a short term run up, this could make for a (slightly aggressive) potential options play:</p>
+
+<p><a href="/images/blog/04032016/gs_risk_reversal.png"><img src="/images/blog/04032016/gs_risk_reversal.png" alt="GS - 2016-04-03 - Bull Call Spread Financed by Put Backratio" /></a></p>
+
+<p>We&rsquo;ll buy a slightly OOM call vertical and finance it by selling a put backratio with 11 days to go. We&rsquo;re currently getting a credit for this, but of course this will have to be priced again on Monday.</p>
+
+<p>For those that are a bit more conservative and would like more room for error in case we do have a downside move, consider a longer term play that <em>includes</em> the earnings cycle:</p>
+
+<p><a href="/images/blog/04032016/gs_batman.png"><img src="/images/blog/04032016/gs_batman.png" alt="GS - 2016-04-03 - Put Backratio With Call Backratio" /></a></p>
+
+<p>Your range of profit potential is wide, with the peaks denoting the max profits (about $500 per spread). With pretty wide breakevens, and the fact that GS doesn&rsquo;t usually move much from earnings, this is a safer approach that could help you profit from either a move up to the 175 area which is near the trendline resistance, or down to the 140 area which is near prior support levels. I personally like this trade more, as we have duration to help us out, too, in case we&rsquo;re wrong on direction.</p>
+
+<p>Another idea is the SPY:</p>
+
+<p><a href="/images/blog/04032016/spy_diagonal.png"><img src="/images/blog/04032016/spy_diagonal.png" alt="SPY - 2016-04-03 - Diagonal Call Spread" /></a></p>
+
+<p>This is not a short term trade, but one that has a wide breakeven as well by expiration. If you don&rsquo;t expect the SPY to move past 211 by the next few weeks, or if you expect it to slowly grind higher, a cheap diagonal here could be the play.</p>
+
+<p>These are just a couple of ideas that I&rsquo;m looking to put on for Monday - they may be adjusted slightly depending on how the market opens on Monday and where things are priced. I will tweet out the exact trade that I put on in real time, though. Make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> and turn on notifications from me to get my posts in real time (no I don&rsquo;t post pictures of cats or food - no spam, just trades only).</p>
+
+<p>That&rsquo;s it for now - good luck, and let&rsquo;s have another week of good trading.</p>
+]]></content>
+  </entry>
+  
+</feed>

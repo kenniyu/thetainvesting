@@ -18,13 +18,31 @@ All trades listed here assume smallest unit size (1 single, 1 vertical, 1 butter
 
 ***
 
+<h3 id="PCLN-20160328-20160401">PCLN</h3>
+
+**Opening:** *03-28-2016* - BOT BUTTERFLY **PCLN** 100 (Weeklys) APR1 16 1230/1220/1205 PUT **@.15**
+
+**Closing:** *04-01-2016* - Expired worthless
+
+**P/L**: <span class="pl loss">**-.15**</span>
+
+**Notes:**
+
+- *03-28-2016* - Using the premium we collected from our winning PCLN trade to finance this lotto play.
+- *03-29-2016* - Most likely going to be a full (.15 db) loser - no adjustment necessary
+- *03-30-2016* - No updates - will hold til expiration
+- *03-31-2016* - Expiration tomorrow. If selling this out beats the commissions, I'll probably do so.
+- *04-01-2016* - Just let this one expire worthless
+
+***
+
 <h3 id="LNKD-20160329-20160331">LNKD</h3>
 
 **Opening:** *03-29-2016* - SOLD 1 / 2 BACKRATIO **LNKD** 100 APR 16 104/101 PUT **@.44**
 
 **Closing:** *03-31-2016* - BOT 1 / 2 BACKRATIO **LNKD** 100 APR 16 104/101 PUT **@.04**
 
-**P/L**: **+.40**
+**P/L**: <span class="pl profit">**+.40**</span>
 
 **Notes:**
 
@@ -41,7 +59,7 @@ All trades listed here assume smallest unit size (1 single, 1 vertical, 1 butter
 
 **Closing:** *04-01-2016* - SOLD 1/3/2 ~BUTTERFLY **AMZN** 100 (Weeklys) APR1 16 595/600/605 CALL **@.81**
 
-**P/L**: **+.53**
+**P/L**: <span class="pl profit">**+.53**</span>
 
 **Notes:**
 
@@ -56,7 +74,7 @@ All trades listed here assume smallest unit size (1 single, 1 vertical, 1 butter
 
 **Closing:** *03-31-2016* - SOLD BUTTERFLY **AMZN** 100 (Weeklys) APR2 16 605/615/630 CALL **@.94**
 
-**P/L**: **+.34**
+**P/L**: <span class="pl profit">**+.34**</span>
 
 **Notes:**
 
@@ -72,7 +90,7 @@ All trades listed here assume smallest unit size (1 single, 1 vertical, 1 butter
 
 **Closing:** *03-28-2016* - BOT VERTICAL **PCLN** 100 APR 16 1375/1380 CALL **@.48**
 
-**P/L**: **+.77**
+**P/L**: <span class="pl profit">**+.77**</span>
 
 **Notes:**
 
@@ -86,7 +104,7 @@ All trades listed here assume smallest unit size (1 single, 1 vertical, 1 butter
 
 **Closing:** *03-24-2016* - BOT **VXX** 100 APR 16 17.5 PUT **@.21**
 
-**P/L**: **+.36**
+**P/L**: <span class="pl profit">**+.36**</span>
 
 **Notes:**
 
