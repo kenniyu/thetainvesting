@@ -45,6 +45,7 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 **Notes:**
 
 - *04-04-2016* - Selling some premium here with a bearish bias
+- *04-05-2016* - We continue to hold
 
 [![XLE - 2016-04-05 Strangle With Bear Put Spread](/images/pages/trades/04052016_xle_strangle_bear_put_vertical.png)](/images/pages/trades/04052016_xle_strangle_bear_put_vertical.png)
 
@@ -136,7 +137,7 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - *04-04-2016* - No updates - we continue to hold
 - *04-05-2016* - No updates - we continue to hold as it looks like it may just continue rolling over
 
-[![FXI - 2016-04-01 Super Bear Risk Graph](/images/pages/trades/04052016_fxi_super_bear.png)](/images/pages/trades/04052016_fxi_super_bear.png)
+[![FXI - 2016-04-05 Super Bear Risk Graph](/images/pages/trades/04052016_fxi_super_bear.png)](/images/pages/trades/04052016_fxi_super_bear.png)
 
 ***
 
@@ -160,7 +161,7 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - *04-04-2016* - Looking for a bit more of a downmove - we continue to hold
 - *04-05-2016* - Selling another 18.5 put here. We want GDX to move down here anyway and we don't have much time left.
 
-[![GDX - 2016-04-01 Strangle & Bear Put Vertical](/images/pages/trades/04052016_gdx_strangle_bear_put_vertical.png)](/images/pages/trades/04052016_gdx_strangle_bear_put_vertical.png)
+[![GDX - 2016-04-05 Strangle & Bear Put Vertical](/images/pages/trades/04052016_gdx_strangle_bear_put_vertical.png)](/images/pages/trades/04052016_gdx_strangle_bear_put_vertical.png)
 
 ***
 
@@ -181,7 +182,7 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - *04-04-2016* - We turned this into an IC today - just hedging the call spread
 - *04-05-2016* - Looking terrible. This just rallies harder every day, but will continue holding for now
 
-[![TSLA - 2016-04-01 Vertical Call Risk Graph](/images/pages/trades/04052016_tsla_iron_condor.png)](/images/pages/trades/04052016_tsla_iron_condor.png)
+[![TSLA - 2016-04-05 Vertical Call Risk Graph](/images/pages/trades/04052016_tsla_iron_condor.png)](/images/pages/trades/04052016_tsla_iron_condor.png)
 
 ***
 
