@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[theta trades]]></title>
+  <title><![CDATA[ThetaTrades]]></title>
   <link href="http://kenniyu.github.io/atom.xml" rel="self"/>
   <link href="http://kenniyu.github.io/"/>
-  <updated>2016-04-03T22:10:51-07:00</updated>
+  <updated>2016-04-05T13:51:56-07:00</updated>
   <id>http://kenniyu.github.io/</id>
   <author>
     <name><![CDATA[theta]]></name>
@@ -12,6 +12,55 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Monitoring for Continuation]]></title>
+    <link href="http://kenniyu.github.io/blog/2016/04/04/monitoring-for-continuation/"/>
+    <updated>2016-04-04T20:26:18-07:00</updated>
+    <id>http://kenniyu.github.io/blog/2016/04/04/monitoring-for-continuation</id>
+    <content type="html"><![CDATA[<p>Today&rsquo;s action is just balancing after a trending move. For me to consider this bearish, I&rsquo;d want to see 2033.5 on the /ES get taken out. I&rsquo;d like to see value move lower as well. Also, the highs from the overnight session usually don&rsquo;t mark the end of up-moves, so expect 2071.5 to be revisited sometime soon, and if it doesn&rsquo;t, carry that information forward.</p>
+
+<p>Here&rsquo;s the SPX:</p>
+
+<p><a href="http://kenniyu.github.io/images/blog/04042016/spx.png"><img src="http://kenniyu.github.io/images/blog/04042016/spx.png" alt="SPX - 2016-04-04 - Daily - Consolidation Above Trendline Support" /></a></p>
+
+<p>I&rsquo;m looking for this to hold up at the trendline support. A failure to remain above it is an edge to the Bears.</p>
+
+<p>Here&rsquo;s the DJX:</p>
+
+<p><a href="http://kenniyu.github.io/images/blog/04042016/djx.png"><img src="http://kenniyu.github.io/images/blog/04042016/djx.png" alt="DJX - 2016-04-04 - Daily - Consolidation" /></a></p>
+
+<p>I&rsquo;m also looking for this to hold up at the trendline support.</p>
+
+<p>Here&rsquo;s the NDX:</p>
+
+<p><a href="http://kenniyu.github.io/images/blog/04042016/ndx.png"><img src="http://kenniyu.github.io/images/blog/04042016/ndx.png" alt="NDX - 2016-04-04 - Daily - Consolidation" /></a></p>
+
+<p>Looks like a pause before a continuation higher.</p>
+
+<p>Here&rsquo;s the RUT:</p>
+
+<p><a href="http://kenniyu.github.io/images/blog/04042016/rut.png"><img src="http://kenniyu.github.io/images/blog/04042016/rut.png" alt="RUT - 2016-04-04 - Daily - 61.8% Fib Level" /></a></p>
+
+<p>This is a bit more interesting. Still holding above the 61.8 Fib level and may just slowly grind around here until it touches the trendline resistance.</p>
+
+<p>For those looking for a bearish play, I&rsquo;ve been looking at CMG. We have a trendline support coming up on the weekly:</p>
+
+<p><a href="http://kenniyu.github.io/images/blog/04042016/cmg_weekly.png"><img src="http://kenniyu.github.io/images/blog/04042016/cmg_weekly.png" alt="CMG - 2016-04-04 - Weekly" /></a></p>
+
+<p>As well as a revisit of the prior lows at 400 on the daily:</p>
+
+<p><a href="http://kenniyu.github.io/images/blog/04042016/cmg.png"><img src="http://kenniyu.github.io/images/blog/04042016/cmg.png" alt="CMG - 2016-04-04 - Daily" /></a></p>
+
+<p>I&rsquo;m looking to place a small butterfly to capture a move down into the 400 area:</p>
+
+<p><a href="http://kenniyu.github.io/images/blog/04042016/cmg_risk_graph.png"><img src="http://kenniyu.github.io/images/blog/04042016/cmg_risk_graph.png" alt="CMG - 2016-04-04 - Risk Graph" /></a></p>
+
+<p>I&rsquo;ll be tweeting out my entry on this trade depending on how it&rsquo;s priced, so make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> <em>and</em> turn on notifications from my profile (on mobile - hit the settings gear on my profile and then select &ldquo;Turn On Notifications&rdquo;). You&rsquo;ll receive push notifications for all of my tweets.</p>
+
+<p>Good luck in the markets tomorrow!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Potential Upside Plays]]></title>
@@ -861,53 +910,6 @@
 <p>This will need to be price-discovered again on Monday. If the credit is still good, and if the SPX looks like it&rsquo;s going to be slowly grinding higher, I would put this trade on.</p>
 
 <p>That&rsquo;s it for now. Enjoy the weekend everyone.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Further Upside Expected]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/03/11/further-upside-expected/"/>
-    <updated>2016-03-11T18:45:36-08:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/03/11/further-upside-expected</id>
-    <content type="html"><![CDATA[<p>I&rsquo;m expecting further upside in the market.</p>
-
-<p>Yesterday after the ECB announcement, traders attempted to push the market lower but were unable to do so. We looked below balance, failed, made a poor low, and then came back into balance. Then this morning, we gapped up, but with the internals so strong, no chance of a gap fade play was available, and we continued to ratchet higher.</p>
-
-<p>This is a very bullish signal, regardless of how overbought the conditions are. Here&rsquo;s the current SPX chart:</p>
-
-<p><a href="http://kenniyu.github.io/images/blog/03112016/spx_daily.png"><img src="http://kenniyu.github.io/images/blog/03112016/spx_daily.png" alt="SPX - 2016-03-11 Daily Time Frame - Fibonacci Retracement, Trendline Resistance, Range Extension" /></a></p>
-
-<p>For those that took a bullish stance on the market during that time, congratulations. In the first SPX chart that I posted a couple of weeks back, I outlined the potential range extension we could see as possible target areas (via the pink rectangles). This week, not only did we break the 61.8% fib level, but we&rsquo;ve also broken the trendline resistance connected by the tops of November and December 2015. I believe we&rsquo;re headed to 2060. So if you&rsquo;re long, continue to hold that position.</p>
-
-<p>Zooming out and taking a look at the market on the weekly:</p>
-
-<p><a href="http://kenniyu.github.io/images/blog/03112016/spx_weekly.png"><img src="http://kenniyu.github.io/images/blog/03112016/spx_weekly.png" alt="SPX - 2016-03-11 Weekly Time Frame - Fibonacci Retracement, Trendline Resistance, Range Extension, Bottoming-Tail Hammer" /></a></p>
-
-<p>Notice the bottoming tail hammer that formed. I count many weekly bars from before that ended with a higher close the following week.</p>
-
-<p>The same bullishness can be seen in the Dow:</p>
-
-<p><a href="http://kenniyu.github.io/images/blog/03112016/djx.png"><img src="http://kenniyu.github.io/images/blog/03112016/djx.png" alt="DJX - 2016-03-11 Daily Time Frame - Fibonacci Retracement, Trendline Resistance" /></a></p>
-
-<p>We&rsquo;re approaching the trendline resistance here as well. Look for a short there. As a side note, DJX has also put in a bottoming-tail hammer on the weekly chart.</p>
-
-<p>For the NDX:</p>
-
-<p><a href="http://kenniyu.github.io/images/blog/03112016/ndx.png"><img src="http://kenniyu.github.io/images/blog/03112016/ndx.png" alt="NDX - 2016-03-11 Daily Time Frame - Fibonacci Retracement" /></a></p>
-
-<p>A little bit weaker here, as we have not tagged the 61.8% fib level, yet. Still, this has also put in a bottoming-tail hammer on the weekly chart.</p>
-
-<p>Finally the RUT:</p>
-
-<p><a href="http://kenniyu.github.io/images/blog/03112016/rut.png"><img src="http://kenniyu.github.io/images/blog/03112016/rut.png" alt="RUT - 2016-03-11 Daily Time Frame - Fibonacci Retracement, Trendline Resistance" /></a></p>
-
-<p>Though it exhibited a lot of weakness a couple of days ago, keep in mind it has come off really high from the lows. It looks like it&rsquo;ll break that trendline resistance, and if it does, that&rsquo;ll suggest more short-covering to come.</p>
-
-<p>That about wraps it up for the week going on to next week. I&rsquo;d just like to finish with another note:</p>
-
-<p>I&rsquo;m not bullish on the market - I think the fundamentals are complete garbage, and I think we&rsquo;ll see a crash like we&rsquo;ve never seen before. However, I can&rsquo;t let my biases blind me from seeing the opportunities out there. Instead of falling prey to cognitive dissonance, we can separate our bias and take advantage of these opportunities as they come.</p>
-
-<p>Enjoy the weekend, and good luck to everyone, bull or bear.</p>
 ]]></content>
   </entry>
   

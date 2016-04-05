@@ -18,6 +18,23 @@ All trades listed here assume smallest unit size (1 single, 1 vertical, 1 butter
 
 ***
 
+<h3 id="PCLN-20160329-20160405">PCLN</h3>
+
+**Opening:** *03-29-2016* - SOLD VERTICAL **PCLN** 100 (Weeklys) APR5 16 1400/1410 CALL **@1.50**
+
+**Closing:** *04-05-2016* - BOT VERTICAL **PCLN** 100 (Weeklys) APR5 16 1400/1410 CALL **@.48**
+
+**P/L**: <span class="pl profit">**+.92**</span>
+
+**Notes:**
+
+- *03-30-2016* - Fading the recent up-moves again
+- *04-01-2016* - No updates - we continue to hold
+- *04-04-2016* - Totally missed the ball on this today - will take off tomorrow for a decent profit
+- *04-05-2016* - We're booking a nice winner here. Not bad in 4 trading days.
+
+***
+
 <h3 id="PCLN-20160328-20160401">PCLN</h3>
 
 **Opening:** *03-28-2016* - BOT BUTTERFLY **PCLN** 100 (Weeklys) APR1 16 1230/1220/1205 PUT **@.15**

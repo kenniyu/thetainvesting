@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: cmg | theta trades]]></title>
+  <title><![CDATA[Category: cmg | ThetaTrades]]></title>
   <link href="http://kenniyu.github.io/blog/categories/cmg/atom.xml" rel="self"/>
   <link href="http://kenniyu.github.io/"/>
-  <updated>2016-04-03T22:10:51-07:00</updated>
+  <updated>2016-04-05T13:51:56-07:00</updated>
   <id>http://kenniyu.github.io/</id>
   <author>
     <name><![CDATA[theta]]></name>
@@ -12,6 +12,55 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Monitoring for Continuation]]></title>
+    <link href="http://kenniyu.github.io/blog/2016/04/04/monitoring-for-continuation/"/>
+    <updated>2016-04-04T20:26:18-07:00</updated>
+    <id>http://kenniyu.github.io/blog/2016/04/04/monitoring-for-continuation</id>
+    <content type="html"><![CDATA[<p>Today&rsquo;s action is just balancing after a trending move. For me to consider this bearish, I&rsquo;d want to see 2033.5 on the /ES get taken out. I&rsquo;d like to see value move lower as well. Also, the highs from the overnight session usually don&rsquo;t mark the end of up-moves, so expect 2071.5 to be revisited sometime soon, and if it doesn&rsquo;t, carry that information forward.</p>
+
+<p>Here&rsquo;s the SPX:</p>
+
+<p><a href="/images/blog/04042016/spx.png"><img src="/images/blog/04042016/spx.png" alt="SPX - 2016-04-04 - Daily - Consolidation Above Trendline Support" /></a></p>
+
+<p>I&rsquo;m looking for this to hold up at the trendline support. A failure to remain above it is an edge to the Bears.</p>
+
+<p>Here&rsquo;s the DJX:</p>
+
+<p><a href="/images/blog/04042016/djx.png"><img src="/images/blog/04042016/djx.png" alt="DJX - 2016-04-04 - Daily - Consolidation" /></a></p>
+
+<p>I&rsquo;m also looking for this to hold up at the trendline support.</p>
+
+<p>Here&rsquo;s the NDX:</p>
+
+<p><a href="/images/blog/04042016/ndx.png"><img src="/images/blog/04042016/ndx.png" alt="NDX - 2016-04-04 - Daily - Consolidation" /></a></p>
+
+<p>Looks like a pause before a continuation higher.</p>
+
+<p>Here&rsquo;s the RUT:</p>
+
+<p><a href="/images/blog/04042016/rut.png"><img src="/images/blog/04042016/rut.png" alt="RUT - 2016-04-04 - Daily - 61.8% Fib Level" /></a></p>
+
+<p>This is a bit more interesting. Still holding above the 61.8 Fib level and may just slowly grind around here until it touches the trendline resistance.</p>
+
+<p>For those looking for a bearish play, I&rsquo;ve been looking at CMG. We have a trendline support coming up on the weekly:</p>
+
+<p><a href="/images/blog/04042016/cmg_weekly.png"><img src="/images/blog/04042016/cmg_weekly.png" alt="CMG - 2016-04-04 - Weekly" /></a></p>
+
+<p>As well as a revisit of the prior lows at 400 on the daily:</p>
+
+<p><a href="/images/blog/04042016/cmg.png"><img src="/images/blog/04042016/cmg.png" alt="CMG - 2016-04-04 - Daily" /></a></p>
+
+<p>I&rsquo;m looking to place a small butterfly to capture a move down into the 400 area:</p>
+
+<p><a href="/images/blog/04042016/cmg_risk_graph.png"><img src="/images/blog/04042016/cmg_risk_graph.png" alt="CMG - 2016-04-04 - Risk Graph" /></a></p>
+
+<p>I&rsquo;ll be tweeting out my entry on this trade depending on how it&rsquo;s priced, so make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> <em>and</em> turn on notifications from my profile (on mobile - hit the settings gear on my profile and then select &ldquo;Turn On Notifications&rdquo;). You&rsquo;ll receive push notifications for all of my tweets.</p>
+
+<p>Good luck in the markets tomorrow!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Sideways Until ECB]]></title>
