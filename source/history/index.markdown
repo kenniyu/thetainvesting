@@ -18,6 +18,49 @@ All trades listed here assume smallest unit size (1 single, 1 vertical, 1 butter
 
 ***
 
+<h3 id="PCLN">PCLN</h3>
+
+**Opening:** *03-31-2016* - BOT BUTTERFLY **PCLN** 100 (Weeklys) APR2 16 1240/1220/1195 PUT **@.40**
+
+**Closing:** *04-08-2016* - Expired worthless
+
+**P/L**: <span class="pl loss">**-.40**</span>
+
+**Notes:**
+
+- *03-31-2016* - One week play targeting 1220. A slow grind down there would be nice.
+- *04-01-2016* - No updates - we continue to hold
+- *04-04-2016* - No updates - we continue to hold. Looks on track to head to 1240.
+- *04-05-2016* - No updates - we continue to hold. This turned around after an upgrade today.
+- *04-06-2016* - Ran the other direction, but we continue to hold
+- *04-07-2016* - Continue to hold, will let expire worthless
+- *04-08-2016* - Expired worthless
+
+***
+
+<h3 id="AAPL-20160328-20160405">AAPL</h3>
+
+**Opening:** *03-18-2016* - BOT CALENDAR **AAPL** 100 APR 16/APR1 16 110 CALL **@.44**
+
+**Adjustment:** *03-29-2016* - SOLD CALENDAR **AAPL** 100 (Weeklys) APR2 16/APR1 16 110 CALL **@.11**
+
+**Closing:** *04-06-2016* - SOLD CALENDAR **AAPL** 100 APR 16/APR2 16 110 CALL **@.71**
+
+**P/L**: <span class="pl profit">**+.16**</span>
+
+**Notes:**
+
+- *03-28-2016* - We're at a tiny loss here, but perhaps a Hail Mary run higher this week will save us
+- *03-29-2016* - Adjustment: keeping the dream alive by rolling the short call out one week
+- *03-30-2016* - No updates here. Will continue waiting for more theta decay and watch for AAPL to hover near 110.
+- *03-31-2016* - We got 1 more week here - still holding
+- *04-01-2016* - Still holding - this should be interesting come Monday
+- *04-04-2016* - No updates - we continue to hold. Looking for 110 this week
+- *04-05-2016* - Starting to get interesting here. Still holding for more decay around 110.
+- *04-06-2016* - Picked up more theta-drain before closing this out - didn't like the strong close. This may run up higher by Friday.
+
+***
+
 <h3 id="PCLN-20160329-20160405">PCLN</h3>
 
 **Opening:** *03-29-2016* - SOLD VERTICAL **PCLN** 100 (Weeklys) APR5 16 1400/1410 CALL **@1.50**
