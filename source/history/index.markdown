@@ -18,6 +18,27 @@ All trades listed here assume smallest unit size (1 single, 1 vertical, 1 butter
 
 ***
 
+***
+
+<h3 id="CMG">CMG</h3>
+
+**Opening:** *04-06-2016* - BOT CALENDAR **CMG** 100 (Weeklys) APR4 16/APR 16 420 PUT **@1.30**
+
+**Closing:** *04-12-2016* - SOLD CALENDAR **CMG** 100 (Weeklys) APR4 16/APR 16 420 PUT **@1.93**
+
+**P/L**: <span class="pl profit">**+.63**</span>
+
+**Notes:**
+
+- *04-06-2016* - Opening with a slight bearish bias
+- *04-07-2016* - Acted right today in our direction. Continue to hold
+- *04-08-2016* - Just stalling here. We'll hold and see what next week brings. And we need to keep a close eye on this - the debit on this was a bit large.
+- *04-11-2016* - Moved down today in our direction - holding on
+- *04-12-2016* - Managing winner here - if multiple contracts, peel off gradually for rest of the week
+
+
+***
+
 <h3 id="PCLN">PCLN</h3>
 
 **Opening:** *03-31-2016* - BOT BUTTERFLY **PCLN** 100 (Weeklys) APR2 16 1240/1220/1195 PUT **@.40**

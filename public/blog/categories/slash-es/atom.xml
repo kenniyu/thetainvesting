@@ -4,7 +4,7 @@
   <title><![CDATA[Category: /es | ThetaTrades]]></title>
   <link href="http://kenniyu.github.io/blog/categories/slash-es/atom.xml" rel="self"/>
   <link href="http://kenniyu.github.io/"/>
-  <updated>2016-04-08T14:12:21-07:00</updated>
+  <updated>2016-04-13T18:13:56-07:00</updated>
   <id>http://kenniyu.github.io/</id>
   <author>
     <name><![CDATA[theta]]></name>
@@ -12,6 +12,68 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Still in Balance]]></title>
+    <link href="http://kenniyu.github.io/blog/2016/04/11/still-in-balance/"/>
+    <updated>2016-04-11T20:31:30-07:00</updated>
+    <id>http://kenniyu.github.io/blog/2016/04/11/still-in-balance</id>
+    <content type="html"><![CDATA[<p>We had another late-day selloff. Don&rsquo;t be surprised if we gap up tomorrow morning as we have been doing so much these past couple of weeks.</p>
+
+<p><a href="/images/blog/04112016/esm6_15d.png"><img src="/images/blog/04112016/esm6_15d.png" alt="/ESM6 - 2016-04-11 - Market Profile - 15d" /></a></p>
+
+<p>We&rsquo;re still trading within the balance area between 2012.25 and 2067, so things still look neutral to me. The next, intermediate downside reference point is 2026. If we can build value near that area (remember 2025 is the POC from the Janet Yellen day - this is the day with the three blue distributions), then I&rsquo;d give the edge to the Bears. Until then, bias remains neutral, but be ready because those reference points below us are weak, as can be seen in the 20-day chart:</p>
+
+<p><a href="/images/blog/04112016/esm6_20d.png"><img src="/images/blog/04112016/esm6_20d.png" alt="/ESM6 - 2016-04-11 - Market Profile - 20d - Weak Reference Points" /></a></p>
+
+<p>That&rsquo;s it for today - I&rsquo;ll be posting/adjusting more trades tomorrow, so be sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> to get all of my updates in real time.</p>
+
+<p>Good luck in the markets tomorrow!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Preparing for a Breakout]]></title>
+    <link href="http://kenniyu.github.io/blog/2016/04/09/preparing-for-a-breakout/"/>
+    <updated>2016-04-09T13:26:26-07:00</updated>
+    <id>http://kenniyu.github.io/blog/2016/04/09/preparing-for-a-breakout</id>
+    <content type="html"><![CDATA[<p>This market has been consolidating in a big balance area for a while now, with the volume POC for the past 15 days at around the 2040.75 level in the /ES:</p>
+
+<p><a href="/images/blog/04092016/esm6.png"><img src="/images/blog/04092016/esm6.png" alt="/ESM6 - 2016-04-09 - Market Profile" /></a></p>
+
+<p>The composite doesn&rsquo;t look quite skewed in any direction, so I would say we&rsquo;re right in the middle of this entire balance area between 2012 and 2067.</p>
+
+<p>Keep in mind 2012 goes back to a spike high from March 16 (refer to <a href="/blog/2016/03/18/the-most-dangerous-aspect-of-the-recent-rally/" title="Weak Reference Points">this post for more info</a> ), as well as a <em>close</em> touch of that point back in March 24. Keep this weak reference point in mind going forward.</p>
+
+<p>Short term traders continue to be the dominant players here, getting themselves overly long or overly short. Until we see some bigger players come into play and break us out of balance, assume that we trade within the denoted range.</p>
+
+<p>Overall, momentum in the board market indices does look like it is slowing and rounding off. My bias here is still neutral, and with such low IV, it doesn&rsquo;t make sense to be selling premium. If you have a directional bias and you&rsquo;re bearish, selling calls might not be a bad idea. Personally, I&rsquo;d want to be buying cheap OOM calendar spreads.</p>
+
+<p>We haven&rsquo;t really traded options on the indices in a while, but here&rsquo;s a trade idea on the SPY utilizing an OOM put calendar:</p>
+
+<p><a href="/images/blog/04092016/spy_put_calendar.png"><img src="/images/blog/04092016/spy_put_calendar.png" alt="SPY - 2016-04-09 - Put Calendar Risk Graph" /></a></p>
+
+<p>We&rsquo;d like SPY to trade between 190 and 202 by expiration. Adjust strikes as necessary. If you want to collect a credit, you can think about moving the nearer term strike higher.</p>
+
+<p>A simple call credit spread on the SPY is also not a bad idea. I may be looking to put some on this coming week, depending on conditions.</p>
+
+<p>I&rsquo;m also thinking about a Bullish play on AMZN:</p>
+
+<p><a href="/images/blog/04092016/amzn.png"><img src="/images/blog/04092016/amzn.png" alt="AMZN - 2016-04-09 - Daily - Sitting at Horizontal Support" /></a></p>
+
+<p>AMZN is holding up at the horizontal support level and the upward trendline support level. One of the things I&rsquo;m looking to do is put on a call condor on AMZN that includes the earnings cycle, obviously as an earnings play. I&rsquo;ll also be looking to finance this condor by selling put spreads beneath trendline support for the weeks prior to earnings, as long as the market continues to stay in balance. The reason I&rsquo;m thinking about putting on this trade is that if the market does continue to stay in balance or climb higher, AMZN usually won&rsquo;t sell off and may even climb higher as well into earnings.</p>
+
+<p>Currently the APR5 660/670/690/700 call condor is being priced in for about .89 debit:</p>
+
+<p><a href="/images/blog/04092016/amzn_call_condor.png"><img src="/images/blog/04092016/amzn_call_condor.png" alt="AMZN - 2016-04-09 - Call Condor Risk Graph" /></a></p>
+
+<p>I might buy a few of these. These and the put spreads will need to be managed if AMZN starts to lose the support levels.</p>
+
+<p>I&rsquo;ll be looking to put on these trades come Monday, so <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> to get my updates. And to make the most out of Twitter, make sure you turn on notifications specifically from me. Just visit my Twitter profile on mobile, select the Settings gear, and then select the option to turn on notifications.</p>
+
+<p>That&rsquo;s it for the weekend update - enjoy the weekend, and good trading on Monday!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Shifting Bias to Neutral]]></title>
@@ -123,96 +185,6 @@
 <p>In case you missed them, check out the <a href="/trades" title="Ongoing Trades">Trades</a> page to see all ongoing trades. The <a href="/history" title="Closed Trades">History</a> page shows all of our closed trades.</p>
 
 <p>I wish you all happy trading!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[What's New? Nothing. Bias Still to the Upside]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/03/30/whats-new-nothing-bias-still-to-the-upside/"/>
-    <updated>2016-03-30T13:59:59-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/03/30/whats-new-nothing-bias-still-to-the-upside</id>
-    <content type="html"><![CDATA[<p>We continue to float higher:</p>
-
-<p><a href="/images/blog/03302016/es.png"><img src="/images/blog/03302016/es.png" alt="/ES - 2016-03-30 15m Time Frame - Multiple Distributions - Gap Higher" /></a></p>
-
-<p>Towards the beginning of today&rsquo;s session we saw a liquidation break which looked like it was going to fill the overnight gap on the /ES - that is what should&rsquo;ve happened if the Bears were really here. Unfortunately for them, all we had was a slow grind lower, which wasn&rsquo;t a convincing move (I <a href="https://twitter.com/theta_positive/status/715222086789111808" title="Slow Grind Lower Tweet">tweeted this out</a> as we were gradually trading lower). Not only did we snap higher, but by the end of the day, we weren&rsquo;t able to even fill the gap on the /ES.</p>
-
-<p>What the Bears needed today was a gap down to the lowest distribution (denoted by the bottom-most blue rectangle) and build value there - that would&rsquo;ve signified a more bearish signal. Instead, not only did we <strong>not</strong> trade in the middle or top-most distribution, but price actually gapped above and traders accepted prices up at where we currently are. That&rsquo;s quite a bullish signal. On weak structure, of course. But again, don&rsquo;t fight price.</p>
-
-<p>Here&rsquo;s the SPX:</p>
-
-<p><a href="/images/blog/03302016/spx.png"><img src="/images/blog/03302016/spx.png" alt="SPX - 2016-03-30 Daily Time Frame - Trendline Resistance Breached" /></a></p>
-
-<p>Our 2060 target was reached. That trendline resistance has been broken, and is now meaningless. The next target would now be around 2095.</p>
-
-<p>DJX:</p>
-
-<p><a href="/images/blog/03302016/djx.png"><img src="/images/blog/03302016/djx.png" alt="DJX - 2016-03-30 Daily Time Frame - Trendline Resistance Breached" /></a></p>
-
-<p>This closed above the trendline resistance, also rendering it useless.</p>
-
-<p>NDX:</p>
-
-<p><a href="/images/blog/03302016/ndx.png"><img src="/images/blog/03302016/ndx.png" alt="NDX - 2016-03-30 Daily Time Frame - Trendline Resistance" /></a></p>
-
-<p>This is still on track to touching the trendline resistance.</p>
-
-<p>RUT:</p>
-
-<p><a href="/images/blog/03302016/rut.png"><img src="/images/blog/03302016/rut.png" alt="RUT - 2016-03-30 Daily Time Frame - Doji Consolidation" /></a></p>
-
-<p>Closing above the 61.8% Fib level on a Doji (consolidation). This was actually quite weak today. The trendline resistance could be tagged, so look to see if we continue or reverse tomorrow.</p>
-
-<p>By the way, that put backratio that we put on for LNKD yesterday turned out great today. For those of you who are in this trade, if you want to turn this into a 100% winner, 0% risk trade, buy the 98 put to turn the backratio into a balanced butterfly (this put option costs less than the credit we received when we put this trade on). Your max profit is reduced by the cost of this additional put that you buy, and regardless of where LNKD moves, this trade is an absolute winner. More details on LNKD on the <a href="/trades" title="Ongoing Trades">Trades</a> page.</p>
-
-<p>Once again, new trades and trade adjustments can be found daily on the <a href="/trades" title="Ongoing Trades">Trades</a> page. Be sure to stay updated and <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> to follow along and see my trades in real-time.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[More Weak Structure and Reference Points to Keep in Mind]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/03/29/more-weak-structure-and-reference-points/"/>
-    <updated>2016-03-29T22:35:18-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/03/29/more-weak-structure-and-reference-points</id>
-    <content type="html"><![CDATA[<p>The market continues to rally on poor structure. Today after Yellen&rsquo;s speech, the /ES created three distributions, separated by single print spikes:</p>
-
-<p><a href="/images/blog/03292016/es.png"><img src="/images/blog/03292016/es.png" alt="/ES - 2016-03-29 - Three Separate Distributions" /></a></p>
-
-<p>I&rsquo;ve highlighted the distribution areas in blue. These single prints tend to act as levels for bounce plays, especially when the market is dominated by mostly short-term traders. For tomorrow, keep these weak reference points in mind. These are 2043.50 and 2033.50.</p>
-
-<p>Here are the broad market indices:</p>
-
-<p>SPX:</p>
-
-<p><a href="/images/blog/03292016/spx.png"><img src="/images/blog/03292016/spx.png" alt="SPX - 2016-03-29 Daily Time Frame - Target 2060" /></a></p>
-
-<p>This will most likely reach our 2060 target.</p>
-
-<p>DJX:</p>
-
-<p><a href="/images/blog/03292016/djx.png"><img src="/images/blog/03292016/djx.png" alt="DJX - 2016-03-29 Daily Time Frame - Trendline Resistance" /></a></p>
-
-<p>A retest of the trendline resistance.</p>
-
-<p>NDX:</p>
-
-<p><a href="/images/blog/03292016/ndx.png"><img src="/images/blog/03292016/ndx.png" alt="NDX - 2016-03-29 Daily Time Frame" /></a></p>
-
-<p>This is well on its way to the trendline resistance.</p>
-
-<p>RUT:</p>
-
-<p><a href="/images/blog/03292016/rut.png"><img src="/images/blog/03292016/rut.png" alt="RUT - 2016-03-29 Daily Time Frame" /></a></p>
-
-<p>Closing above the 61.8% Fib level.</p>
-
-<p>Bias remains bullish, so don&rsquo;t fight it.</p>
-
-<p>New trades and trade adjustments can be found daily on the <a href="/trades" title="Ongoing Trades">Trades</a> page. Check them out!</p>
-
-<p>I don&rsquo;t have any planned trade ideas for tomorrow, but do <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> in case I do spot some opportunities that I don&rsquo;t see right now, because I do tweet them out real-time.</p>
-
-<p>Trade safe and good luck tomorrow!</p>
 ]]></content>
   </entry>
   
