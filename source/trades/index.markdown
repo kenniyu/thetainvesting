@@ -28,14 +28,49 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 
 <h3 id="today">Here's what happened today:</h3>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">SOLD <a href="https://twitter.com/search?q=%24FB&amp;src=ctag">$FB</a> 100 (Weeklys) APR4 16 115 CALL @.28</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/720304016110915584">April 13, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">SOLD CALENDAR <a href="https://twitter.com/search?q=%24UNG&amp;src=ctag">$UNG</a> 100 MAY 16/APR5 16 6.5 CALL @.09 (adjustment)</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/722514520954900480">April 19, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">SOLD 1/2 BACKRATIO <a href="https://twitter.com/search?q=%24FB&amp;src=ctag">$FB</a> 100 (Weeklys) APR4 16 103/100 PUT @-.05 (Opening)</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/720303688812630016">April 13, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">SOLD <a href="https://twitter.com/search?q=%24UNG&amp;src=ctag">$UNG</a> 100 MAY 16 6.5 PUT @.15 (adjustment)</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/722514149033443328">April 19, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">SOLD VERT ROLL <a href="https://twitter.com/search?q=%24DIA&amp;src=ctag">$DIA</a> 100 MAY 16/APR5 16 179/183/177.5/180 CALL @.31 (adjustment)</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/720255938410651648">April 13, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">SOLD <a href="https://twitter.com/search?q=%24GDX&amp;src=ctag">$GDX</a> 100 MAY 16 21.5 PUT @.47 (adjustment)</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/722505635359645696">April 19, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">BOT STRANGLE <a href="https://twitter.com/search?q=%24TSLA&amp;src=ctag">$TSLA</a> 100 (Weeklys) APR5 16 290/215 CALL/PUT @.63 (closing)</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/722417632519979009">April 19, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[View the entire trade (entry & adjustments) for $TSLA here](/history/#TSLA-20160323-20160419 "TSLA - Managing Losers")
+
+***
+
+<h3 id="RUT">RUT</h3>
+
+**Opening:** *04-18-2016* - BOT CALENDAR **RUT** 100 MAY 16/MAY1 16 1200 CALL **@.75**
+
+**Closing:** *pending*
+
+**Notes:**
+
+- *04-18-2016* - Opening this trade - RUT moved up nicely past the trendline resistance and has clearance to 1200 level.
+
+[![RUT - 2016-04-19 Call Calendar Spread](/images/pages/trades/04192016_rut_call_calendar.png)](/images/pages/trades/04192016_rut_call_calendar.png)
+
+***
+
+<h3 id="SPY">SPY</h3>
+
+**Opening:** *04-14-2016* - BOT DIAGONAL **SPY** 100 (Weeklys) MAY2 16/APR5 16 211/210 CALL **@.27**
+
+**Closing:** *pending*
+
+**Notes:**
+
+- *04-14-2016* - Looking for a slow grind up in the next few weeks to the short strike at 210
+- *04-15-2016* - Holding on
+- *04-18-2016 - present* - Holding on - this is moving nicely
+
+[![SPY - 2016-04-19 Diagonal Call Spread](/images/pages/trades/04192016_spy_diagonal_call.png)](/images/pages/trades/04192016_spy_diagonal_call.png)
 
 ***
 
@@ -43,16 +78,23 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 
 **Opening:**
 
-- *04-13-2016* - SOLD 1/2 BACKRATIO **FB** 100 (Weeklys) APR4 16 103/100 PUT **@-.05**
+- *04-13-2016* - SOLD 1 / 2 BACKRATIO **FB** 100 (Weeklys) APR4 16 103/100 PUT **@-.05**
 - *04-13-2016* - SOLD **FB** 100 (Weeklys) APR4 16 115 CALL **@.28**
+
+**Adjustments:**
+
+- *04-18-2016* - BOT **FB** 100 (Weeklys) APR4 16 115 CALL **@.13**
 
 **Closing:** *pending*
 
 **Notes:**
 
 - *04-13-2016* - Short term bearish play - this exhibited weakness until the pop in the afternoon. But we'll wait and see what happens.
+- *04-14-2016 - 04-17-2016* - Holding on
+- *04-18-2016* - We made an adjustment here by closing out the short call which we sold to finance the put backratio.
+- *04-19-2016* - Holding on - consider buying a more OOM put to free up buying power.
 
-[![FB - 2016-04-13 Put Backratio Naked Call](/images/pages/trades/04132016_fb_put_backratio_naked_call.png)](/images/pages/trades/04132016_fb_put_backratio_naked_call.png)
+[![FB - 2016-04-19 Put Backratio Naked Call](/images/pages/trades/04192016_fb_put_backratio.png)](/images/pages/trades/04192016_fb_put_backratio.png)
 
 ***
 
@@ -67,7 +109,7 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - *04-11-2016* - Longer term bearish play on AA, looking for a gradual drop post-earnings
 - *04-12-2016 - present* - Holding on
 
-[![AA - 2016-04-13 Put Calendar](/images/pages/trades/04132016_aa_put_calendar.png)](/images/pages/trades/04132016_aa_put_calendar.png)
+[![AA - 2016-04-19 Put Calendar](/images/pages/trades/04192016_aa_put_calendar.png)](/images/pages/trades/04192016_aa_put_calendar.png)
 
 ***
 
@@ -78,15 +120,21 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - SOLD 1 / 2 BACKRATIO **/GC** 1/100 JUN 16 /OGM6 1325/1400 CALL **@-3.60**
 - SOLD **/GC** 1/100 JUN 16 /OGM6 1160 PUT **@3.80**
 
+**Adjustments:**
+
+- *04-17-2016* - SOLD **GCM6** 1/100 JUN 16 /OGM6 1400 CALL **@1.10**
+
 **Closing:** *pending*
 
 **Notes:**
 
 - *04-10-2016* - Looking for /GC to hold up around this level. Perhaps it found support at 1200
 - *04-11-2016* - Moving up - good
-- *04-12-2016 - present* - Holding - we're theta-positive here
+- *04-12-2016 - 04-17-2016* - Holding - we're theta-positive here
+- *04-18-2016* - Sold an extra call in case gold is unable to move higher within the next month
+- *04-19-2016* - Holding on
 
-[![/GC - 2016-04-13 Naked Put Financing Call Backratio](/images/pages/trades/04132016_gc_naked_put_call_backratio.png)](/images/pages/trades/04132016_gc_naked_put_call_backratio.png)
+[![/GC - 2016-04-19 Naked Put Financing Call Backratio](/images/pages/trades/04192016_gc_naked_put_call_backratio.png)](/images/pages/trades/04192016_gc_naked_put_call_backratio.png)
 
 ***
 
@@ -101,9 +149,10 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - *04-07-2016* - Opened with a neutral bias, trying to capture gains at support and resistance levels
 - *04-08-2016* - Holding
 - *04-11-2016 - 04-12-2016* - Not really moving much, but we're theta positive, so not a problem here
-- *04-13-2016* - GS moving to the upside, but not near our short strikes - continuing to hold
+- *04-13-2016 - 04-18-2016* - GS moving to the upside, but not near our short strikes - continuing to hold
+- *04-19-2016* - Holding
 
-[![GS - 2016-04-13 Put Backratio Call Backratio](/images/pages/trades/04132016_gs_put_backratio_call_backratio.png)](/images/pages/trades/04132016_gs_put_backratio_call_backratio.png)
+[![GS - 2016-04-19 Put Backratio Call Backratio](/images/pages/trades/04192016_gs_put_backratio_call_backratio.png)](/images/pages/trades/04192016_gs_put_backratio_call_backratio.png)
 
 ***
 
@@ -118,7 +167,7 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - *04-06-2016* - Opening with a slight bearish bias
 - *04-07-2016 - present* - Continue to hold
 
-[![EEM - 2016-04-13 Put Calendar](/images/pages/trades/04132016_eem_put_calendar.png)](/images/pages/trades/04132016_eem_put_calendar.png)
+[![EEM - 2016-04-19 Put Calendar](/images/pages/trades/04192016_eem_put_calendar.png)](/images/pages/trades/04192016_eem_put_calendar.png)
 
 ***
 
@@ -131,36 +180,20 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 **Notes:**
 
 - *04-04-2016* - Selling some premium here with a bearish bias
-- *04-05-2016 - present* - We continue to hold
+- *04-05-2016 - 04-18-2016* - We continue to hold
+- *04-19-2016* - This may need adjustment soon, but still holding as is
 
-[![XLE - 2016-04-13 Strangle With Bear Put Spread](/images/pages/trades/04132016_xle_strangle_bear_put_vertical.png)](/images/pages/trades/04132016_xle_strangle_bear_put_vertical.png)
-
-***
-
-<h3 id="CL_F">/CL</h3>
-
-**Opening:** *03-31-2016* - SOLD 1 / 2 BACKRATIO **/CLK6** 1/1000 MAY 16 /LOK6 35/33.5 PUT **@.03**
-
-**Closing:** *pending*
-
-**Notes:**
-
-- *03-31-2016* - Tick tock. 15 days to go (4 of which are weekends) (I am slightly bearish on this)
-- *04-01-2016* - This is moving our direction - we continue to hold
-- *04-04-2016* - This is moving our direction - we continue to hold
-- *04-05-2016* - We bounced a bit today, even better. We want a slow grind down to 33.5, continue to hold
-- *04-06-2016* - This ran up hard, but we continue to hold
-- *04-07-2016* - Continue to hold
-- *04-08-2016* - This ran up hard again, but we'll just let this expire worthless - not worth the commission costs to close, and the margin requirement should be significantly lower by Sunday anyway.
-- *04-11-2016 - present* - This will most likely expire worthless, but holding on for any miracle move down
-
-[![/CL - 2016-04-01 Put Backratio](/images/pages/trades/04132016_cl_f_put_backratio.png)](/images/pages/trades/04132016_cl_f_put_backratio.png)
+[![XLE - 2016-04-19 Strangle With Bear Put Spread](/images/pages/trades/04192016_xle_strangle_bear_put_vertical.png)](/images/pages/trades/04192016_xle_strangle_bear_put_vertical.png)
 
 ***
 
 <h3 id="VXX">VXX</h3>
 
 **Opening:** *03-29-2016* - SOLD VERTICAL **VXX** 100 (Weeklys) APR5 16 17/15 PUT **@.47**
+
+**Adjustments:**
+
+*04-18-2016* - SOLD VERT ROLL **VXX** 100 MAY 16/APR5 16 17/15/17/15 PUT **@.19**
 
 **Closing:** *pending*
 
@@ -172,9 +205,11 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - *04-04-2016* - No updates - we continue to hold
 - *04-05-2016* - No updates - nice vol pop today - we continue to hold
 - *04-06-2016 - 04-12-2016* - We continue to hold
-- *04-13-2016* - We need a downward correction in the markets - but this is getting close, I'd like to roll this down and out soon.
+- *04-13-2016 - present* - We need a downward correction in the markets - but this is getting close, I'd like to roll this down and out soon.
+- *04-18-2016* - Unable to get the downward move we want in the markets - this needs to be rolled out a few weeks to give us more time
+- *04-19-2016* - Holding on
 
-[![VXX - 2016-04-01 Bull Put Vertical](/images/pages/trades/04132016_vxx_bull_put_vertical.png)](/images/pages/trades/04132016_vxx_bull_put_vertical.png)
+[![VXX - 2016-04-01 Bull Put Vertical](/images/pages/trades/04192016_vxx_bull_put_vertical.png)](/images/pages/trades/04192016_vxx_bull_put_vertical.png)
 
 ***
 
@@ -189,7 +224,7 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - *04-08-2016* - Opening a this trade with a bearish bias
 - *04-11-2016 - present* - Holding on - this will probably not get down to our target for a while
 
-[![EWZ - 2016-04-13 Put Calendar Risk Graph](/images/pages/trades/04132016_ewz_put_calendar.png)](/images/pages/trades/04132016_ewz_put_calendar.png)
+[![EWZ - 2016-04-19 Put Calendar Risk Graph](/images/pages/trades/04192016_ewz_put_calendar.png)](/images/pages/trades/04192016_ewz_put_calendar.png)
 
 <h3 id="EWZ-super-bear">EWZ</h3>
 
@@ -202,7 +237,7 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - *03-28-2016* - Taking advantage of the high implied volatility and selling some here
 - *03-30-2016 - present* - No updates - we continue to hold and let duration work in our favor
 
-[![EWZ - 2016-04-13 Super Bear Risk Graph](/images/pages/trades/04132016_ewz_strangle_put_vertical.png)](/images/pages/trades/04132016_ewz_strangle_put_vertical.png)
+[![EWZ - 2016-04-19 Super Bear Risk Graph](/images/pages/trades/04192016_ewz_strangle_put_vertical.png)](/images/pages/trades/04192016_ewz_strangle_put_vertical.png)
 
 ***
 
@@ -227,8 +262,9 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - *04-05-2016* - No updates - we continue to hold as it looks like it may just continue rolling over
 - *04-06-2016 - 04-11-2016* - We continue to hold
 - *04-12-2016* - We rolled the call side out in time for more duration and rolled up the put side to neutralize some deltas
+- *04-13-2016 - present* - We continue to hold
 
-[![FXI - 2016-04-13 Super Bear Risk Graph](/images/pages/trades/04132016_fxi_super_bear.png)](/images/pages/trades/04132016_fxi_super_bear.png)
+[![FXI - 2016-04-19 Super Bear Risk Graph](/images/pages/trades/04192016_fxi_super_bear.png)](/images/pages/trades/04192016_fxi_super_bear.png)
 
 ***
 
@@ -244,6 +280,7 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - *04-07-2016* - SOLD DIAGONAL **GDX** 100 MAY 16/APR 16 21.5/20.5 CALL **@.27**
 - *04-07-2016* - SOLD CALENDAR **GDX** 100 MAY 16/APR 16 18.5 PUT **@.38**
 - *04-11-2016* - SOLD VERTICAL **GDX** 100 MAY 16 21/18.5 PUT **@.56**
+- *04-19-2016* - SOLD **GDX** 100 MAY 16 21.5 PUT **@.47**
 
 **Closing:** *pending*
 
@@ -260,40 +297,10 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - *04-07-2016* - We rolled our call strike up and out to May and rolled one unit of our puts out to May as well.
 - *04-08-2016* - We continue to hold
 - *04-11-2016* - We rolled up the put side of our strangle in May to neutralize some deltas, and we'll just wait
-- *04-12-2016 - present* - We continue to hold, letting duration work for us.
+- *04-12-2016 - 04-18-2016* - We continue to hold, letting duration work for us.
+- *04-19-2016* - We made an adjustment in this today to neutralize some deltas. Though we are adding more risk to the downside here, we actually *want* this to move back down to our put strikes.
 
-[![GDX - 2016-04-13 Strangle & Bear Put Vertical](/images/pages/trades/04132016_gdx_strangle_bear_put_vertical.png)](/images/pages/trades/04132016_gdx_strangle_bear_put_vertical.png)
-
-***
-
-<h3 id="TSLA">TSLA</h3>
-
-**Opening:** *03-23-2016* - SOLD VERTICAL **TSLA** 100 APR 16 245/250 CALL **@1.20**
-
-**Adjustments:**
-
-- *04-04-2016* - SOLD VERTICAL **TSLA** 100 APR 16 235/230 PUT **@1.03**
-- *04-06-2016* - SOLD **TSLA** 100 APR 16 235 PUT **@1.05**
-- *04-06-2016* - BOT **TSLA** 100 APR 16 245/250 CALL **@4.28**
-- *04-06-2016* - SOLD **TSLA** 100 APR 16 300 CALL **@.58**
-
-**Closing:** *pending*
-
-**Notes:**
-
-- *03-23-2016* - This stock has never been good to me, and we actually had a pretty solid gap-fill and continuation. People just got too overly short this stock yesterday.
-- *03-30-2016* - No updates - we continue to hold
-- *03-31-2016* - No updates - we continue to hold
-- *04-01-2016* - No updates - we continue to hold
-- *04-04-2016* - We turned this into an IC today - just hedging the call spread
-- *04-05-2016* - Looking terrible. This just rallies harder every day, but will continue holding for now
-- *04-06-2016* - We closed out our bear call spread for a huge debit today unfortunately to avoid being assigned early on the deep ITM call. We then sold a naked put and a naked call to collect some more premium. So far, this trade is currently NOT profitable by expiration unless we make more adjustments. For now, we continue to hold and see where the next 9 days takes us.
-- *04-07-2016* - Nothing much happened today. We continue to hold
-- *04-08-2016* - A huge drop today - we continue to hold
-- *04-11-2016 - 04-12-2016* - We continue to hold
-- *04-13-2016* - The premium is really starting to come in - continue to hold
-
-[![TSLA - 2016-04-13 Vertical Call Risk Graph](/images/pages/trades/04132016_tsla_custom.png)](/images/pages/trades/04132016_tsla_custom.png)
+[![GDX - 2016-04-19 Strangle & Bear Put Vertical](/images/pages/trades/04192016_gdx_strangle_custom.png)](/images/pages/trades/04192016_gdx_strangle_custom.png)
 
 ***
 
@@ -312,8 +319,9 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - *03-23-2016* - Placed on overbought market conditions.
 - *03-30-2016 - present* - No updates - we continue to hold
 - *04-13-2016* - We held this for a while, but could not get to a profitable enough state to exit. Instead, markets continue grinding higher, so we had to roll this out to May
+- *04-14-2016 - present* - Continuing to let duration work for us
 
-[![DIA - 2016-04-01 Bear Call Vertical Call Risk Graph](/images/pages/trades/04132016_dia_call_vertical.png)](/images/pages/trades/04132016_dia_call_vertical.png)
+[![DIA - 2016-04-01 Bear Call Vertical Call Risk Graph](/images/pages/trades/04192016_dia_call_vertical.png)](/images/pages/trades/04192016_dia_call_vertical.png)
 
 ***
 
@@ -322,6 +330,11 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 **Opening:** *03-22-2016* - SOLD COMBO **UNG** 100 (Weeklys) APR5 16 6.5/6 CALL/PUT **@.13**
 
 **Closing:** *pending*
+
+**Adjustments**
+
+- *04-19-2016* - SOLD CALENDAR **UNG** 100 MAY 16/APR5 16 6.5 CALL **@.09**
+- *04-19-2016* - SOLD **UNG** 100 MAY 16 6.5 PUT **@.15**
 
 **Notes:**
 
@@ -333,21 +346,7 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - *04-05-2016* - This moved in our direction today. We need more, though. Continue to hold
 - *04-06-2016* - More downside today - we continue to hold
 - *04-07-2016* - We continue to hold.
-- *04-08-2016 - present* - We continue to hold. This just appears to be moving sideways. We just can't seem to have this move down, so may sell some naked puts in here going forward.
+- *04-08-2016 - 04-18-2016* - We continue to hold. This just appears to be moving sideways. We just can't seem to have this move down, so may sell some naked puts in here going forward.
+- *04-19-2016* - Apologies on this trade - this should've been rolled yesterday but I totally missed it, and now we're rolling at a worse cost. I'm thinking since this has closed above a consolidation area put in over the past few weeks, we will need to adjust our deltas here.
 
-[![UNG - 2016-04-13 Combo Risk Graph](/images/pages/trades/04132016_ung_combo.png)](/images/pages/trades/04132016_ung_combo.png)
-
-***
-
-<h3 id="AMZN">AMZN</h3>
-
-**Opening:** *03-21-2016* - BOT BUTTERFLY **AMZN** 100 APR 16 480/475/465 PUT **@-.17**
-
-**Closing:** *pending*
-
-**Notes:**
-
-- *03-21-2016* - This is very far from our center, but we put this on for a credit so no problem here.
-- *03-30-2016 - present* - No updates. This is so far from our short strike, will let it expire worthless if anything (feel free to take it off to free up BP)
-
-[![AMZN - 2016-04-13 Butterfly](/images/pages/trades/04132016_amzn_bfly.png)](/images/pages/trades/04132016_amzn_bfly.png)
+[![UNG - 2016-04-19 Combo Risk Graph](/images/pages/trades/04192016_ung_combo.png)](/images/pages/trades/04192016_ung_combo.png)

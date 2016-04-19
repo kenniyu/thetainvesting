@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://kenniyu.github.io/blog/2016/04/18/bias-still-to-the-upside/</loc>
+<lastmod>2016-04-18T19:01:23-07:00</lastmod>
+</url>
+<url>
+<loc>http://kenniyu.github.io/blog/2016/04/17/remaining-cautiously-bullish/</loc>
+<lastmod>2016-04-17T12:37:47-07:00</lastmod>
+</url>
+<url>
+<loc>http://kenniyu.github.io/blog/2016/04/14/value-building-higher/</loc>
+<lastmod>2016-04-14T21:38:50-07:00</lastmod>
+</url>
+<url>
 <loc>http://kenniyu.github.io/blog/2016/04/13/breaking-out-of-balance/</loc>
 <lastmod>2016-04-13T18:18:12-07:00</lastmod>
 </url>
@@ -316,6 +328,12 @@
 </url>
 <url>
 <loc>http://kenniyu.github.io/blog/categories/balance/</loc>
+</url>
+<url>
+<loc>http://kenniyu.github.io/blog/categories/market-outlook/</loc>
+</url>
+<url>
+<loc>http://kenniyu.github.io/blog/categories/calendar/</loc>
 </url>
 <url>
 <loc>http://kenniyu.github.io/posts/2/</loc>
