@@ -18,6 +18,31 @@ All trades listed here assume smallest unit size (1 single, 1 vertical, 1 butter
 
 ***
 
+<h3 id="FB-20160413-20160422">FB</h3>
+
+**Opening:**
+
+- *04-13-2016* - SOLD 1 / 2 BACKRATIO **FB** 100 (Weeklys) APR4 16 103/100 PUT **@-.05**
+- *04-13-2016* - SOLD **FB** 100 (Weeklys) APR4 16 115 CALL **@.28**
+
+**Adjustments:**
+
+- *04-18-2016* - BOT **FB** 100 (Weeklys) APR4 16 115 CALL **@.13**
+
+**Closing:** *04-22-2016* - Expired worthless
+
+**P/L**: <span class="pl profit">-0.05 + .28 - .13 = **+.10**</span>
+
+**Notes:**
+
+- *04-13-2016* - Short term bearish play - this exhibited weakness until the pop in the afternoon. But we'll wait and see what happens.
+- *04-14-2016 - 04-17-2016* - Holding on
+- *04-18-2016* - We made an adjustment here by closing out the short call which we sold to finance the put backratio.
+- *04-19-2016 - 04-21-2016* - Holding on - consider buying a more OOM put to free up buying power.
+- *04-22-2016* - Let this expire worthless for a profit
+
+***
+
 <h3 id="TSLA-20160323-20160419">TSLA</h3>
 
 **Opening:** *03-23-2016* - SOLD VERTICAL **TSLA** 100 APR 16 245/250 CALL **@1.20**

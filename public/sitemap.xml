@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://kenniyu.github.io/blog/2016/04/24/mixed-signals-from-indices/</loc>
+<lastmod>2016-04-24T14:38:16-07:00</lastmod>
+</url>
+<url>
+<loc>http://kenniyu.github.io/blog/2016/04/21/will-the-bears-continue-the-selling-pressure/</loc>
+<lastmod>2016-04-21T18:49:01-07:00</lastmod>
+</url>
+<url>
+<loc>http://kenniyu.github.io/blog/2016/04/20/value-building-higher/</loc>
+<lastmod>2016-04-20T21:40:42-07:00</lastmod>
+</url>
+<url>
+<loc>http://kenniyu.github.io/blog/2016/04/19/still-bullish-dot-dot-dot/</loc>
+<lastmod>2016-04-19T21:29:48-07:00</lastmod>
+</url>
+<url>
 <loc>http://kenniyu.github.io/blog/2016/04/18/bias-still-to-the-upside/</loc>
 <lastmod>2016-04-18T19:01:23-07:00</lastmod>
 </url>
@@ -336,12 +352,6 @@
 <loc>http://kenniyu.github.io/blog/categories/calendar/</loc>
 </url>
 <url>
-<loc>http://kenniyu.github.io/posts/2/</loc>
-</url>
-<url>
-<loc>http://kenniyu.github.io/posts/3/</loc>
-</url>
-<url>
-<loc>http://kenniyu.github.io/posts/4/</loc>
+<loc>http://kenniyu.github.io/blog/categories/hal/</loc>
 </url>
 </urlset>
