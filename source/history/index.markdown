@@ -18,6 +18,23 @@ All trades listed here assume smallest unit size (1 single, 1 vertical, 1 butter
 
 ***
 
+<h3 id="SPY-20160414-20160427">SPY</h3>
+
+**Opening:** *04-14-2016* - BOT DIAGONAL **SPY** 100 (Weeklys) MAY2 16/APR5 16 211/210 CALL **@.27**
+
+**Closing:** *04-27-2016* - SOLD DIAGONAL **SPY** 100 (Weeklys) 13 MAY 16/29 APR 16 211/210 CALL **@.56**
+
+**P/L**: <span class="pl profit">-.27 + .56 = **+.29**</span>
+
+**Notes:**
+
+- *04-14-2016* - Looking for a slow grind up in the next few weeks to the short strike at 210
+- *04-15-2016* - Holding on
+- *04-18-2016 - 04-26-2016* - Holding on - this is moving nicely
+- *04-27-2016* - Booking a winner here. If you have multiple, peel them off gradually throughout rest of this week. Be entirely out of the position by this Friday.
+
+***
+
 <h3 id="FB-20160413-20160422">FB</h3>
 
 **Opening:**
