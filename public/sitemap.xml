@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://kenniyu.github.io/blog/2016/05/04/about-that-high-volume-node/</loc>
+<lastmod>2016-05-04T05:13:57-07:00</lastmod>
+</url>
+<url>
+<loc>http://kenniyu.github.io/blog/2016/05/03/mind-the-pocs/</loc>
+<lastmod>2016-05-03T06:11:24-07:00</lastmod>
+</url>
+<url>
 <loc>http://kenniyu.github.io/blog/2016/05/01/weekend-trade-ideas/</loc>
 <lastmod>2016-05-01T19:37:05-07:00</lastmod>
 </url>
@@ -394,15 +402,9 @@
 <loc>http://kenniyu.github.io/blog/categories/fibonacci-fan/</loc>
 </url>
 <url>
-<loc>http://kenniyu.github.io/posts/2/</loc>
+<loc>http://kenniyu.github.io/blog/categories/poc/</loc>
 </url>
 <url>
-<loc>http://kenniyu.github.io/posts/3/</loc>
-</url>
-<url>
-<loc>http://kenniyu.github.io/posts/4/</loc>
-</url>
-<url>
-<loc>http://kenniyu.github.io/posts/5/</loc>
+<loc>http://kenniyu.github.io/blog/categories/distributions/</loc>
 </url>
 </urlset>
