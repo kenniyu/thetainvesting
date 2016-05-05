@@ -8,8 +8,7 @@ categories: [/es, volume profile, volume composite]
 
 Congratulations to the Bears. Yesterday's action proved that Monday was nothing more than a fake-out, with the value overlapping Friday's value area. It appears that we're now going to explore the big balance area that we've had going back from mid-March to mid-April - this is the 2012 to 2067 area:
 
-[![/ES - 2016-05-03 - 1hr Chart](/images/blog/05042016/es.png)](/images/blog/05042016
- /es.png)
+[![/ES - 2016-05-04 - 1hr Chart](/images/blog/05042016/es.png)](/images/blog/05042016/es.png)
 
 [As I mentioned multiple times in previous posts](www.thetatrades.com/blog/2016/04/30/an-edge-to-the-bears/ "An Edge to the Bears"), the first target to the downside is 2040.50 - this is where that high volume node sits on the volume composite. Expect any movement to the downside be halted by that area, because that is where a lot of transactions occurred, and traders will most likely be stepping up to buy there (by the way, if you look at the overnight data, look where we stopped - 2040.75 just one tick above that high volume node). If sellers start taking control after that point, then look to target the other side of balance, which is 2012 (again, this is why I've been having these reference points on the chart for so long, so I can carry this information forward for days like today).
 

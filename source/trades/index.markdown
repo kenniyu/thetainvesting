@@ -28,17 +28,38 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 
 <h3 id="today">Here's what happened today:</h3>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">BOT BUTTERFLY <a href="https://twitter.com/search?q=%24PCLN&amp;src=ctag">$PCLN</a> 100 20 MAY 16 1290/1300/1320 CALL @-.24</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/727886436045705216">May 4, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">SOLD IRON CONDOR <a href="https://twitter.com/search?q=%24SQ&amp;src=ctag">$SQ</a> 100 20 MAY 16 14/16/12/10 CALL/PUT @.79 (Opening)</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/728247354600493057">May 5, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">BOT BUTTERFLY <a href="https://twitter.com/search?q=%24PCLN&amp;src=ctag">$PCLN</a> 100 20 MAY 16 1115/1100/1080 PUT @.17 (Opening)</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/727885902559641601">May 4, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="es" dir="ltr">SOLD 1/2 BACKRATIO /NQM6 1/20 JUN 16 /NQM6 4200/4050 PUT <a href="https://twitter.com/3">@3</a>.25</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/728237388091138048">May 5, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">BOT <a href="https://twitter.com/search?q=%24GS&amp;src=ctag">$GS</a> 100 20 MAY 16 125 PUT @.05 (adjustment)</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/727857183208046597">May 4, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+***
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">BOT 1/2 BACKRATIO <a href="https://twitter.com/search?q=%24GS&amp;src=ctag">$GS</a> 100 20 MAY 16 160/165 CALL @-.60</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/727855788664852480">May 4, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<h3 id="PCLN">PCLN</h3>
+
+**Opening:**
+
+- *05-04-2016* - BOT BUTTERFLY **PCLN** 100 20 MAY 16 1115/1100/1080 PUT **@.17**
+- *05-04-2016* - BOT BUTTERFLY **PCLN** 100 20 MAY 16 1290/1300/1320 CALL
+
+**Closing:** *pending*
+
+**Notes:**
+
+- *05-04-2016* - Opening a position looking for a breakdown and a gap fill to 1100 or a gap fill to 1300 over the next two weeks
+
+[![PCLN - 2016-05-04 Put Butterfly](/images/pages/trades/05042016_pcln_put_butterfly.png)](/images/pages/trades/05042016_pcln_put_butterfly.png)
+
+**Opening:** *05-04-2016* - BOT BUTTERFLY **PCLN** 100 20 MAY 16 1290/1300/1320 CALL **@-.24**
+
+**Closing:** *pending*
+
+**Notes:**
+
+- *05-04-2016* - Opening a position looking for a a gap fill to 1300
+
+[![PCLN - 2016-05-04 Call Butterfly](/images/pages/trades/05042016_pcln_put_call_butterfly.png)](/images/pages/trades/05042016_pcln_put_call_butterfly.png)
 
 ***
 
@@ -66,6 +87,7 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 **Notes:**
 
 - *05-03-2016* - Opening a new long position in the EUR with a bit of a bullish bias
+- *05-04-2016* - Holding on
 
 [![/6E - 2016-05-04 Call Backratio](/images/pages/trades/05042016_6e_call_backratio.png)](/images/pages/trades/05042016_6e_call_backratio.png)
 
@@ -80,7 +102,7 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 **Notes:**
 
 - *05-03-2016* - Opening a new short position in COP - this is a textbook retracement pattern, even on the weekly, and is long-term bearish
-- *05-04-2016* - Holding on
+- *05-04-2016* - Holding on. Almost at 50% profit level, so looking to take this off soon
 
 [![COP - 2016-05-04 Naked Call](/images/pages/trades/05042016_cop_naked_call.png)](/images/pages/trades/05042016_cop_naked_call.png)
 
@@ -172,7 +194,7 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 **Notes:**
 
 - *04-25-2016* - Taking advantage of the high IV and selling some premium with a bullish bias
-- *04-26-2016 - present* - Still holding on, showing profit
+- *04-26-2016 - present* - Still holding on, showing profit. Almost at 50% profit, so will take off soon.
 
 [![SLV - 2016-05-04 Unbalanced Strangle](/images/pages/trades/05042016_slv_unbalanced_strangle.png)](/images/pages/trades/05042016_slv_unbalanced_strangle.png)
 
@@ -408,7 +430,7 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - *04-05-2016* - No updates - we continue to hold as it looks like it may just continue rolling over
 - *04-06-2016 - 04-11-2016* - We continue to hold
 - *04-12-2016* - We rolled the call side out in time for more duration and rolled up the put side to neutralize some deltas
-- *04-13-2016 - present* - We continue to hold
+- *04-13-2016 - present* - We continue to hold. This is almost 50% profitable, so will look to take it off soon.
 
 [![FXI - 2016-05-04 Super Bear Risk Graph](/images/pages/trades/05042016_fxi_super_bear.png)](/images/pages/trades/05042016_fxi_super_bear.png)
 
@@ -470,7 +492,7 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - *03-23-2016* - Placed on overbought market conditions.
 - *03-30-2016 - present* - No updates - we continue to hold
 - *04-13-2016* - We held this for a while, but could not get to a profitable enough state to exit. Instead, markets continue grinding higher, so we had to roll this out to May
-- *04-14-2016 - present* - Continuing to let duration work for us
+- *04-14-2016 - present* - Continuing to let duration work for us. We're showing profit ever since inception - will look to take it off soon.
 
 [![DIA - 2016-04-01 Bear Call Vertical Call Risk Graph](/images/pages/trades/05042016_dia_call_vertical.png)](/images/pages/trades/05042016_dia_call_vertical.png)
 
