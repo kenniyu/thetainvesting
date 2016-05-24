@@ -64,7 +64,9 @@ $(document).ready(
 );
 </script>
 
-	
+	<script src="/javascripts/custom/helpers.js"></script>
+<script src="/javascripts/custom/headhesive.js"></script>
+
 </head>
 
 
@@ -77,6 +79,7 @@ $(document).ready(
 	<li><a href="/about">About</a></li>
 	<li><a href="/trades">Trades</a></li>
 	<li><a href="/history">History</a></li>
+	<!-- <li class="unavailable"><a href="/travel">Travel</a></li> -->
 	<li><a href="/archives">Archive</a></li>
 </ul>
 </nav>
@@ -88,6 +91,7 @@ $(document).ready(
 	<li><a href="/about">About</a></li>
 	<li><a href="/trades">Trades</a></li>
 	<li><a href="/history">History</a></li>
+	<!-- <li class="unavailable"><a href="/travel">Travel</a></li> -->
 	<li><a href="/archives">Archive</a></li>
 </ul>
 </div>
@@ -174,5 +178,10 @@ ga('send', 'pageview');
 
 
 	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+	<script type="text/javascript">
+		var header = new Headhesive('#main-nav');
+	</script>
+
 </body>
 </html>

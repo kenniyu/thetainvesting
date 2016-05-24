@@ -18,6 +18,298 @@ All trades listed here assume smallest unit size (1 single, 1 vertical, 1 butter
 
 ***
 
+<h3 id="GS">GS</h3>
+
+**Opening:** *04-07-2016* - BOT 1/-2/1/-2 CUSTOM **GS** 100 MAY 16/MAY 16/MAY 16/MAY 16 160/165/135/130 CALL/CALL/PUT/PUT **@-.66**
+
+**Closing:** *05-20-2016* - Expired profitable
+
+**Adjustments:**
+
+- *05-04-2016* - BOT 1 / 2 BACKRATIO **GS** 100 20 MAY 16 160/165 CALL **@-.60**
+- *05-04-2016* - BOT **GS** 100 20 MAY 16 125 PUT **@.05**
+
+**P/L**: <span class="pl profit">.66 + .60 - .05 = **+1.21**</span>
+
+**Notes:**
+
+- *04-07-2016* - Opened with a neutral bias, trying to capture gains at support and resistance levels
+- *04-08-2016* - Holding
+- *04-11-2016 - 04-12-2016* - Not really moving much, but we're theta positive, so not a problem here
+- *04-13-2016 - 04-18-2016* - GS moving to the upside, but not near our short strikes - continuing to hold
+- *04-19-2016 - 05-03-2016* - Holding
+- *05-04-2016* - We adjusted this position today buy closing out the call backratio at a decent profit, and then buying the 125 put to turn our put backratio into a balanced butterfly to relieve buying power here. All we need now is a Hail Mary - move down to 130 would be great.
+- *05-05-2016 - 05-19-2016* - Holding on
+- *05-20-2016* - Expired profitable
+
+***
+
+<h3 id="DIA">DIA</h3>
+
+**Opening:** *03-23-2016* - SOLD VERTICAL **DIA** 100 (Weeklys) APR5 16 177.5/180 CALL **@.88**
+
+**Adjustments:**
+
+- *04-13-2016* - SOLD VERT ROLL **DIA** 100 MAY 16/APR5 16 179/183/177.5/180 CALL **@.31**
+- *05-05-2016* - SOLD VERT ROLL **DIA** 100 17 JUN 16/20 MAY 16 180/184/179/183 CALL **@.30**
+
+**Closing:** *05-20-2016* - BOT VERTICAL **DIA** 100 17 JUN 16 180/184 CALL **@.51**
+
+**P/L**: <span class="pl profit">.88 + .31 + .30 - .51 = **+.98**</span>
+
+**Notes:**
+
+- *03-23-2016* - Placed on overbought market conditions.
+- *03-30-2016 - present* - No updates - we continue to hold
+- *04-13-2016* - We held this for a while, but could not get to a profitable enough state to exit. Instead, markets continue grinding higher, so we had to roll this out to May
+- *04-14-2016 - 05-04-2016* - Continuing to let duration work for us. We're showing profit ever since inception - will look to take it off soon.
+- *05-05-2016* - Profitable, and we're rolling this trade up and out for more credit and higher probability
+- *05-06-2016 - 05-19-2016* - Holding on
+- *05-20-2016* - Closed for a profit
+
+***
+
+<h3 id="EWZ">EWZ</h3>
+
+**Opening:** *03-28-2016* - SOLD 1 / -1 / 2 CUSTOM **EWZ** 100 MAY 16/MAY 16/MAY 16 30/25/22.5 CALL/PUT/PUT **@.59**
+
+**Adjustments:** *05-03-2016* - BOT **EWZ** 100 20 MAY 16 30 CALL **@.26**
+
+**Closing:** *05-20-2016* - Expired at a profit
+
+**P/L**: <span class="pl profit">.59 -.26 = **+.33**</span>
+
+**Notes:**
+
+- *03-28-2016* - Taking advantage of the high implied volatility and selling some here
+- *03-30-2016 - 05-02-2016* - No updates - we continue to hold and let duration work in our favor
+- *05-03-2016* - Bought back the call side of the strangle. We now just have the 25/22.5 Put backratio in this
+- *05-04-2016 - 05-19-2016* - Holding on. A Hail Mary move down to 22.5 would be nice.
+- *05-20-2016* - Expired at a profit
+
+***
+
+<h3 id="EEM">EEM</h3>
+
+**Opening:** *04-06-2016* - BOT CALENDAR **EEM** 100 MAY 16/APR5 16 30 PUT **@.14**
+
+**Closing:** *05-20-2016* - Expired worthless
+
+**P/L**: <span class="pl loss">**-.14**</span>
+
+**Notes:**
+
+- *04-06-2016* - Opening with a slight bearish bias
+- *04-07-2016 - 05-19-2016* - Continue to hold. Since the short leg has expired, a Hail Mary down to 30 would be nice.
+- *05-20-2016* - Expired worthless
+
+***
+
+<h3 id="RUT">RUT</h3>
+
+**Opening:** *04-18-2016* - BOT CALENDAR **RUT** 100 MAY 16/MAY1 16 1200 CALL **@.75**
+
+**Closing:** *05-20-2016* - Expired worthless
+
+**Adjustments:**
+
+- *04-29-2016* - SOLD VERTICAL **RUT** 100 (Weeklys) 13 MAY 16 1180/1200 CALL **@.58**
+- *04-29-2016* - SOLD CALENDAR **RUT** 100 (Weeklys) 13 MAY 16/6 MAY 16 1200 CALL **@.18**
+
+**P/L**: <span class="pl profit">**+.01**</span>
+
+**Notes:**
+
+- *04-18-2016* - Opening this trade - RUT moved up nicely past the trendline resistance and has clearance to 1200 level.
+- *04-19-2016 - 04-20-2016* - Holding on
+- *04-21-2016* - We may sell a call spread against this if the market starts to exhibit bearishness
+- *04-22-2016* - Leading the indices higher, we hold
+- *04-25-2016 - 04-27-2016* - Leading the indices higher, we hold
+- *04-28-2016* - Experiencing a downdraft but if RUT starts rolling over, looking to sell a call vertical
+- *04-29-2016* - Things look to be rolling over - adjustments today were essentially equivalent to rolling the short call down and out
+- *05-02-2016* - Market bounces back up - this could end near short strike by expiration
+- *05-03-2016 - 05-19-2016* - Holding on
+- *05-20-2016* - Expired worthless. Scratch trade.
+
+***
+
+<h3 id="PCLN">PCLN</h3>
+
+**Opening:**
+
+- *05-04-2016* - BOT BUTTERFLY **PCLN** 100 20 MAY 16 1115/1100/1080 PUT **@.17**
+- *05-04-2016* - BOT BUTTERFLY **PCLN** 100 20 MAY 16 1290/1300/1320 CALL **@-.24**
+
+**Closing:** *05-20-2016* - Expired worthless
+
+**P/L**: <span class="pl profit">**+.07**</span>
+
+**Notes:**
+
+- *05-04-2016* - Opening a position looking for a breakdown and a gap fill to 1100 or a gap fill to 1300 over the next two weeks
+- *05-05-2016 - 05-19-2016* - Holding
+- *05-20-2016* - Expired worthless
+
+***
+
+<h3 id="LNKD">LNKD</h3>
+
+**Opening:** *05-10-2016* - SOLD VERTICAL **LNKD** 100 17 JUN 16 115/110 PUT **@.83**
+
+**Closing:** *05-17-2016* - BOT VERTICAL **LNKD** 100 17 JUN 16 115/110 PUT **@.40**
+
+**P/L**: <span class="pl profit">**+.43**</span>
+
+**Notes:**
+
+- *05-10-2016* - Opening with a bullish bias
+- *05-11-2016 - 05-16-2016* - Holding on
+- *05-17-2016* - Booked a winner here
+
+***
+
+<h3 id="ES_F">/ES</h3>
+
+**Opening:** *04-28-2016* - BOT BUTTERFLY **/ESM6** 1/50 MAY 16 (Wk2) /EW2K6 2105/2115/2135 CALL **@-.90**
+
+**Closing:** *05-13-2016* - Expired worthless
+
+**P/L**: <span class="pl profit">**+.90**</span>
+
+**Notes:**
+
+- *04-28-2016* - Opening a position with a bullish bias - looking for it to expire near 2115. No harm no foul if it doesn't reach there, as we put this trade on for a credit.
+- *04-29-2016* - Holding on. Bearish move does not hurt us, we are still profitable.
+- *05-02-2016* - And we rally back up. Looking for this to expire near 2115 in 2 weeks - doable
+- *05-03-2016 - 05-12-2016* - Holding on
+- *05-13-2016* - Expired worthless
+
+***
+
+<h3 id="FXI-03242016-05102016">FXI</h3>
+
+**Opening:** *03-24-2016* - SOLD 1/-1/1 CUSTOM **FXI** 100 APR 16/APR 16/APR 16 33.5/32/31 CALL/PUT/PUT **@.11**
+
+**Adjustments:**
+
+- *04-12-2016* - SOLD DIAGONAL **FXI** 100 MAY 16/APR 16 35/33.5 CALL **@.12**
+- *04-12-2016* - SOLD **FXI** 100 MAY 16 31 PUT **@.33**
+
+**Closing:** *05-10-2016* - BOT STRANGLE **FXI** 100 20 MAY 16 35/31 CALL/PUT **@.25**
+
+**P/L**: <span class="pl profit">.11 + .12 + .33 - .25 = **+.31**</span>
+
+**Notes:**
+
+- *03-24-2016* - Opened with a bearish bias.
+- *03-30-2016* - No updates - we continue to hold and will roll the short call out in time if necessary
+- *03-31-2016* - No updates - we continue to hold and will roll the short call out in time if necessary
+- *04-01-2016* - No updates - we continue to hold
+- *04-04-2016* - No updates - we continue to hold
+- *04-05-2016* - No updates - we continue to hold as it looks like it may just continue rolling over
+- *04-06-2016 - 04-11-2016* - We continue to hold
+- *04-12-2016* - We rolled the call side out in time for more duration and rolled up the put side to neutralize some deltas
+- *04-13-2016 - present* - We continue to hold. This is almost 50% profitable, so will look to take it off soon.
+
+***
+
+<h3 id="IWM-05022016-05102016">IWM</h3>
+
+**Opening:** *05-02-2016* - BOT CALENDAR **IWM** 100 20 MAY 16/13 MAY 16 109.5 PUT **@.33**
+
+**Closing:** *05-10-2016* - SOLD CALENDAR **IWM** 100 20 MAY 16/13 MAY 16 109.5 PUT **@.39**
+
+**P/L**: <span class="pl profit">**+.06**</span>
+
+**Notes:**
+
+- *05-02-2016* - Opening a calendar to the downside. We got a couple of weeks here
+- *05-03-2016 - 05-09-2016* - Holding on
+- *05-10-2016* - Don't see it coming back down by this Friday, so taking it off here
+
+***
+
+<h3 id="SLV-04252016-05092016">SLV</h3>
+
+**Opening:** *04-25-2016* - SOLD 1 / 2 CUSTOM **SLV** 100 20 MAY 16/20 MAY 16 17/15.5 CALL/PUT **@.74**
+
+**Closing:** *05-09-2016* - BOT 1 / 2 CUSTOM **SLV** 100 20 MAY 16/20 MAY 16 17/15.5 CALL/PUT **@.32**
+
+**P/L**: <span class="pl profit">**+.42**</span>
+
+**Notes:**
+
+- *04-25-2016* - Taking advantage of the high IV and selling some premium with a bullish bias
+- *04-26-2016 - 05-08-2016* - Still holding on, showing profit. Almost at 50% profit, so will take off soon.
+- *05-09-2016* - Booking a winner at 50%
+
+***
+
+<h3 id="EWZ-04072016-05062016">EWZ</h3>
+
+**Opening:** *04-08-2016* - BOT CALENDAR **EWZ** 100 (Weeklys) MAY1 16/APR4 16 22.5 PUT **@.18**
+
+**Closing:** *05-06-2016* - Expired worthless
+
+**P/L**: <span class="pl loss">**-.18**</span>
+
+**Notes:**
+
+- *04-08-2016* - Opening a this trade with a bearish bias
+- *04-11-2016 - 04-21-2016* - Holding on - this will probably not get down to our target for a while
+- *04-22-2016 - 05-05-2016* - Need this to crash, otherwise, fine with taking the max loss here. Still holding.
+- *05-06-2016* - Expired worthless
+
+***
+
+<h3 id="AA-04112016-05062016">AA</h3>
+
+**Opening:** *04-11-2016* - BOT CALENDAR **AA** 100 (Weeklys) MAY1 16/APR5 16 8.5 PUT **@.05 **
+
+**Closing:** *05-06-2016* - Expired worthless
+
+**P/L**: <span class="pl loss">**-.05**</span>
+
+**Notes:**
+
+- *04-11-2016* - Longer term bearish play on AA, looking for a gradual drop post-earnings
+- *04-12-2016 - 04-21-2016* - Holding on
+- *04-22-2016* - The short leg has expired - hoping for a crash here, otherwise will take the loss on this.
+- *04-25-2016 - 05-06-2016* - Holding on - this is going out worthless
+
+***
+
+<h3 id="AMZN-04282016-05062016">AMZN</h3>
+
+**Opening:** *04-28-2016* - BOT CALENDAR **AMZN** 100 (Weeklys) 13 MAY 16/6 MAY 16 480 PUT **@.35**
+
+**Closing:** *05-06-2016* - Expired worthless
+
+**P/L**: <span class="pl loss">**-.35**</span>
+
+**Notes:**
+
+- *04-28-2016* - This will be most likely expiring worthless - hope you did not take this trade with me if you don't like binary events
+- *04-29-2016 - 05-06-2016* - Just going to let this expire worthless
+
+***
+
+<h3 id="COP-05032016-05052016">COP</h3>
+
+**Opening:** *05-03-2016* - SOLD **COP** 100 17 JUN 16 50 CALL **@.62**
+
+**Closing:** *05-05-2016* - BOT **COP** 100 17 JUN 16 50 CALL **@.31**
+
+**P/L**: <span class="pl profit">.62 - .31 = **+.31**</span>
+
+**Notes:**
+
+- *05-03-2016* - Opening a new short position in COP - this is a textbook retracement pattern, even on the weekly, and is long-term bearish
+- *05-04-2016* - Holding on. Almost at 50% profit level, so looking to take this off soon
+- *05-05-2016* - Closing the trade at 50% profit.
+
+***
+
 <h3 id="SPY-20160414-20160427">SPY</h3>
 
 **Opening:** *04-14-2016* - BOT DIAGONAL **SPY** 100 (Weeklys) MAY2 16/APR5 16 211/210 CALL **@.27**

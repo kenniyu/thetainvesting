@@ -49,5 +49,32 @@
       font-style: italic;
     }
   }
+}
 
+#main-nav {
+  margin: 0;
+  padding: 10px;
+  width: 100%;
+  z-index: 999;
+}
+
+.unavailable {
+  // display: none ! important;
+}
+
+.headhesive {
+  position: fixed;                   /* fix the element */
+  top: 0;                            /* make sure it's at the top */
+  transform: translateY(-100%);      /* move it off screen */
+  transition: all 300ms ease-in-out; /* add animation */
+}
+
+.headhesive--stick {
+  transform: translateY(0%); /* move it back on screen */
+  background: #fff;
+  box-shadow: 0 1px 3px #ccc;
+}
+
+.center {
+  text-align: center;
 }
