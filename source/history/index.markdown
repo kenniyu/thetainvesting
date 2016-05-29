@@ -18,7 +18,64 @@ All trades listed here assume smallest unit size (1 single, 1 vertical, 1 butter
 
 ***
 
-<h3 id="GS">GS</h3>
+<h3 id="GC_F-04102016-05252016">/GC</h3>
+
+**Opening:** *04-10-2016*
+
+- SOLD 1 / 2 BACKRATIO **/GC** 1/100 JUN 16 /OGM6 1325/1400 CALL **@-3.60**
+- SOLD **/GC** 1/100 JUN 16 /OGM6 1160 PUT **@3.80**
+
+**Adjustments:**
+
+- *04-17-2016* - SOLD **GCM6** 1/100 JUN 16 /OGM6 1400 CALL **@1.10**
+- *04-29-2016* - SOLD VERTICAL **GCM6** 1/100 JUN 16 /OGM6 1325/1350 CALL **@5.20**
+- *05-02-2016* - SOLD VERTICAL **GCM6** 1/100 JUN 16 /OGM6 1200/1160 PUT **@.70**
+- *05-13-2016* - BOT **GCM6** 1/100 JUN 16 /OGM6 1200 PUT **@.40**
+
+**Closing:** - *05-25-2016* - Expired with profits
+
+**P/L**: <span class="pl profit">-3.60 + 3.80 + 1.10 + 5.20 + .70 - .40 = **+6.80**</span>
+
+**Notes:**
+
+- *04-10-2016* - Looking for /GC to hold up around this level. Perhaps it found support at 1200
+- *04-11-2016* - Moving up - good
+- *04-12-2016 - 04-17-2016* - Holding - we're theta-positive here
+- *04-18-2016* - Sold an extra call in case gold is unable to move higher within the next month
+- *04-19-2016 - 04-27-2016* - Holding on
+- *04-28-2016* - This is moving nicely - continuing to hold
+- *04-29-2016* - Locking in some profits through our adjustment today - rolled up the long call. Still looking for max profit at 1400
+- *05-02-2016* - Adjusted the put by rolling it up to collect more credit
+- *05-03-2016 - 05-12-2016* - Holding on
+- *05-13-2016* - Bought back the 1200 put, eliminating downside risk
+- *05-14-2016 - 05-24-2016* - Holding on
+- *05-25-2016* - Position expired, with us profitable
+
+***
+
+<h3 id="NFLX-04282016-05242016">NFLX</h3>
+
+**Opening:** *04-28-2016* - BOT CALENDAR **NFLX** 100 (Weeklys) 3 JUN 16/20 MAY 16 100 CALL **@.60**
+
+**Closing:** *05-24-2016* - SOLD **NFLX** 100 3 JUN 16 100 CALL **@1.55**
+
+**Adjustments:**
+
+- *05-06-2016* - SOLD VERTICAL **NFLX** 100 20 MAY 16 85/80 PUT **@.43**
+
+**P/L**: <span class="pl profit">-.60 + 1.55 +.43 = **+1.38**</span>
+
+**Notes:**
+
+- *04-28-2016 - 05-05-2016* - Looking for NFLX to retrace back to 100 or higher over the next month - will attempt to reduce debit down to < 0 by making adjustments, stay tuned
+- *05-06-2016* - Sold a put spread here in NFLX - looking for this double bottom to continue
+- *05-09-2016 - 05-20-2016* - Holding on
+- *05-21-2016 - 05-23-2016* - The vertical put spread expired worthless, along with the 100 short call. Now we need a Hail Mary up to 100 (unlikely to happen, so willing to take the max loss here)
+- *05-24-2016* - Closing out the long call here. We got the sharp move upwards that we wanted - anything can happen in this market. Though this could continue higher, from where we were, this is a big winner, and we'll take it.
+
+***
+
+<h3 id="GS-04072016-05202016">GS</h3>
 
 **Opening:** *04-07-2016* - BOT 1/-2/1/-2 CUSTOM **GS** 100 MAY 16/MAY 16/MAY 16/MAY 16 160/165/135/130 CALL/CALL/PUT/PUT **@-.66**
 
@@ -44,7 +101,7 @@ All trades listed here assume smallest unit size (1 single, 1 vertical, 1 butter
 
 ***
 
-<h3 id="DIA">DIA</h3>
+<h3 id="DIA-03232016-05202016">DIA</h3>
 
 **Opening:** *03-23-2016* - SOLD VERTICAL **DIA** 100 (Weeklys) APR5 16 177.5/180 CALL **@.88**
 
@@ -69,7 +126,7 @@ All trades listed here assume smallest unit size (1 single, 1 vertical, 1 butter
 
 ***
 
-<h3 id="EWZ">EWZ</h3>
+<h3 id="EWZ-03282016-05202016">EWZ</h3>
 
 **Opening:** *03-28-2016* - SOLD 1 / -1 / 2 CUSTOM **EWZ** 100 MAY 16/MAY 16/MAY 16 30/25/22.5 CALL/PUT/PUT **@.59**
 
@@ -89,7 +146,7 @@ All trades listed here assume smallest unit size (1 single, 1 vertical, 1 butter
 
 ***
 
-<h3 id="EEM">EEM</h3>
+<h3 id="EEM-04062016-05202016">EEM</h3>
 
 **Opening:** *04-06-2016* - BOT CALENDAR **EEM** 100 MAY 16/APR5 16 30 PUT **@.14**
 
@@ -105,7 +162,7 @@ All trades listed here assume smallest unit size (1 single, 1 vertical, 1 butter
 
 ***
 
-<h3 id="RUT">RUT</h3>
+<h3 id="RUT-04182016-05202016">RUT</h3>
 
 **Opening:** *04-18-2016* - BOT CALENDAR **RUT** 100 MAY 16/MAY1 16 1200 CALL **@.75**
 
@@ -133,7 +190,7 @@ All trades listed here assume smallest unit size (1 single, 1 vertical, 1 butter
 
 ***
 
-<h3 id="PCLN">PCLN</h3>
+<h3 id="PCLN-05042016-05202016">PCLN</h3>
 
 **Opening:**
 
@@ -152,7 +209,7 @@ All trades listed here assume smallest unit size (1 single, 1 vertical, 1 butter
 
 ***
 
-<h3 id="LNKD">LNKD</h3>
+<h3 id="LNKD-05102016-05172016">LNKD</h3>
 
 **Opening:** *05-10-2016* - SOLD VERTICAL **LNKD** 100 17 JUN 16 115/110 PUT **@.83**
 
@@ -168,7 +225,7 @@ All trades listed here assume smallest unit size (1 single, 1 vertical, 1 butter
 
 ***
 
-<h3 id="ES_F">/ES</h3>
+<h3 id="ES_F-04282016-05132016">/ES</h3>
 
 **Opening:** *04-28-2016* - BOT BUTTERFLY **/ESM6** 1/50 MAY 16 (Wk2) /EW2K6 2105/2115/2135 CALL **@-.90**
 
