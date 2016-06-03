@@ -18,6 +18,53 @@ All trades listed here assume smallest unit size (1 single, 1 vertical, 1 butter
 
 ***
 
+<h3 id="NFLX-05252016-05312016">NFLX</h3>
+
+**Opening:** *05-25-2016* - BOT CALENDAR **NFLX** 100 (Weeklys) 10 JUN 16/3 JUN 16 105 CALL **@.49**
+
+**Closing:** *05-31-2016* - SOLD CALENDAR **NFLX** 100 (Weeklys) 10 JUN 16/3 JUN 16 105 CALL **@.74**
+
+**P/L**: <span class="pl profit">.74 - .49 = **+.25**</span>
+
+**Notes:**
+
+- *05-25-2016 - 05-30-2016* - Opening up a call calendar here - looking for a gap fill to 105
+- *05-31-2016* - Got a partial gap fill - will book a winner here.
+
+***
+
+<h3 id="OIH-05102016-05312016">OIH</h3>
+
+**Opening:** *05-10-2016* - SOLD STRANGLE **OIH** 100 17 JUN 16 29/25 CALL/PUT **@.98**
+
+**Closing:** *05-31-2016* - BOT STRANGLE **OIH** 100 17 JUN 16 29/25 CALL/PUT **@.49**
+
+**P/L**: <span class="pl profit">.98 - .49 = **+.49**</span>
+
+**Notes:**
+
+- *05-10-2016* - Selling premium here, the usual
+- *05-11-2016 - 05-30-2016* - Holding on
+- *05-31-2016* - Booking a winner
+
+***
+
+<h3 id="ES_F-05232016-05272016">/ES</h3>
+
+**Opening:** *05-23-2016* - SOLD 1/2 BACKRATIO **ESM6** 1/50 MAY 16 (Wk4) /EW4K6 2020/2005 PUT **@.20**
+
+**Closing:** *pending*
+
+**P/L**: <span class="pl profit">**+.20**</span>
+
+**Notes:**
+
+- *05-23-2016* - Opening up a position here, we're protected to the downside up until 1990.
+- *05-24-2016 - 05-26-2016* - Holding on - this is most likely expiring OOM
+- *05-27-2016* - Expired profitable.
+
+***
+
 <h3 id="GC_F-04102016-05252016">/GC</h3>
 
 **Opening:** *04-10-2016*
