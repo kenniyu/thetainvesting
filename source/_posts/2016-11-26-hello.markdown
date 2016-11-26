@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Hello"
+date: 2016-11-26 14:32:38 -0800
+comments: true
+categories:
+---
+
+Been a while! We'll be back soon with updates on options & forex. Stay tuned.

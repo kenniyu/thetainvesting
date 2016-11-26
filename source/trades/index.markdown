@@ -30,18 +30,52 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 
 ***
 
+<h3 id="SLV">SLV</h3>
+
+**Opening:** *06-09-2016* - SOLD STRANGLE **SLV** 100 15 JUL 16 16.5/16 CALL/PUT **@.87**
+
+**Closing:** *pending*
+
+**Notes:**
+
+- *06-09-2016* - Selling the high IV here.
+- *06-10-2016 - present* - Holding on
+
+[![SLV - 2016-06-26 Short Strangle](/images/pages/trades/06262016_slv_strangle.png)](/images/pages/trades/06262016_slv_strangle.png)
+
+***
+
+<h3 id="TLT">TLT</h3>
+
+**Opening:** *06-06-2016* - SOLD IRON CONDOR **TLT** 100 15 JUL 16 137/142/128/123 CALL/PUT **@.95**
+
+**Closing:** *pending*
+
+**Notes:**
+
+- *06-06-2016* - Opened with a neutral bias to offset cost of the calendar debit
+- *06-07-2016 - present* - Opened with a neutral bias to offset cost of the calendar debit
+
+[![TLT - 2016-06-26 Call Calendar](/images/pages/trades/06262016_tlt_iron_condor.png)](/images/pages/trades/06262016_tlt_iron_condor.png)
+
+***
+
 <h3 id="DIA">DIA</h3>
 
 **Opening:** *05-31-2016* - BOT CALENDAR **DIA** 100 15 JUL 16 (45)/24 JUN 16 (24) 175 P **@.88**
 
 **Closing:** *pending*
 
+**Adjustments:**
+
+- *06-23-2016* - SOLD CALENDAR **DIA** 100 W 1 JUL 16 (8)/24 JUN 16 (1) 175 P **@.48**
+
 **Notes:**
 
 - *05-31-2016* - Looking for $DIA to consolidate near 175 over the next couple of weeks
 - *06-01-2016 - present* - Exercising patience here.
 
-[![DIA - 2016-06-01 Put Calendar](/images/pages/trades/06012016_dia_put_calendar.png)](/images/pages/trades/06012016_dia_put_calendar.png)
+[![DIA - 2016-06-26 Put Calendar](/images/pages/trades/06262016_dia_put_calendar.png)](/images/pages/trades/06262016_dia_put_calendar.png)
 
 ***
 
@@ -54,9 +88,9 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 **Notes:**
 
 - *05-31-2016* - Looking for a drop in gold. Paid for a bit of debit here.
-- *06-01-2016* - Exercising patience here.
+- *06-01-2016 - present* - Exercising patience here.
 
-[![GC_F - 2016-06-01 Put Butterfly](/images/pages/trades/06012016_gc_put_butterfly.png)](/images/pages/trades/06012016_gc_put_butterfly.png)
+[![GC_F - 2016-06-26 Put Butterfly](/images/pages/trades/06262016_gc_put_butterfly.png)](/images/pages/trades/06262016_gc_put_butterfly.png)
 
 ***
 
@@ -64,171 +98,21 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 
 **Opening:** *05-25-2016* - BOT CALENDAR **AAPL** 100 15 JUL 16/17 JUN 16 105 CALL **@.68**
 
+**Adjustments:**
+
+- *06-03-2016* - SOLD CALENDAR **AAPL** 100 (Weeklys) 1 JUL 16/17 JUN 16 105 CALL **@.18**
+
 **Closing:** *pending*
 
 **Notes:**
 
 - *05-25-2016* - Looking for a gap fill to 105
 - *05-26-2016 - 05-31-2016* - Looking good. Holding on.
-- *06-01-2016* - Falling after breaching a bit into the gap. We'll see how this continues. Holding on for now.
-
-[![AAPL - 2016-06-01 Call Calendar](/images/pages/trades/06012016_aapl_call_calendar.png)](/images/pages/trades/06012016_aapl_call_calendar.png)
-
-***
-
-<h3 id="TGT">TGT</h3>
-
-**Opening:** *05-23-2016* - BOT CALENDAR **TGT** 100 17 JUN 16/10 JUN 16 72 CALL **@.13**
-
-**Closing:** *pending*
-
-**Notes:**
-
-- *05-23-2016* - Looking for a reversion to the upside after the ER
-- *05-24-2016 - present* - Holding on
-
-[![TGT - 2016-06-01 Call Calendar](/images/pages/trades/06012016_tgt_call_calendar.png)](/images/pages/trades/06012016_tgt_call_calendar.png)
-
-***
-
-<h3 id="KORS">KORS</h3>
-
-**Opening:** *05-11-2016* - BOT BUTTERFLY **KORS** 100 17 JUN 16 47.5/50/57.5 CALL **@-.18**
-
-**Closing:** *pending*
-
-**Notes:**
-
-- *05-11-2016* - Get paid when it crashes, or get paid if we get a gap fill to 50.
-- *05-12-2016 - 05-31-2016* - Holding on
-- *06-01-2016* - Could gap fill soon after today's sharp move higher, putting this position back into play.
-
-[![KORS - 2016-06-01 Strangle](/images/pages/trades/06012016_kors_call_butterfly.png)](/images/pages/trades/06012016_kors_call_butterfly.png)
-
-***
-
-<h3 id="CL_F">/CL</h3>
-
-**Opening:** *05-09-2016* - SOLD VERTICAL **CLM6** 1/1000 JUN 16 /LOM6 46/47 CALL **@.11**
-
-**Closing:** *pending*
-
-**Adjustments:**
-
-- *05-11-2016* -
-  * BOT VERTICAL **CLM6** 1/1000 JUN 16 /LOM6 46/47 CALL **@.46**
-  * SOLD 1 / 2 BACKRATIO **CLN6** 1/1000 JUL 16 /LON6 47.5/49.5 CALL **@.47**
-
-**Notes:**
-
-- *05-09-2016* - Opening this position after a swing high doji followed by a two-time reject of $46 on the daily with topping tails
-- *05-10-2016* - Holding on
-- *05-11-2016* - We made an adjustment to this position today - giving ourselves more time in case crude rips higher before expiration, and more room for profit to the upside, while maintaining initial credit
-- *05-12-2016 - present* - Holding on
-
-[![/CL - 2016-06-01 Call Ratio](/images/pages/trades/06012016_cl_call_ratio.png)](/images/pages/trades/06012016_cl_call_ratio.png)
-
-***
-
-<h3 id="SLV">SLV</h3>
-
-**Opening:** *05-09-2016* - SOLD **SLV** 100 17 JUN 16 15.5 PUT **@.29**
-
-**Closing:** *pending*
-
-**Notes:**
-
-- *05-09-2016* - Continuing to cashflow from being long precious metals
-- *05-10-2016 - present* - Holding on
-
-[![SLV - 2016-06-01 Naked Put](/images/pages/trades/06012016_slv_naked_put.png)](/images/pages/trades/06012016_slv_naked_put.png)
-
-***
-
-<h3 id="FSLR">FSLR</h3>
-
-**Opening:** *05-09-2016* - BOT CALENDAR **FSLR** 100 15 JUL 16/17 JUN 16 40 PUT **@.35**
-
-**Closing:** *pending*
-
-**Notes:**
-
-- *05-09-2016* - Looked at this on the weekly and 40 could hit over the next month or two.
-- *05-10-2016 - present* - Holding on
-
-[![FSLR - 2016-06-01 Put Calendar](/images/pages/trades/06012016_fslr_put_calendar.png)](/images/pages/trades/06012016_fslr_put_calendar.png)
-
-***
-
-<h3 id="SQ">SQ</h3>
-
-**Opening:** *05-05-2016* - SOLD IRON CONDOR **SQ** 100 20 MAY 16 14/16/12/10 CALL/PUT **@.79**
-
-**Closing:** *pending*
-
-**Adjustments:**
-
-- *05-06-2016* - BOT **SQ** 100 20 MAY 16 14 CALL **@.03**
-- *05-06-2016* - SOLD 1/1/-1/1 CUSTOM **SQ** 100 17 JUN 16/17 JUN 16/20 MAY 16/20 MAY 16 11/10/12/10 CALL/PUT/PUT/PUT **@.20**
-
-**Notes:**
-
-- *05-05-2016* - Just an earnings trade - this sold off afterhours past our short put, so we'll look to manage this over time
-- *05-06-2016* - We took off the short call, bought back the put spread, and opened a strangle in June.
-- *05-09-2016 - present* - Holding on
-
-[![SQ - 2016-06-01 Iron Condor](/images/pages/trades/06012016_sq_iron_condor.png)](/images/pages/trades/06012016_sq_iron_condor.png)
-
-***
-
-<h3 id="NQ_F">/NQ</h3>
-
-**Opening:** *05-05-2016* - SOLD 1 / 2 BACKRATIO **NQM6** 1/20 JUN 16 /NQM6 4200/4050 PUT **@3.25**
-
-**Closing:** *pending*
-
-**Notes:**
-
-- *05-05-2016* - Opening a new position - we want this to head lower and expire at 4050.
-- *05-06-2016 - present* - Holding on
-
-[![/NQ - 2016-06-01 Put Backratio](/images/pages/trades/06012016_nq_put_backratio.png)](/images/pages/trades/06012016_nq_put_backratio.png)
-
-***
-
-<h3 id="FXE">FXE</h3>
-
-**Opening:** *05-03-2016* - BOT DIAGONAL **FXE** 100 17 JUN 16/20 MAY 16 111/111.5 PUT **@.46**
-
-**Closing:** *pending*
-
-**Adjustments:**
-
-- *05-19-2016* - SOLD CALENDAR **FXE** 100 (Weeklys) 3 JUN 16/20 MAY 16 111.5 PUT **@.14**
-
-**Notes:**
-
-- *05-03-2016* - Opening a new position in FXE with a bearish bias - targeting the high volume node near 111.5 by expiration. [Here's the analysis posted on Twitter](https://twitter.com/theta_positive/status/727576121986797568 "FXE Diagonal Put Spread Analysis")
-- *05-04-2016 - 05-18-2016* - Holding on
-- *05-19-2016* - Made an adjustment here to lower the max loss and giving ourselves more time
-- *05-20-2016 - present* - Holding on
-
-[![FXE - 2016-06-01 Diagonal Put](/images/pages/trades/06012016_fxe_diagonal_put.png)](/images/pages/trades/06012016_fxe_diagonal_put.png)
-
-***
-
-<h3 id="6E_F">/6E</h3>
-
-**Opening:** *05-03-2016* - SOLD 1 / 2 BACKRATIO **6EM6** 1/125000 JUN 16 /6EM6 1.17/1.185 CALL **@.00**
-
-**Closing:** *pending*
-
-**Notes:**
-
-- *05-03-2016* - Opening a new long position in the EUR with a bit of a bullish bias
-- *05-04-2016 - present* - Holding on
-
-[![/6E - 2016-06-01 Call Backratio](/images/pages/trades/06012016_6e_call_backratio.png)](/images/pages/trades/06012016_6e_call_backratio.png)
+- *06-01-2016 - 06-02-2016* - Falling after breaching a bit into the gap. We'll see how this continues. Holding on for now.
+- *06-03-2016* - Rolled out the short call for more time to be right here
+- *06-06-2016 - present* - Holding on
+
+[![AAPL - 2016-06-26 Call Calendar](/images/pages/trades/06262016_aapl_call_calendar.png)](/images/pages/trades/06262016_aapl_call_calendar.png)
 
 ***
 
@@ -241,6 +125,7 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 **Adjustments:**
 
 - *05-09-2016* - SOLD DIAGONAL **X** 100 17 JUN 16/20 MAY 16 17/17.5 PUT **@.46**
+- *06-08-2016* - SOLD DBL DIAG **X** 100 15 JUL 16/17 JUN 16 18/17/17/17 CALL/PUT/CALL/PUT **@.87**
 
 **Notes:**
 
@@ -248,45 +133,12 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - *05-03-2016* - Fell down today along with other mining stocks - bad for this position, good for our GDX, but we're still holding on
 - *05-04-2016 - 05-06-2016* - Holding on
 - *05-09-2016* - Rolling down and out for credit to increase our probability of profit
-- *05-10-2016 - present* - Holding on
+- *05-10-2016 - 06-03-2016* - Holding on
+- *06-06-2016 - 06-07-2016* - Selling a call against this position as a delta hedge. We've had a big move up
+- *06-08-2016* - Rolling everything out and away for more credit
+- *06-09-2016* - Holding on
 
-[![X - 2016-06-01 Naked put](/images/pages/trades/06012016_x_naked_put.png)](/images/pages/trades/06012016_x_naked_put.png)
-
-***
-
-<h3 id="NFLX">NFLX</h3>
-
-**Opening:** *05-23-2016* - BOT 1/-2/-1 CUSTOM **NFLX** 100 17 JUN 16/17 JUN 16/17 JUN 16 95/100/85 CALL/CALL/PUT **@-.20**
-
-**Closing:** *pending*
-
-**Notes:**
-
-- *05-23-2016* - Looking for a move up to around 100 for the gap fill. Got a couple of weeks for this to play out. Financed by a naked put
-- *05-24-2016 - present* - Holding on
-
-[![NFLX - 2016-06-01 Calendar Call](/images/pages/trades/06012016_nflx_call_ratio.png)](/images/pages/trades/06012016_nflx_call_ratio.png)
-
-***
-
-<h3 id="HAL">HAL</h3>
-
-**Opening:** *04-22-2016* - BOT CALENDAR **HAL** 100 JUN 16/MAY 16 36 PUT **@.34**
-
-**Closing:** *pending*
-
-**Adjustments:**
-
-- *05-19-2016* - SOLD CALENDAR **HAL** 100 (Weeklys) 3 JUN 16/20 MAY 16 36 PUT **@.10**
-
-**Notes:**
-
-- *04-22-2016* - Opening this trade per trade idea mentioned in [Thursday's blog post](/blog/2016/04/21/will-the-bears-continue-the-selling-pressure/ "$HAL Trade Idea")
-- *04-25-2016* - Holding on
-- *05-19-2016 - present* - Rolling the short call out to give us more time to be right
-
-
-[![HAL - 2016-06-01 Put Calendar Spread](/images/pages/trades/06012016_hal_put_calendar.png)](/images/pages/trades/06012016_hal_put_calendar.png)
+[![X - 2016-06-26 Naked put](/images/pages/trades/06262016_x_naked_put.png)](/images/pages/trades/06262016_x_naked_put.png)
 
 ***
 
@@ -301,6 +153,7 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - *04-27-2016* - BOT 1 / 2 BACKRATIO **XLE** 100 20 MAY 16 57.5/55 PUT **@.02**
 - *04-27-2016* - SOLD **XLE** 100 20 MAY 16 64.5 PUT **@.41**
 - *05-06-2016* - SOLD DBL DIAG **XLE** 100 17 JUN 16/20 MAY 16 65.5/62.5/64/64.5 CALL/PUT/CALL/PUT **@.34**
+- *06-02-2016* - SOLD DBL DIAG **XLE** 100 15 JUL 16/17 JUN 16 66.5/62.5/65.5/62.5 CALL/PUT/CALL/PUT **@.57**
 
 **Notes:**
 
@@ -311,9 +164,11 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - *04-27-2016* - Adjusted deltas here by closing out the put backratio - there's nothing left to be made here. Then, sold the 64.5 put. We need a move down to here, though this is wishful thinking. We will roll both call and put side out and away, still for a credit if we can, in a couple of weeks.
 - *04-28-2016 - 05-05-2016* - Continuing to hold here - will need duration to work this out for us
 - *05-06-2016* - Took advantage of the pullback to roll the call up and out, and the put down and out.
-- *05-09-2016 - present* - Holding on
+- *05-09-2016 - 06-01-2016* - Holding on
+- *06-02-2016* - Adjusted our position by rolling our short strikes out and away
+- *06-03-2016 - present* - Holding on
 
-[![XLE - 2016-06-01 Strangle With Bear Put Spread](/images/pages/trades/06012016_xle_strangle_bear_put_vertical.png)](/images/pages/trades/06012016_xle_strangle_bear_put_vertical.png)
+[![XLE - 2016-06-26 Strangle](/images/pages/trades/06262016_xle_strangle.png)](/images/pages/trades/06262016_xle_strangle.png)
 
 ***
 
@@ -342,7 +197,7 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - *05-10-2016* - Volatility needs to rise for us to get out. In the meantime, willing to go naked here until we win.
 - *05-11-2016 - present* - Holding on
 
-[![VXX - 2016-06-01 Naked Put](/images/pages/trades/06012016_vxx_bull_put_vertical.png)](/images/pages/trades/06012016_vxx_bull_put_vertical.png)
+[![VXX - 2016-06-26 Naked Put](/images/pages/trades/06262016_vxx_bull_put_vertical.png)](/images/pages/trades/06262016_vxx_bull_put_vertical.png)
 
 ***
 
@@ -363,6 +218,7 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - *04-29-2016* - SOLD VERTICAL **GDX** 100 20 MAY 16 23.5/21.5 PUT **@.28**
 - *05-06-2016* - SOLD **GDX** 100 20 MAY 16 23.5 PUT **@.45**
 - *05-17-2016* - SOLD 1/3/-1/-3 CUSTOM **GDX** 100 17 JUN 16/17 JUN 16/20 MAY 16/20 MAY 16 25.5/24.5/21.5/23.5 CALL/PUT/CALL/PUT **@.46**
+- *06-06-2016* - SOLD 1/2/-1/-3 CUSTOM **GDX** 100 15 JUL 16/15 JUL 16/17 JUN 16/17 JUN 16 27/24/25.5/24.5 CALL/PUT/CALL/PUT **@.43**
 
 **Closing:** *pending*
 
@@ -387,9 +243,11 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - *05-06-2016* - Sold a 23.5 put here to neutralize more deltas. Once it gets closer to this strike we'll roll everything out and away
 - *05-09-2016 - 05-16-2016* - Holding on
 - *05-17-2016* - Adjustment, rolling out to June and holding for more credit, with a bullish bias
-- *05-18-2016 - present* - Holding on
+- *05-18-2016 - 06-05-2016* - Holding on
+- *06-06-2016* - We adjusted and rolled out and away, collecting more premium and widening our breakevens
+- *06-07-2016 - present* - Holding on
 
-[![GDX - 2016-06-01 Strangle & Bear Put Vertical](/images/pages/trades/06012016_gdx_strangle_custom.png)](/images/pages/trades/06012016_gdx_strangle_custom.png)
+[![GDX - 2016-06-26 Strangle](/images/pages/trades/06262016_gdx_strangle_custom.png)](/images/pages/trades/06262016_gdx_strangle_custom.png)
 
 ***
 
@@ -404,6 +262,9 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - *04-19-2016* - SOLD CALENDAR **UNG** 100 MAY 16/APR5 16 6.5 CALL **@.09**
 - *04-19-2016* - SOLD **UNG** 100 MAY 16 6.5 PUT **@.15**
 - *05-12-2016* - SOLD 1/1/-1 CUSTOM **UNG** 100 17 JUN 16/17 JUN 16/20 MAY 16 7/7/6.5 CALL/PUT/CALL **@.21**
+- *05-31-2016* - BOT +1x **UNG** 100 W 10 JUN 16 (10) 6.5 P **@.09**
+- *05-31-2016* - BOT +1x **UNG** 100 W 10 JUN 16 (10) 6.5 P **@.07**
+- *06-16-2016* - SOLD 2/2/-1 CUSTOM **UNG** 100 15 JUL 16/15 JUL 16/17 JUN 16 8/8/7 CALL/PUT/CALL **@.60**
 
 **Notes:**
 
@@ -419,6 +280,8 @@ All trade sizes are based off of 1 unit (single, spread, etc...).
 - *04-19-2016* - Apologies on this trade - this should've been rolled yesterday but I totally missed it, and now we're rolling at a worse cost. I'm thinking since this has closed above a consolidation area put in over the past few weeks, we will need to adjust our deltas here.
 - *04-20-2016 - 05-11-2016* - Holding on. Looking to take this off soon
 - *05-12-2016* - Adjusted and rolled out to June for more time and a wider profit range
-- *05-13-2016 - present* - Holding on
+- *05-13-2016 - 06-15-2016* - Holding on
+- *06-16-2016* - Adjusted and rolling out to next month
+- *06-17-2016 - present* - Holding on
 
-[![UNG - 2016-06-01 Combo Risk Graph](/images/pages/trades/06012016_ung_combo.png)](/images/pages/trades/06012016_ung_combo.png)
+[![UNG - 2016-06-26 Combo Risk Graph](/images/pages/trades/06262016_ung_combo.png)](/images/pages/trades/06262016_ung_combo.png)

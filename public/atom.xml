@@ -4,7 +4,7 @@
   <title><![CDATA[ThetaTrades]]></title>
   <link href="http://kenniyu.github.io/atom.xml" rel="self"/>
   <link href="http://kenniyu.github.io/"/>
-  <updated>2016-06-01T22:02:45-07:00</updated>
+  <updated>2016-11-26T14:33:50-08:00</updated>
   <id>http://kenniyu.github.io/</id>
   <author>
     <name><![CDATA[theta]]></name>
@@ -12,6 +12,118 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello]]></title>
+    <link href="http://kenniyu.github.io/blog/2016/11/26/hello/"/>
+    <updated>2016-11-26T14:32:38-08:00</updated>
+    <id>http://kenniyu.github.io/blog/2016/11/26/hello</id>
+    <content type="html"><![CDATA[<p>Been a while! We&rsquo;ll be back soon with updates on options &amp; forex. Stay tuned.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Managing Existing Positions]]></title>
+    <link href="http://kenniyu.github.io/blog/2016/06/09/managing-existing-positions/"/>
+    <updated>2016-06-09T21:31:45-07:00</updated>
+    <id>http://kenniyu.github.io/blog/2016/06/09/managing-existing-positions</id>
+    <content type="html"><![CDATA[<p>This is the P/L graph for one spread of our <strong>/CL</strong> position - sitting currently in the profit zone:</p>
+
+<p><a href="http://kenniyu.github.io/images/blog/06092016/cl.png"><img src="http://kenniyu.github.io/images/blog/06092016/cl.png" alt="/CL - 2016-06-09 - Risk Graph" /></a></p>
+
+<p>Switching over to the volume composite and overlaying our risk graph breakevens:</p>
+
+<p><a href="http://kenniyu.github.io/images/blog/06092016/cl_vol_comp.png"><img src="http://kenniyu.github.io/images/blog/06092016/cl_vol_comp.png" alt="/CL - 2016-06-09 - Volume Composite With Max Profit &amp; Breakevens" /></a></p>
+
+<p>The HVN (high volume node) over the past 20 days resides near 49.2, just a bit under our max profit level. Note that prices tend to get pulled toward HVNs, though we have a trendline (previously resistance) that may act as a support level (blue solid line), and crude may bounce there.</p>
+
+<p>I&rsquo;m posting our position in crude oil here because it&rsquo;s important to keep a close eye on this. As we come closer to expiration in 6 days, this spread ​<em>really starts to expand nicely with profits</em>​ due to the huge theta decay (especially over the weekend, as decay may start to be priced in by tomorrow). Notice how the spread expands as we step one day at a time.</p>
+
+<p>At the same time, profits can also be lost just quickly if we get a big directional move. So it&rsquo;s important to mentally prepare ourselves for the 3 possible situations we may end up in over these next 6 days, and let&rsquo;s plan what we&rsquo;ll do in each case:</p>
+
+<ol>
+<li>If crude rips higher, we&rsquo;ll look to roll our call ratio out in time, but not too far up to maintain a decent credit.</li>
+<li>If crude dips, we&rsquo;ll wait and see how the 49.5 level plays out, as we have a short put there that we&rsquo;d also like to milk the premium from. Any hard drop below that and we&rsquo;ll close out our call ratio at a big profit and roll the 49.5 put down and out.</li>
+<li>If crude does nothing and just hovers around where it is, we&rsquo;re golden - there&rsquo;s no adjustment needed, and we continue collecting theta.</li>
+</ol>
+
+
+<p>Don&rsquo;t forget, if you have multiple spreads, start peeling them off starting tomorrow.</p>
+
+<p>Next is <strong>KORS</strong>. Here&rsquo;s our current risk graph:</p>
+
+<p><a href="http://kenniyu.github.io/images/blog/06092016/kors.png"><img src="http://kenniyu.github.io/images/blog/06092016/kors.png" alt="KORS - 2016-06-09 - Risk Graph" /></a></p>
+
+<p>And the volume composite:</p>
+
+<p><a href="http://kenniyu.github.io/images/blog/06092016/kors_vol_comp.png"><img src="http://kenniyu.github.io/images/blog/06092016/kors_vol_comp.png" alt="KORS - 2016-06-09 - Volume Composite" /></a></p>
+
+<p>Note the HVN at around 50.5.</p>
+
+<p>KORS had an amazing run, and I&rsquo;m expecting it to consolidate a bit here. Let&rsquo;s look to take our spreads off for about 1.00, 1.50, or 2.00. We&rsquo;re not aiming for the max profit on these types of trades, so start to peel these off if you have multiple.</p>
+
+<p>As part of managing our winners, these are the trades we should keep a close eye on because the losers will just work themselves out as winners in the end as time passes. We&rsquo;ll do our best here with these positions. As for the rest, follow them all on the <a href="http://kenniyu.github.io/trades" title="Follow All Trades">trades page</a>. To receive real-time notifications of any trade entries/adjustments/exits, make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a>, tap the settings icon on our profile page, and then select the option to enable push notifications.</p>
+
+<p>That&rsquo;s it for our trade management update today. Good luck in the markets tomorrow!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Preparing for an Upside Breakout]]></title>
+    <link href="http://kenniyu.github.io/blog/2016/06/04/preparing-for-an-upside-breakout/"/>
+    <updated>2016-06-04T10:08:28-07:00</updated>
+    <id>http://kenniyu.github.io/blog/2016/06/04/preparing-for-an-upside-breakout</id>
+    <content type="html"><![CDATA[<p>Why next week should be bullish</p>
+
+<p>Much of the trade this past week contributed to developing the big balance area between 2082.50 and 2106:</p>
+
+<p><a href="http://kenniyu.github.io/images/blog/06042016/es.png"><img src="http://kenniyu.github.io/images/blog/06042016/es.png" alt="/ES - 2016-06-04 - 1h Chart - Balance Area" /></a></p>
+
+<p>Notice where most of the volume took place over the past 5 days:</p>
+
+<p><a href="http://kenniyu.github.io/images/blog/06042016/es_15m.png"><img src="http://kenniyu.github.io/images/blog/06042016/es_15m.png" alt="/ES - 2016-06-04 - 15m Chart Volume Composite" /></a></p>
+
+<p>The fairest price to do business appears to be right in the middle of this balance area. This is neutral so far.</p>
+
+<p>However, as a point in the Bulls camp, note how we&rsquo;ve had multiple liquidation breaks with no significant follow-through to the downside, and in multiple sessions, we ended with the Bulls taking it right back up to near 2100. On the daily:</p>
+
+<p><a href="http://kenniyu.github.io/images/blog/06042016/es_tails.png"><img src="http://kenniyu.github.io/images/blog/06042016/es_tails.png" alt="/ES - 2016-06-04 - Daily Bottoming-Tails" /></a></p>
+
+<p>Note the bottoming-tail hammers. There are 5 of them all within the balance area. An edge to the Bulls.</p>
+
+<p>Taking a look at the indices on the weekly, here&rsquo;s the SPX:</p>
+
+<p><a href="http://kenniyu.github.io/images/blog/06042016/spx.png"><img src="http://kenniyu.github.io/images/blog/06042016/spx.png" alt="SPX - 2016-06-04 - Weekly Chart" /></a></p>
+
+<p>Doji forming above trendline support.</p>
+
+<p>DJX:</p>
+
+<p><a href="http://kenniyu.github.io/images/blog/06042016/djx.png"><img src="http://kenniyu.github.io/images/blog/06042016/djx.png" alt="DJX - 2016-06-04 - Weekly Chart" /></a></p>
+
+<p>Bottoming tail above trendline support.</p>
+
+<p>NDX:</p>
+
+<p><a href="http://kenniyu.github.io/images/blog/06042016/ndx.png"><img src="http://kenniyu.github.io/images/blog/06042016/ndx.png" alt="NDX - 2016-06-04 - Weekly Chart" /></a></p>
+
+<p>Doji right at trendline resistance. This could make for a big breakout.</p>
+
+<p>RUT:</p>
+
+<p><a href="http://kenniyu.github.io/images/blog/06042016/rut.png"><img src="http://kenniyu.github.io/images/blog/06042016/rut.png" alt="RUT - 2016-06-04 - Weekly Chart" /></a></p>
+
+<p>The strongest of them all, Maintaining the breakout above multiple trendline supports.</p>
+
+<p>Keep these points in mind going into next week. Though we&rsquo;re currently neutral and in balance, the shorts seem extremely nervous and are unable to push prices lower given every opportunity they&rsquo;ve had.</p>
+
+<p>Could we continue to remain in balance next week? Absolutely, and if so, the resulting breakout would be more violent. But be prepared for a breakout this coming week to the upside.</p>
+
+<p>This past week, we made many trade adjustments. Keep an eye on <a href="http://kenniyu.github.io/trades#KORS" title="KORS">KORS</a>, <a href="http://kenniyu.github.io/trades#NFLX" title="NFLX">NFLX</a>, <a href="http://kenniyu.github.io/trades#CL_F" title="/CL">/CL</a>, <a href="http://kenniyu.github.io/trades#SQ" title="SQ">SQ</a>, and <a href="http://kenniyu.github.io/trades#SLV" title="SLV">SLV</a> as potential winners to manage. As always, I will be tweeting out entries/adjustments/exits on Twitter, so if you haven&rsquo;t already, make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> to get these updates in real-time.</p>
+
+<p>That&rsquo;s it for this week&rsquo;s market recap and outlook. Enjoy the weekend everyone!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Comments on Gold Trade]]></title>
@@ -490,75 +602,6 @@
 <p>That&rsquo;s it for today&rsquo;s morning market outlook. Make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a>, because that&rsquo;s where I post all my trades in real-time. Make sure you turn on notifications specifically from me. Just visit my Twitter profile on mobile, select the Settings gear, and then select the option to turn on notifications.</p>
 
 <p>Good luck in the markets!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Fairest Price to Do Business]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/04/28/fairest-price-to-do-business/"/>
-    <updated>2016-04-28T05:59:13-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/04/28/fairest-price-to-do-business</id>
-    <content type="html"><![CDATA[<p>Taking a look at the volume profile:</p>
-
-<p><a href="http://kenniyu.github.io/images/blog/04282016/es.png"><img src="http://kenniyu.github.io/images/blog/04282016/es.png" alt="/ESM6 - 2016-04-28 - 15m Chart - Volume Profile" /></a></p>
-
-<p>Yesterday, although we ripped higher into the end, value was still mostly unchanged, with the POC hovering near 2083.5. Again, this is practically where the POC has been on Tuesday, last Friday, last Thursday, and last Monday. Regardless of trendlines and such, the transactions shown by the profile tell us that this area is the fairest price to do business.</p>
-
-<p>Currently, /ES is trading at 2078, 13 points from yesterday&rsquo;s settle. I would like to see if value can migrate lower back into the intermediate balance area denoted by the range between 2067 and 2081.75. Will the POC develop near this Monday&rsquo;s POC? To give any edge to the Bears, we need to move value area back into this intermediate balance area and take out 2067. Currently, there is just not enough seller strength at all, so my bias remains neutral to bullish.</p>
-
-<p>I&rsquo;ll be looking to see how 2083.5 plays out today. On the open, if we climb higher and tag that POC and we manage to continue trading there, then essentially nothing has changed from yesterday. If we tag that POC but fall back down and start developing value lower, that&rsquo;s an edge to the Bears. But again, that&rsquo;s if sellers step up.</p>
-
-<p>That&rsquo;s it for today&rsquo;s morning market outlook. I&rsquo;ll be looking to put on more trades today as I haven&rsquo;t done much of it this week. Also, make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> - that&rsquo;s where I post all of my trade entries/adjustments/exits in real-time. To get the most out of Twitter, turn on notifications specifically from me to be able to get my tweets on your phone as they come.</p>
-
-<p>Good luck in the markets today!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Trading Near Prominent Point of Control]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/04/27/trading-near-prominent-point-of-control/"/>
-    <updated>2016-04-27T05:43:36-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/04/27/trading-near-prominent-point-of-control</id>
-    <content type="html"><![CDATA[<p>Good morning traders.</p>
-
-<p>In the <a href="http://kenniyu.github.io/blog/2016/04/25/watch-for-an-upside-move/" title="Watch for an Upside Move">last post</a>, we discussed how trading near the POC from last Monday, Thursday, or Friday is very possible. We got exactly that yesterday, with another rip higher into the close as traders found themselves unable to take the market lower:</p>
-
-<p><a href="http://kenniyu.github.io/images/blog/04272016/es.png"><img src="http://kenniyu.github.io/images/blog/04272016/es.png" alt="/ESM6 - 2016-04-27 - 15m Chart - Volume Profile" /></a></p>
-
-<p>Notice how we developed most of yesterday&rsquo;s value above 2081.75. Bias here should be neutral to slightly bullish.</p>
-
-<p>The overnight inventory on the /ES is currently net short. We&rsquo;re currently trading around yesterday&rsquo;s POC at around <strong>2082.50</strong>, with the overnight low at <strong>2080.75</strong>:</p>
-
-<p><a href="http://kenniyu.github.io/images/blog/04272016/es_reference_points.png"><img src="http://kenniyu.github.io/images/blog/04272016/es_reference_points.png" alt="/ESM6 - 2016-04-27 - 5m Chart - Reference Points" /></a></p>
-
-<p>I&rsquo;ll be looking to see how the overnight low holds - if we break below it but are unable to find more sellers and we begin trading back above it and then through the open, I&rsquo;ll be looking to target yesterday&rsquo;s value area high at <strong>2086.50</strong>, then the overnight high at <strong>2087</strong>, followed by yesterday&rsquo;s settle, which is <strong>2088.75</strong>. Again, watch for internals to confirm.</p>
-
-<p>As for downside references, my opinion remains the same as yesterday&rsquo;s post:</p>
-
-<p><em>&ldquo;I would need to see the 2067 level fail. If we close below there with signs of stronger selling, I&rsquo;ll be looking to target the other side of balance, which is down at 2012. More intermediate targets would occur along the way, but they&rsquo;ll be noted when we do break 2067.&rdquo;</em></p>
-
-<p>That&rsquo;s it for today&rsquo;s morning market outlook. Make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a>, because that&rsquo;s where I post all my trades in real-time. Make sure you turn on notifications specifically from me. Just visit my Twitter profile on mobile, select the Settings gear, and then select the option to turn on notifications.</p>
-
-<p>Good luck in the markets today!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Watch for an Upside Move]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/04/25/watch-for-an-upside-move/"/>
-    <updated>2016-04-25T20:11:37-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/04/25/watch-for-an-upside-move</id>
-    <content type="html"><![CDATA[<p>Value continues to build lower:</p>
-
-<p><a href="http://kenniyu.github.io/images/blog/04242016/es.png"><img src="http://kenniyu.github.io/images/blog/04252016/es.png" alt="/ESM6 - 2016-04-25 - 15m Chart - Volume Profile" /></a></p>
-
-<p>That&rsquo;s definitely not a bullish sign; however, just to stay alert, I wanted to point out one thing that I noticed over the past two trading sessions that has me prepared for a move back to the upside, and this is the way in which the Bears have attempted to push prices lower. You may have noticed the slow and steady grind lower during Friday&rsquo;s action and today&rsquo;s action. This has me thinking that the Bears aren&rsquo;t really confident, and they&rsquo;re struggling to push prices lower, but ultimately unable to. You can see this clearly during the past two trading sessions, where much of the grind lower gets wiped out by a big rip to the upside towards the end of each session.</p>
-
-<p>Also, notice that today, we managed to close above the intermediate balance area high. I would not be surprised tomorrow if we hold above that level and trade near the POC from last Monday, Thursday, or Friday, which is around 2085. If so, I would consider that bullish, and would be looking to put on some type of a credit trade that captures a move into the 2100 level going forward.</p>
-
-<p>For me to switch my bias to bearish, I would need to see the 2067 level fail. If we close below there with signs of stronger selling, I&rsquo;ll be looking to target the other side of balance, which is down at 2012. More intermediate targets would occur along the way, but they&rsquo;ll be noted when we do break 2067.</p>
-
-<p>That&rsquo;s it for today. For now, I&rsquo;m still keeping my bias neutral, but watching for any bullish/bearish signals.</p>
 ]]></content>
   </entry>
   

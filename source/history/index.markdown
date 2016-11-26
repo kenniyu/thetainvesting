@@ -18,6 +18,271 @@ All trades listed here assume smallest unit size (1 single, 1 vertical, 1 butter
 
 ***
 
+<h3 id="ZB_F">/ZB</h3>
+
+**Opening:** *05-26-2016* - SOLD 1 / 2 BACKRATIO **ZBU6** 1/1000 JUL 16 /OZBN6 (29) 165/167.5 C **@-0''12**
+
+**Adjustments:**
+
+- *06-03-2016* -
+  * SOLD 1/3/2 ~BUTTERFLY **ZBU6** 1/1000 JUL 16 /OZBN6 165/167.5/169.5 CALL **@0''10**
+
+**Closing:** - *06-24-2016* - BOT 1 / 2 BACKRATIO **ZBU6** 1/1000 JUL 16 /OZBN6 167.5/169.5 CALL **@-0''43**
+
+**P/L**: <span class="pl profit">-0''12 + 0''10 + 0''43 = **+0''41**</span>
+
+**Notes:**
+
+- *05-26-2016* - Looking for an upside movement
+- *05-27-2016 - 06-02-2016* - Holding on
+- *06-03-2016* - Adjusted our profit zone
+- *06-06-2016 - 06-23-2016* - Holding on
+- *06-24-2016* - Booked this for a big winner, as the volatility just got sucked out of the short calls on the last day.
+
+***
+
+<h3 id="ES_F-06152016-06242016">/ES</h3>
+
+**Opening:** *06-15-2016* - SELL /ESU6 1/50 JUN 16 (Wk4) /EW4M6 (9) 1925 P **@2.60**
+
+**Closing:** *06-24-2016* - Expired worthless
+
+**P/L**: <span class="pl profit">**+2.60**</span>
+
+**Notes:**
+
+- *06-15-2016* - Quite far OOM, not expecting the market to pull back deep on this move if it were to retrace
+- *06-16-2016 - present* - Holding on
+- *06-24-2016* - Expired worthless - we kept every penny.
+
+***
+
+<h3 id="HAL-04222016-06172016">HAL</h3>
+
+**Opening:** *04-22-2016* - BOT CALENDAR **HAL** 100 JUN 16/MAY 16 36 PUT **@.34**
+
+**Closing:** *06-17-2016* - Expired worthless
+
+**Adjustments:**
+
+- *05-19-2016* - SOLD CALENDAR **HAL** 100 (Weeklys) 3 JUN 16/20 MAY 16 36 PUT **@.10**
+
+**P/L**: <span class="pl loss">-.34 + .10 = **-.24**</span>
+
+**Notes:**
+
+- *04-22-2016* - Opening this trade per trade idea mentioned in [Thursday's blog post](/blog/2016/04/21/will-the-bears-continue-the-selling-pressure/ "$HAL Trade Idea")
+- *04-25-2016* - Holding on
+- *05-19-2016 - 06-16-2016* - Rolling the short call out to give us more time to be right
+- *06-17-2016* - Expired worthless
+
+***
+
+<h3 id="NQ_F">/NQ</h3>
+
+**Opening:** *05-05-2016* - SOLD 1 / 2 BACKRATIO **NQM6** 1/20 JUN 16 /NQM6 4200/4050 PUT **@3.25**
+
+**Closing:** *06-17-2016* - Expired OOM
+
+**P/L**: <span class="pl profit">**+3.25**</span>
+
+**Notes:**
+
+- *05-05-2016* - Opening a new position - we want this to head lower and expire at 4050.
+- *05-06-2016 - 06-16-2016* - Holding on
+- *06-17-2016* - Expired, collected all of the premium
+
+***
+
+<h3 id="FSLR-06092016-06172016">FSLR</h3>
+
+**Opening:** *05-09-2016* - BOT CALENDAR **FSLR** 100 15 JUL 16/17 JUN 16 40 PUT **@.35**
+
+**Closing:** *06-17-2016* - Expired worthless
+
+**P/L**: <span class="pl loss">**-.35**</span>
+
+**Notes:**
+
+- *05-09-2016* - Looked at this on the weekly and 40 could hit over the next month or two.
+- *05-10-2016 - 06-16-2016* - Holding on
+- *06-17-2016* - Let this expire worthless
+
+***
+
+<h3 id="TGT-05232016-06172016">TGT</h3>
+
+**Opening:** *05-23-2016* - BOT CALENDAR **TGT** 100 17 JUN 16/10 JUN 16 72 CALL **@.13**
+
+**Closing:** *06-17-2016* - Expired worthless
+
+**P/L**: <span class="pl loss">**-.13**</span>
+
+**Notes:**
+
+- *05-23-2016* - Looking for a reversion to the upside after the ER
+- *05-24-2016 - 06-16-2016* - Holding on
+- *06-17-2016* - Let this expire worthless
+
+***
+
+<h3 id="KORS-05112016-06142016">KORS</h3>
+
+**Opening:** *05-11-2016* - BOT BUTTERFLY **KORS** 100 17 JUN 16 47.5/50/57.5 CALL **@-.18**
+
+**Closing:** *06-14-2016* - SOLD BUTTERFLY **KORS** 100 17 JUN 16 47.5/50/57.5 CALL **@1.15**
+
+**P/L**: <span class="pl profit">1.15 - (-.18) = **+1.33**</span>
+
+**Notes:**
+
+- *05-11-2016* - Get paid when it crashes, or get paid if we get a gap fill to 50.
+- *05-12-2016 - 05-31-2016* - Holding on
+- *06-01-2016* - Could gap fill soon after today's sharp move higher, putting this position back into play.
+- *06-02-2016 - 06-13-2016* - Holding on. Seeing how much higher this move can go and will peel off when momentum slows.
+- *06-14-2016* - Booking another big winner here.
+
+***
+
+<h3 id="TLT-06032016-06102016">TLT</h3>
+
+**Opening:** *06-03-2016* - BOT CALENDAR **TLT** 100 17 JUN 16/10 JUN 16 136 CALL **@.24**
+
+**Closing:** *06-10-2016* - SOLD CALENDAR **TLT** 100 17 JUN 16/10 JUN 16 136 CALL **@.62**
+
+**P/L**: <span class="pl profit">.62 - .24 = **+.38**</span>
+
+**Notes:**
+
+- *06-03-2016* - Opened with a bullish bias
+- *06-06-2016 - 06-09-2016* - Holding on
+- *06-10-2016* - Booking a winner here
+
+***
+
+<h3 id="CL_F-05092016-06082016">/CL</h3>
+
+**Opening:** *05-09-2016* - SOLD VERTICAL **CLM6** 1/1000 JUN 16 /LOM6 46/47 CALL **@.11**
+
+**Closing:**
+
+- *06-13-2016* -
+  * BUY 1 / 2 BACKRATIO /CLN6 1/1000 JUL 16 /LON6 (3) 47.5/49.5 C at **@-.72**
+  * BUY /CLN6 1/1000 JUL 16 /LON6 (3) 49.5 P at **@1.21**
+
+**Adjustments:**
+
+- *05-11-2016* -
+  * BOT VERTICAL **CLM6** 1/1000 JUN 16 /LOM6 46/47 CALL **@.46**
+  * SOLD 1 / 2 BACKRATIO **CLN6** 1/1000 JUL 16 /LON6 47.5/49.5 CALL **@.47**
+- *06-08-2016* - SOLD **CLN6** 1/1000 JUL 16 /LON6 (8) 49.5 P **@.47**
+
+**P/L**: <span class="pl profit">.11 - .46 + .47 + .47 + .72 - 1.21 = **+.10**</span>
+
+**Notes:**
+
+- *05-09-2016* - Opening this position after a swing high doji followed by a two-time reject of $46 on the daily with topping tails
+- *05-10-2016* - Holding on
+- *05-11-2016* - We made an adjustment to this position today - giving ourselves more time in case crude rips higher before expiration, and more room for profit to the upside, while maintaining initial credit
+- *05-12-2016 - 06-07-2016* - Holding on
+- *06-08-2016* - Selling the 49.5 put here. We want /CL to come down to this level soon.
+- *06-09-2016 - 06-10-2016* - Holding on - looking forward to the weekend.
+- *06-13-2016* - Closing this trade out for a slight winner. Was a little disappointed in the naked put we slapped on as a hedge - perhaps it was too aggressive. Either way, at least it wasn't a loser, and we'll take it. We'll look to put on a new position in crude for next expiry.
+
+***
+
+<h3 id="SLV-05092016-06082016">SLV</h3>
+
+**Opening:** *05-09-2016* - SOLD **SLV** 100 17 JUN 16 15.5 PUT **@.29**
+
+**Closing:** *06-08-2016* - BOT **SLV** 100 17 JUN 16 15.5 P **@.06**
+
+**P/L**: <span class="pl profit">.29 - .06 = **+.23**</span>
+
+**Notes:**
+
+- *05-09-2016* - Continuing to cashflow from being long precious metals
+- *05-10-2016 - 06-07-2016* - Holding on
+- *06-08-2016* - Booking a winner here, with over 50% profit
+
+***
+
+<h3 id="SQ-05052016-06072016">SQ</h3>
+
+**Opening:** *05-05-2016* - SOLD IRON CONDOR **SQ** 100 20 MAY 16 14/16/12/10 CALL/PUT **@.79**
+
+**Adjustments:**
+
+- *05-06-2016* - BOT **SQ** 100 20 MAY 16 14 CALL **@.03**
+- *05-06-2016* - SOLD 1/1/-1/1 CUSTOM **SQ** 100 17 JUN 16/17 JUN 16/20 MAY 16/20 MAY 16 11/10/12/10 CALL/PUT/PUT/PUT **@.20**
+
+**Closing:** *06-07-2016* - BOT STRANGLE **SQ** 100 17 JUN 16 11/10 CALL/PUT **@.75**
+
+**P/L**: <span class="pl profit">.79 - .03 + .20 - .75 = **+.21**</span>
+
+**Notes:**
+
+- *05-05-2016* - Just an earnings trade - this sold off afterhours past our short put, so we'll look to manage this over time
+- *05-06-2016* - We took off the short call, bought back the put spread, and opened a strangle in June.
+- *05-09-2016 - 06-06-2016* - Holding on
+- *06-07-2016* - Closed this earnings play out for a bit of a profit.
+
+***
+
+<h3 id="NFLX-05232016-06072016">NFLX</h3>
+
+**Opening:** *05-23-2016* - BOT 1/-2/-1 CUSTOM **NFLX** 100 17 JUN 16/17 JUN 16/17 JUN 16 95/100/85 CALL/CALL/PUT **@-.20**
+
+**Closing:** *06-07-2016* - SELL 1/-2/-1 CUSTOM $NFLX 100 17 JUN 16 (10)/17 JUN 16 (10)/17 JUN 16 (10) 95/100/85 C/C/P **@1.22**
+
+**P/L**: <span class="pl profit">1.22 - (-.20) = **+1.42**</span>
+
+**Notes:**
+
+- *05-23-2016* - Looking for a move up to around 100 for the gap fill. Got a couple of weeks for this to play out. Financed by a naked put
+- *05-24-2016 - 06-06-2016* - Holding on
+- *06-07-2016* - Closing this out for a decent winner.
+
+***
+
+<h3 id="6E_F">/6E</h3>
+
+**Opening:** *05-03-2016* - SOLD 1 / 2 BACKRATIO **6EM6** 1/125000 JUN 16 /6EM6 1.17/1.185 CALL **@.00**
+
+**Closing:** *06-03-2016* - Expired at even.
+
+**P/L**: <span class="pl">0</span>
+
+**Notes:**
+
+- *05-03-2016* - Opening a new long position in the EUR with a bit of a bullish bias
+- *05-04-2016 - present* - Holding on
+- *06-03-2016* - Expired at even
+
+***
+
+<h3 id="FXE-05032016-06032016">FXE</h3>
+
+**Opening:** *05-03-2016* - BOT DIAGONAL **FXE** 100 17 JUN 16/20 MAY 16 111/111.5 PUT **@.46**
+
+**Closing:** *06-03-2016* - SOLD DIAGONAL **FXE** 100 17 JUN 16/3 JUN 16 111/111.5 PUT **@.02**
+
+**Adjustments:**
+
+- *05-19-2016* - SOLD CALENDAR **FXE** 100 (Weeklys) 3 JUN 16/20 MAY 16 111.5 PUT **@.14**
+
+**P/L**: <span class="pl loss">-.46 +.02 + .14 = **-.30**</span>
+
+**Notes:**
+
+- *05-03-2016* - Opening a new position in FXE with a bearish bias - targeting the high volume node near 111.5 by expiration. [Here's the analysis posted on Twitter](https://twitter.com/theta_positive/status/727576121986797568 "FXE Diagonal Put Spread Analysis")
+- *05-04-2016 - 05-18-2016* - Holding on
+- *05-19-2016* - Made an adjustment here to lower the max loss and giving ourselves more time
+- *05-20-2016 - 06-02-2016* - Holding on
+- *06-03-2016* - Closing our trade for a loser.
+
+***
+
 <h3 id="NFLX-05252016-05312016">NFLX</h3>
 
 **Opening:** *05-25-2016* - BOT CALENDAR **NFLX** 100 (Weeklys) 10 JUN 16/3 JUN 16 105 CALL **@.49**
