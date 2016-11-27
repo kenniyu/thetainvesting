@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: distributions | ThetaTrades]]></title>
-  <link href="http://kenniyu.github.io/blog/categories/distributions/atom.xml" rel="self"/>
-  <link href="http://kenniyu.github.io/"/>
-  <updated>2016-11-26T14:33:50-08:00</updated>
-  <id>http://kenniyu.github.io/</id>
+  <link href="http://www.thetatrades.com/blog/categories/distributions/atom.xml" rel="self"/>
+  <link href="http://www.thetatrades.com/"/>
+  <updated>2016-11-26T16:28:15-08:00</updated>
+  <id>http://www.thetatrades.com/</id>
   <author>
     <name><![CDATA[theta]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Mind the POCs]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/05/03/mind-the-pocs/"/>
+    <link href="http://www.thetatrades.com/blog/2016/05/03/mind-the-pocs/"/>
     <updated>2016-05-03T06:11:24-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/05/03/mind-the-pocs</id>
+    <id>http://www.thetatrades.com/blog/2016/05/03/mind-the-pocs</id>
     <content type="html"><![CDATA[<p>We formed two distributions yesterday:</p>
 
 <p><a href="/images/blog/05032016/es.png"><img src="/images/blog/05032016/es.png" alt="/ES - 2016-05-03 - 15m Chart" /></a></p>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: fomc | ThetaTrades]]></title>
-  <link href="http://kenniyu.github.io/blog/categories/fomc/atom.xml" rel="self"/>
-  <link href="http://kenniyu.github.io/"/>
-  <updated>2016-11-26T14:33:50-08:00</updated>
-  <id>http://kenniyu.github.io/</id>
+  <link href="http://www.thetatrades.com/blog/categories/fomc/atom.xml" rel="self"/>
+  <link href="http://www.thetatrades.com/"/>
+  <updated>2016-11-26T16:28:15-08:00</updated>
+  <id>http://www.thetatrades.com/</id>
   <author>
     <name><![CDATA[theta]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Market Continues to Upside]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/03/16/market-continues-to-upside/"/>
+    <link href="http://www.thetatrades.com/blog/2016/03/16/market-continues-to-upside/"/>
     <updated>2016-03-16T19:27:04-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/03/16/market-continues-to-upside</id>
+    <id>http://www.thetatrades.com/blog/2016/03/16/market-continues-to-upside</id>
     <content type="html"><![CDATA[<p>Yellen did it again, and the markets rally higher. Let&rsquo;s take a look:</p>
 
 <p>As mentioned for a while now, SPX is still on track to tag the 2060 level:</p>

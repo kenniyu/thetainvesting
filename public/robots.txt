@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://kenniyu.github.io/sitemap.xml 
+Sitemap: http://www.thetatrades.com/sitemap.xml 

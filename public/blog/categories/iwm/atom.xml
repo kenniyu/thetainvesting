@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: iwm | ThetaTrades]]></title>
-  <link href="http://kenniyu.github.io/blog/categories/iwm/atom.xml" rel="self"/>
-  <link href="http://kenniyu.github.io/"/>
-  <updated>2016-11-26T14:33:50-08:00</updated>
-  <id>http://kenniyu.github.io/</id>
+  <link href="http://www.thetatrades.com/blog/categories/iwm/atom.xml" rel="self"/>
+  <link href="http://www.thetatrades.com/"/>
+  <updated>2016-11-26T16:28:15-08:00</updated>
+  <id>http://www.thetatrades.com/</id>
   <author>
     <name><![CDATA[theta]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[A Couple of Weekend Trade Ideas]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/05/01/weekend-trade-ideas/"/>
+    <link href="http://www.thetatrades.com/blog/2016/05/01/weekend-trade-ideas/"/>
     <updated>2016-05-01T19:37:05-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/05/01/weekend-trade-ideas</id>
+    <id>http://www.thetatrades.com/blog/2016/05/01/weekend-trade-ideas</id>
     <content type="html"><![CDATA[<p>If we&rsquo;re expecting a bit of retracement in the broad market indices, we can take a look at IWM.</p>
 
 <p>With volatility picking up, we can also look at put calendars.</p>

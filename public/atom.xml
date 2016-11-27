@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[ThetaTrades]]></title>
-  <link href="http://kenniyu.github.io/atom.xml" rel="self"/>
-  <link href="http://kenniyu.github.io/"/>
-  <updated>2016-11-26T14:33:50-08:00</updated>
-  <id>http://kenniyu.github.io/</id>
+  <link href="http://www.thetatrades.com/atom.xml" rel="self"/>
+  <link href="http://www.thetatrades.com/"/>
+  <updated>2016-11-26T16:28:15-08:00</updated>
+  <id>http://www.thetatrades.com/</id>
   <author>
     <name><![CDATA[theta]]></name>
     
@@ -15,25 +15,25 @@
   
   <entry>
     <title type="html"><![CDATA[Hello]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/11/26/hello/"/>
+    <link href="http://www.thetatrades.com/blog/2016/11/26/hello/"/>
     <updated>2016-11-26T14:32:38-08:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/11/26/hello</id>
+    <id>http://www.thetatrades.com/blog/2016/11/26/hello</id>
     <content type="html"><![CDATA[<p>Been a while! We&rsquo;ll be back soon with updates on options &amp; forex. Stay tuned.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Managing Existing Positions]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/06/09/managing-existing-positions/"/>
+    <link href="http://www.thetatrades.com/blog/2016/06/09/managing-existing-positions/"/>
     <updated>2016-06-09T21:31:45-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/06/09/managing-existing-positions</id>
+    <id>http://www.thetatrades.com/blog/2016/06/09/managing-existing-positions</id>
     <content type="html"><![CDATA[<p>This is the P/L graph for one spread of our <strong>/CL</strong> position - sitting currently in the profit zone:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/06092016/cl.png"><img src="http://kenniyu.github.io/images/blog/06092016/cl.png" alt="/CL - 2016-06-09 - Risk Graph" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/06092016/cl.png"><img src="http://www.thetatrades.com/images/blog/06092016/cl.png" alt="/CL - 2016-06-09 - Risk Graph" /></a></p>
 
 <p>Switching over to the volume composite and overlaying our risk graph breakevens:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/06092016/cl_vol_comp.png"><img src="http://kenniyu.github.io/images/blog/06092016/cl_vol_comp.png" alt="/CL - 2016-06-09 - Volume Composite With Max Profit &amp; Breakevens" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/06092016/cl_vol_comp.png"><img src="http://www.thetatrades.com/images/blog/06092016/cl_vol_comp.png" alt="/CL - 2016-06-09 - Volume Composite With Max Profit &amp; Breakevens" /></a></p>
 
 <p>The HVN (high volume node) over the past 20 days resides near 49.2, just a bit under our max profit level. Note that prices tend to get pulled toward HVNs, though we have a trendline (previously resistance) that may act as a support level (blue solid line), and crude may bounce there.</p>
 
@@ -52,17 +52,17 @@
 
 <p>Next is <strong>KORS</strong>. Here&rsquo;s our current risk graph:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/06092016/kors.png"><img src="http://kenniyu.github.io/images/blog/06092016/kors.png" alt="KORS - 2016-06-09 - Risk Graph" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/06092016/kors.png"><img src="http://www.thetatrades.com/images/blog/06092016/kors.png" alt="KORS - 2016-06-09 - Risk Graph" /></a></p>
 
 <p>And the volume composite:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/06092016/kors_vol_comp.png"><img src="http://kenniyu.github.io/images/blog/06092016/kors_vol_comp.png" alt="KORS - 2016-06-09 - Volume Composite" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/06092016/kors_vol_comp.png"><img src="http://www.thetatrades.com/images/blog/06092016/kors_vol_comp.png" alt="KORS - 2016-06-09 - Volume Composite" /></a></p>
 
 <p>Note the HVN at around 50.5.</p>
 
 <p>KORS had an amazing run, and I&rsquo;m expecting it to consolidate a bit here. Let&rsquo;s look to take our spreads off for about 1.00, 1.50, or 2.00. We&rsquo;re not aiming for the max profit on these types of trades, so start to peel these off if you have multiple.</p>
 
-<p>As part of managing our winners, these are the trades we should keep a close eye on because the losers will just work themselves out as winners in the end as time passes. We&rsquo;ll do our best here with these positions. As for the rest, follow them all on the <a href="http://kenniyu.github.io/trades" title="Follow All Trades">trades page</a>. To receive real-time notifications of any trade entries/adjustments/exits, make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a>, tap the settings icon on our profile page, and then select the option to enable push notifications.</p>
+<p>As part of managing our winners, these are the trades we should keep a close eye on because the losers will just work themselves out as winners in the end as time passes. We&rsquo;ll do our best here with these positions. As for the rest, follow them all on the <a href="http://www.thetatrades.com/trades" title="Follow All Trades">trades page</a>. To receive real-time notifications of any trade entries/adjustments/exits, make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a>, tap the settings icon on our profile page, and then select the option to enable push notifications.</p>
 
 <p>That&rsquo;s it for our trade management update today. Good luck in the markets tomorrow!</p>
 ]]></content>
@@ -70,48 +70,48 @@
   
   <entry>
     <title type="html"><![CDATA[Preparing for an Upside Breakout]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/06/04/preparing-for-an-upside-breakout/"/>
+    <link href="http://www.thetatrades.com/blog/2016/06/04/preparing-for-an-upside-breakout/"/>
     <updated>2016-06-04T10:08:28-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/06/04/preparing-for-an-upside-breakout</id>
+    <id>http://www.thetatrades.com/blog/2016/06/04/preparing-for-an-upside-breakout</id>
     <content type="html"><![CDATA[<p>Why next week should be bullish</p>
 
 <p>Much of the trade this past week contributed to developing the big balance area between 2082.50 and 2106:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/06042016/es.png"><img src="http://kenniyu.github.io/images/blog/06042016/es.png" alt="/ES - 2016-06-04 - 1h Chart - Balance Area" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/06042016/es.png"><img src="http://www.thetatrades.com/images/blog/06042016/es.png" alt="/ES - 2016-06-04 - 1h Chart - Balance Area" /></a></p>
 
 <p>Notice where most of the volume took place over the past 5 days:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/06042016/es_15m.png"><img src="http://kenniyu.github.io/images/blog/06042016/es_15m.png" alt="/ES - 2016-06-04 - 15m Chart Volume Composite" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/06042016/es_15m.png"><img src="http://www.thetatrades.com/images/blog/06042016/es_15m.png" alt="/ES - 2016-06-04 - 15m Chart Volume Composite" /></a></p>
 
 <p>The fairest price to do business appears to be right in the middle of this balance area. This is neutral so far.</p>
 
 <p>However, as a point in the Bulls camp, note how we&rsquo;ve had multiple liquidation breaks with no significant follow-through to the downside, and in multiple sessions, we ended with the Bulls taking it right back up to near 2100. On the daily:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/06042016/es_tails.png"><img src="http://kenniyu.github.io/images/blog/06042016/es_tails.png" alt="/ES - 2016-06-04 - Daily Bottoming-Tails" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/06042016/es_tails.png"><img src="http://www.thetatrades.com/images/blog/06042016/es_tails.png" alt="/ES - 2016-06-04 - Daily Bottoming-Tails" /></a></p>
 
 <p>Note the bottoming-tail hammers. There are 5 of them all within the balance area. An edge to the Bulls.</p>
 
 <p>Taking a look at the indices on the weekly, here&rsquo;s the SPX:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/06042016/spx.png"><img src="http://kenniyu.github.io/images/blog/06042016/spx.png" alt="SPX - 2016-06-04 - Weekly Chart" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/06042016/spx.png"><img src="http://www.thetatrades.com/images/blog/06042016/spx.png" alt="SPX - 2016-06-04 - Weekly Chart" /></a></p>
 
 <p>Doji forming above trendline support.</p>
 
 <p>DJX:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/06042016/djx.png"><img src="http://kenniyu.github.io/images/blog/06042016/djx.png" alt="DJX - 2016-06-04 - Weekly Chart" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/06042016/djx.png"><img src="http://www.thetatrades.com/images/blog/06042016/djx.png" alt="DJX - 2016-06-04 - Weekly Chart" /></a></p>
 
 <p>Bottoming tail above trendline support.</p>
 
 <p>NDX:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/06042016/ndx.png"><img src="http://kenniyu.github.io/images/blog/06042016/ndx.png" alt="NDX - 2016-06-04 - Weekly Chart" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/06042016/ndx.png"><img src="http://www.thetatrades.com/images/blog/06042016/ndx.png" alt="NDX - 2016-06-04 - Weekly Chart" /></a></p>
 
 <p>Doji right at trendline resistance. This could make for a big breakout.</p>
 
 <p>RUT:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/06042016/rut.png"><img src="http://kenniyu.github.io/images/blog/06042016/rut.png" alt="RUT - 2016-06-04 - Weekly Chart" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/06042016/rut.png"><img src="http://www.thetatrades.com/images/blog/06042016/rut.png" alt="RUT - 2016-06-04 - Weekly Chart" /></a></p>
 
 <p>The strongest of them all, Maintaining the breakout above multiple trendline supports.</p>
 
@@ -119,7 +119,7 @@
 
 <p>Could we continue to remain in balance next week? Absolutely, and if so, the resulting breakout would be more violent. But be prepared for a breakout this coming week to the upside.</p>
 
-<p>This past week, we made many trade adjustments. Keep an eye on <a href="http://kenniyu.github.io/trades#KORS" title="KORS">KORS</a>, <a href="http://kenniyu.github.io/trades#NFLX" title="NFLX">NFLX</a>, <a href="http://kenniyu.github.io/trades#CL_F" title="/CL">/CL</a>, <a href="http://kenniyu.github.io/trades#SQ" title="SQ">SQ</a>, and <a href="http://kenniyu.github.io/trades#SLV" title="SLV">SLV</a> as potential winners to manage. As always, I will be tweeting out entries/adjustments/exits on Twitter, so if you haven&rsquo;t already, make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> to get these updates in real-time.</p>
+<p>This past week, we made many trade adjustments. Keep an eye on <a href="http://www.thetatrades.com/trades#KORS" title="KORS">KORS</a>, <a href="http://www.thetatrades.com/trades#NFLX" title="NFLX">NFLX</a>, <a href="http://www.thetatrades.com/trades#CL_F" title="/CL">/CL</a>, <a href="http://www.thetatrades.com/trades#SQ" title="SQ">SQ</a>, and <a href="http://www.thetatrades.com/trades#SLV" title="SLV">SLV</a> as potential winners to manage. As always, I will be tweeting out entries/adjustments/exits on Twitter, so if you haven&rsquo;t already, make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> to get these updates in real-time.</p>
 
 <p>That&rsquo;s it for this week&rsquo;s market recap and outlook. Enjoy the weekend everyone!</p>
 ]]></content>
@@ -127,9 +127,9 @@
   
   <entry>
     <title type="html"><![CDATA[Comments on Gold Trade]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/05/31/comments-on-existing-gold-trade/"/>
+    <link href="http://www.thetatrades.com/blog/2016/05/31/comments-on-existing-gold-trade/"/>
     <updated>2016-05-31T18:49:04-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/05/31/comments-on-existing-gold-trade</id>
+    <id>http://www.thetatrades.com/blog/2016/05/31/comments-on-existing-gold-trade</id>
     <content type="html"><![CDATA[<p>Hope everyone had a great Memorial weekend!</p>
 
 <p>Today we placed a couple of new trades, one of them being on Gold:</p>
@@ -142,7 +142,7 @@
 
 <p>Let&rsquo;s take a look at the daily chart for /GC:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05312016/gc.png"><img src="http://kenniyu.github.io/images/blog/05312016/gc.png" alt="/GC - 2016-05-31 - Daily Chart - Channel Support &amp; Analog Retracement" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05312016/gc.png"><img src="http://www.thetatrades.com/images/blog/05312016/gc.png" alt="/GC - 2016-05-31 - Daily Chart - Channel Support &amp; Analog Retracement" /></a></p>
 
 <p>There&rsquo;s an analog between the first break of the channel &ldquo;resistance&rdquo; and where /GC low-based (first pink rectangle), and where we just broke below that channel &ldquo;resistance&rdquo; later again at a higher price and where we may be low-basing going forward (right pink rectangle). We can expect the channel support to hold, and personally I will be long gold anywhere along that trendline. But for now, as long as /GC nears 1150 by expiration, we should be closing this trade out for a profit when the opportunity presents itself.</p>
 
@@ -152,12 +152,12 @@
   
   <entry>
     <title type="html"><![CDATA[Expecting Some Consolidation]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/05/26/expecting-some-consolidation/"/>
+    <link href="http://www.thetatrades.com/blog/2016/05/26/expecting-some-consolidation/"/>
     <updated>2016-05-26T05:57:04-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/05/26/expecting-some-consolidation</id>
+    <id>http://www.thetatrades.com/blog/2016/05/26/expecting-some-consolidation</id>
     <content type="html"><![CDATA[<p>Here&rsquo;s the volume composite again on the /ES over the past month:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05262016/es.png"><img src="http://kenniyu.github.io/images/blog/05262016/es.png" alt="/ES - 2016-05-26 - 1h Chart - Volume Composite" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05262016/es.png"><img src="http://www.thetatrades.com/images/blog/05262016/es.png" alt="/ES - 2016-05-26 - 1h Chart - Volume Composite" /></a></p>
 
 <p>I&rsquo;m still watching the high volume nodes at 2075 and 2085 to see how they develop.</p>
 
@@ -173,12 +173,12 @@
   
   <entry>
     <title type="html"><![CDATA[Watch Development of HVN at 2075-2085]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/05/25/watch-development-of-hvn-at-2075-2085/"/>
+    <link href="http://www.thetatrades.com/blog/2016/05/25/watch-development-of-hvn-at-2075-2085/"/>
     <updated>2016-05-25T06:27:07-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/05/25/watch-development-of-hvn-at-2075-2085</id>
+    <id>http://www.thetatrades.com/blog/2016/05/25/watch-development-of-hvn-at-2075-2085</id>
     <content type="html"><![CDATA[<p>/ES broke out of the descending channel yesterday and closed strong above it. This is slightly bullish, but in a long term perspective, still neutral:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05252016/es.png"><img src="http://kenniyu.github.io/images/blog/05252016/es.png" alt="/ES - 2016-05-25 - 1h Chart - Volume Composite" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05252016/es.png"><img src="http://www.thetatrades.com/images/blog/05252016/es.png" alt="/ES - 2016-05-25 - 1h Chart - Volume Composite" /></a></p>
 
 <p>I&rsquo;m expecting tomorrow&rsquo;s action to pause a bit, especially after such a rally. If this happens, it only makes the developing volume node at 2075 more prominent.</p>
 
@@ -192,14 +192,14 @@
   
   <entry>
     <title type="html"><![CDATA[Market Still Remains in Balance - Be Theta Positive]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/05/24/market-still-remains-in-balance-be-theta-positive/"/>
+    <link href="http://www.thetatrades.com/blog/2016/05/24/market-still-remains-in-balance-be-theta-positive/"/>
     <updated>2016-05-24T05:17:00-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/05/24/market-still-remains-in-balance-be-theta-positive</id>
+    <id>http://www.thetatrades.com/blog/2016/05/24/market-still-remains-in-balance-be-theta-positive</id>
     <content type="html"><![CDATA[<p>In a market that barely moves these days, it&rsquo;s great when the core of your portfolio is theta positive. We already are, but this is just an emphasis on that fact.</p>
 
 <p>The market is still stuck within the large balance area between 2080 and 2012, with 2052 being a very prominent volume node:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05242016/es.png"><img src="http://kenniyu.github.io/images/blog/05242016/es.png" alt="/ES - 2016-05-24 - 1h Chart - Volume Composite" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05242016/es.png"><img src="http://www.thetatrades.com/images/blog/05242016/es.png" alt="/ES - 2016-05-24 - 1h Chart - Volume Composite" /></a></p>
 
 <p>The next prominent HVN over the past 30 days appears to be 2075, which is towards the upper end of this balance area. 2075 would be the first upside target to aim for if we see the market move higher. Placing a butterfly there for a credit would be a great play, or some kind of a call ratio with more room to the upside. I&rsquo;ll be looking for something to do here.</p>
 
@@ -215,22 +215,22 @@
   
   <entry>
     <title type="html"><![CDATA[Market Remains in Balance]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/05/23/market-remains-in-balance/"/>
+    <link href="http://www.thetatrades.com/blog/2016/05/23/market-remains-in-balance/"/>
     <updated>2016-05-23T05:25:23-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/05/23/market-remains-in-balance</id>
+    <id>http://www.thetatrades.com/blog/2016/05/23/market-remains-in-balance</id>
     <content type="html"><![CDATA[<p>Last week, we had a whole lot of nothing, closing the week flat where we started:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05232016/es.png"><img src="http://kenniyu.github.io/images/blog/05232016/es.png" alt="/ES - 2016-05-23 - Weekly Chart" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05232016/es.png"><img src="http://www.thetatrades.com/images/blog/05232016/es.png" alt="/ES - 2016-05-23 - Weekly Chart" /></a></p>
 
 <p>Notice the developing high volume node around 2050 on the /ES:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05232016/es_profile.png"><img src="http://kenniyu.github.io/images/blog/05232016/es_profile.png" alt="/ES - 2016-05-23 - 4h Chart - Volume Composite" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05232016/es_profile.png"><img src="http://www.thetatrades.com/images/blog/05232016/es_profile.png" alt="/ES - 2016-05-23 - 4h Chart - Volume Composite" /></a></p>
 
 <p>Traders love this spot, and it&rsquo;s smack in the middle of our big balance area. Consider buying wide, weekly butterflies in this area to capture a lot of theta.</p>
 
 <p>So what I&rsquo;m looking for this week on the /ES is for us to continue staying in balance along this descending channel:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05232016/es_channel.png"><img src="http://kenniyu.github.io/images/blog/05232016/es_channel.png" alt="/ES - 2016-05-23 - 1d Chart - Descending Channel" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05232016/es_channel.png"><img src="http://www.thetatrades.com/images/blog/05232016/es_channel.png" alt="/ES - 2016-05-23 - 1d Chart - Descending Channel" /></a></p>
 
 <p>Watch for bounces off of the channel support and resistance.</p>
 
@@ -240,10 +240,10 @@
   
   <entry>
     <title type="html"><![CDATA[Nothing New]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/05/13/nothing-new/"/>
+    <link href="http://www.thetatrades.com/blog/2016/05/13/nothing-new/"/>
     <updated>2016-05-13T05:32:26-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/05/13/nothing-new</id>
-    <content type="html"><![CDATA[<p><a href="http://kenniyu.github.io/images/blog/05132016/es.png"><img src="http://kenniyu.github.io/images/blog/05132016/es.png" alt="/ES - 2016-05-13 - 15m Chart - Volume Profile" /></a></p>
+    <id>http://www.thetatrades.com/blog/2016/05/13/nothing-new</id>
+    <content type="html"><![CDATA[<p><a href="http://www.thetatrades.com/images/blog/05132016/es.png"><img src="http://www.thetatrades.com/images/blog/05132016/es.png" alt="/ES - 2016-05-13 - 15m Chart - Volume Profile" /></a></p>
 
 <p>Yesterday, we had another day where value area overlapped the prior days&rsquo;s value area. Again, this spells low confidence - traders have a tough time getting prices to trend in any direction whatsoever. We had liquidation breaks followed by short squeezes closely following each other in many of the recent sessions (yesterday&rsquo;s price action showed that very clearly), so the struggle between the Bulls and the Bears continue.</p>
 
@@ -257,12 +257,12 @@
   
   <entry>
     <title type="html"><![CDATA[Extremely Low Confidence - Remaining Neutral For Now]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/05/12/extremely-low-confidence-remaining-neutral-for-now/"/>
+    <link href="http://www.thetatrades.com/blog/2016/05/12/extremely-low-confidence-remaining-neutral-for-now/"/>
     <updated>2016-05-12T06:05:12-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/05/12/extremely-low-confidence-remaining-neutral-for-now</id>
-    <content type="html"><![CDATA[<p><a href="http://kenniyu.github.io/images/blog/05122016/es.png"><img src="http://kenniyu.github.io/images/blog/05122016/es.png" alt="/ES - 2016-05-12 - 15m Chart - Volume Profile &amp; 20d Composite" /></a></p>
+    <id>http://www.thetatrades.com/blog/2016/05/12/extremely-low-confidence-remaining-neutral-for-now</id>
+    <content type="html"><![CDATA[<p><a href="http://www.thetatrades.com/images/blog/05122016/es.png"><img src="http://www.thetatrades.com/images/blog/05122016/es.png" alt="/ES - 2016-05-12 - 15m Chart - Volume Profile &amp; 20d Composite" /></a></p>
 
-<p>On Wednesday, we had an entire retracement of Tuesday&rsquo;s rally. <a href="http://kenniyu.github.io/blog/2016/05/11/expecting-consolidation-before-next-hvn-at-2085/" title="Expecting Consolidation Before Next HVN at 2085">In the blog post yesterday</a>, we mentioned that if we did see that, it puts the rally in question. All of this just goes to show the low confidence that traders have in the market. If we were in a high confidence market, you wouldn&rsquo;t see a rally give back like this. You would see a slight pullback or pause, before a continuation higher. You would definitely see things trend more easily without value areas grinding slowly in one direction, overlapping the previous day&rsquo;s. And you would definitely see more volume. Last week it felt like the Bears couldn&rsquo;t get a good momentum to the downside, and now, the Bulls can&rsquo;t seem to hold up their end either.</p>
+<p>On Wednesday, we had an entire retracement of Tuesday&rsquo;s rally. <a href="http://www.thetatrades.com/blog/2016/05/11/expecting-consolidation-before-next-hvn-at-2085/" title="Expecting Consolidation Before Next HVN at 2085">In the blog post yesterday</a>, we mentioned that if we did see that, it puts the rally in question. All of this just goes to show the low confidence that traders have in the market. If we were in a high confidence market, you wouldn&rsquo;t see a rally give back like this. You would see a slight pullback or pause, before a continuation higher. You would definitely see things trend more easily without value areas grinding slowly in one direction, overlapping the previous day&rsquo;s. And you would definitely see more volume. Last week it felt like the Bears couldn&rsquo;t get a good momentum to the downside, and now, the Bulls can&rsquo;t seem to hold up their end either.</p>
 
 <p>I&rsquo;m going to have to remain neutral here, keeping focus on the HVNs at 2075 and 2085 on the upside, and 2050 on the downside. As of the time of this writing, /ES is trading at 2069, which is within yesterday&rsquo;s value area. I would not be surprised if we continue to build value here.</p>
 
@@ -274,14 +274,14 @@
   
   <entry>
     <title type="html"><![CDATA[Expecting Consolidation Before Next HVN at 2085]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/05/11/expecting-consolidation-before-next-hvn-at-2085/"/>
+    <link href="http://www.thetatrades.com/blog/2016/05/11/expecting-consolidation-before-next-hvn-at-2085/"/>
     <updated>2016-05-11T05:50:34-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/05/11/expecting-consolidation-before-next-hvn-at-2085</id>
+    <id>http://www.thetatrades.com/blog/2016/05/11/expecting-consolidation-before-next-hvn-at-2085</id>
     <content type="html"><![CDATA[<p>We had a tremendous rally yesterday:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05112016/es.png"><img src="http://kenniyu.github.io/images/blog/05112016/es.png" alt="/ES - 2016-05-11 - 15m Chart - Volume Profile &amp; 20d Composite" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05112016/es.png"><img src="http://www.thetatrades.com/images/blog/05112016/es.png" alt="/ES - 2016-05-11 - 15m Chart - Volume Profile &amp; 20d Composite" /></a></p>
 
-<p>Profile is a bit stretched and volume a bit low; regardless, the edge here is clearly to the Bulls. <a href="http://kenniyu.github.io/blog/2016/05/10/mind-the-hvns/" title="Mind the HVNs">As mentioned yesterday morning</a>, for the Bulls, we were looking for a move to near one of the HVNs, either 2075 or 2085. We got that first one, with yesterday&rsquo;s POC right at 2074.50, so the next target now is 2085.</p>
+<p>Profile is a bit stretched and volume a bit low; regardless, the edge here is clearly to the Bulls. <a href="http://www.thetatrades.com/blog/2016/05/10/mind-the-hvns/" title="Mind the HVNs">As mentioned yesterday morning</a>, for the Bulls, we were looking for a move to near one of the HVNs, either 2075 or 2085. We got that first one, with yesterday&rsquo;s POC right at 2074.50, so the next target now is 2085.</p>
 
 <p>Bias here is now slightly bullish. I wouldn&rsquo;t be surprised to see some consolidation or retracement here before we continue the movement higher. However, an entire retracement of yesterday&rsquo;s upmove puts yesterday&rsquo;s rally into question, so watch out for that as well.</p>
 
@@ -295,12 +295,12 @@
   
   <entry>
     <title type="html"><![CDATA[Mind the HVNs]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/05/10/mind-the-hvns/"/>
+    <link href="http://www.thetatrades.com/blog/2016/05/10/mind-the-hvns/"/>
     <updated>2016-05-10T05:32:39-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/05/10/mind-the-hvns</id>
+    <id>http://www.thetatrades.com/blog/2016/05/10/mind-the-hvns</id>
     <content type="html"><![CDATA[<p>Yesterday&rsquo;s trade was very evenly distributed around the POC, with a small value area range, so it was a fairly decent balance day:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05102016/es.png"><img src="http://kenniyu.github.io/images/blog/05102016/es.png" alt="/ES - 2016-05-10 - 5m Chart - Volume Profile" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05102016/es.png"><img src="http://www.thetatrades.com/images/blog/05102016/es.png" alt="/ES - 2016-05-10 - 5m Chart - Volume Profile" /></a></p>
 
 <p>Traders were able to find acceptance back in the upper distributions of last Thursday&rsquo;s and Friday&rsquo;s trade. They managed to build value higher, albeit overlapping, thus not really a sign of any momentum. Again, we&rsquo;re seeing low confidence as traders have no idea where to go from here.</p>
 
@@ -323,12 +323,12 @@
   
   <entry>
     <title type="html"><![CDATA[Low Confidence Continues]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/05/09/low-confidence-continues/"/>
+    <link href="http://www.thetatrades.com/blog/2016/05/09/low-confidence-continues/"/>
     <updated>2016-05-09T05:44:41-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/05/09/low-confidence-continues</id>
+    <id>http://www.thetatrades.com/blog/2016/05/09/low-confidence-continues</id>
     <content type="html"><![CDATA[<p>Last Friday we formed two distributions:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05092016/es.png"><img src="http://kenniyu.github.io/images/blog/05092016/es.png" alt="/ES - 2016-05-09 - 5m Chart - Volume Profile" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05092016/es.png"><img src="http://www.thetatrades.com/images/blog/05092016/es.png" alt="/ES - 2016-05-09 - 5m Chart - Volume Profile" /></a></p>
 
 <p>Traders took the market back up to the upper distribution formed on Thursday.</p>
 
@@ -340,25 +340,25 @@
 
 <p>SPX:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05092016/spx.png"><img src="http://kenniyu.github.io/images/blog/05092016/spx.png" alt="SPX - 2016-05-09 - Weekly Chart" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05092016/spx.png"><img src="http://www.thetatrades.com/images/blog/05092016/spx.png" alt="SPX - 2016-05-09 - Weekly Chart" /></a></p>
 
 <p>Still holding below trendline resistance, and has room to fall to the downside to the 38% Fib.</p>
 
 <p>DJX:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05092016/djx.png"><img src="http://kenniyu.github.io/images/blog/05092016/djx.png" alt="DJX - 2016-05-09 - Weekly Chart" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05092016/djx.png"><img src="http://www.thetatrades.com/images/blog/05092016/djx.png" alt="DJX - 2016-05-09 - Weekly Chart" /></a></p>
 
 <p>This one is holding well above the trendline support.</p>
 
 <p>NDX:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05092016/ndx.png"><img src="http://kenniyu.github.io/images/blog/05092016/ndx.png" alt="NDX - 2016-05-09 - Weekly Chart" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05092016/ndx.png"><img src="http://www.thetatrades.com/images/blog/05092016/ndx.png" alt="NDX - 2016-05-09 - Weekly Chart" /></a></p>
 
 <p>As the weakest of the bunch, it&rsquo;s spent a long time grinding lower and is holding above the 50% Fib.</p>
 
 <p>RUT:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05092016/rut.png"><img src="http://kenniyu.github.io/images/blog/05092016/rut.png" alt="RUT - 2016-05-09 - Weekly Chart" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05092016/rut.png"><img src="http://www.thetatrades.com/images/blog/05092016/rut.png" alt="RUT - 2016-05-09 - Weekly Chart" /></a></p>
 
 <p>Just closed below the trendline resistance last week. Let&rsquo;s see how that trendline acts as resistance this week, however.</p>
 
@@ -370,16 +370,16 @@
   
   <entry>
     <title type="html"><![CDATA[Still Grinding Lower]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/05/06/still-grinding-lower/"/>
+    <link href="http://www.thetatrades.com/blog/2016/05/06/still-grinding-lower/"/>
     <updated>2016-05-06T05:11:48-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/05/06/still-grinding-lower</id>
+    <id>http://www.thetatrades.com/blog/2016/05/06/still-grinding-lower</id>
     <content type="html"><![CDATA[<p>We formed two distributions yesterday, with the POC at 2049.25. Although we slowly took trade to the lower distribution of yesterday&rsquo;s trade, value was overlapping to up - not something I would point to as extremely bearish:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05062016/es.png"><img src="http://kenniyu.github.io/images/blog/05062016/es.png" alt="/ES - 2016-05-06 - 15m Chart - Volume Profile" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05062016/es.png"><img src="http://www.thetatrades.com/images/blog/05062016/es.png" alt="/ES - 2016-05-06 - 15m Chart - Volume Profile" /></a></p>
 
 <p>Currently, /ES is gapping down about 5 points. As mentioned in previous blog posts, the Bears still have a lot to chew through to get well past the 2040.50 level. The unemployment numbers coming out today could be the deciding factor of whether or not we move up or down. Watch the internals and look for selling backed by volume. If we do head lower, look for a slight bounce at 2032.75. If that doesn&rsquo;t hold, 2012 is that next target:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05062016/es_comp.png"><img src="http://kenniyu.github.io/images/blog/05062016/es_comp.png" alt="/ES - 2016-05-06 - 1hr Chart - Volume Composite" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05062016/es_comp.png"><img src="http://www.thetatrades.com/images/blog/05062016/es_comp.png" alt="/ES - 2016-05-06 - 1hr Chart - Volume Composite" /></a></p>
 
 <p>That&rsquo;s it for the market outlook. We&rsquo;ll be doing more trade adjustments today, so as always, make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me there</a> to receive tweets regarding our trades in real-time. Also, turn on notifications specifically from me. Just visit my Twitter profile on mobile, select the Settings gear, and then select the option to turn on notifications.</p>
 
@@ -389,16 +389,16 @@
   
   <entry>
     <title type="html"><![CDATA[Still a Lot to Chew Through for the Bears]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/05/05/still-a-lot-to-chew-through-for-the-bears/"/>
+    <link href="http://www.thetatrades.com/blog/2016/05/05/still-a-lot-to-chew-through-for-the-bears/"/>
     <updated>2016-05-05T06:00:02-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/05/05/still-a-lot-to-chew-through-for-the-bears</id>
+    <id>http://www.thetatrades.com/blog/2016/05/05/still-a-lot-to-chew-through-for-the-bears</id>
     <content type="html"><![CDATA[<p>Value gapped lower yesterday and traders found themselves accepting prices just slightly above the high volume node  at 2040.50. As mentioned before, the Bears have a lot to chew through in order to break through the downside, and that is the entire balance area that we see on the left:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05052016/es.png"><img src="http://kenniyu.github.io/images/blog/05052016/es.png" alt="/ES - 2016-05-05 - 1hr Chart" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05052016/es.png"><img src="http://www.thetatrades.com/images/blog/05052016/es.png" alt="/ES - 2016-05-05 - 1hr Chart" /></a></p>
 
 <p>Currently futures are gapping up about 7.50, right inside Tuesday&rsquo;s value area and near its POC. Will traders find acceptance again back in this area? If so, we would&rsquo;ve had 3 days of overlapping value area (last Friday, this Tuesday, and then today if it happens), and it marks this area as an important short-term balance area.</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05052016/es_zoomed.png"><img src="http://kenniyu.github.io/images/blog/05052016/es_zoomed.png" alt="/ES - 2016-05-05 - 5m Chart" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05052016/es_zoomed.png"><img src="http://www.thetatrades.com/images/blog/05052016/es_zoomed.png" alt="/ES - 2016-05-05 - 5m Chart" /></a></p>
 
 <p>Reference points for today are 2060 (overnight high), 2053.50 (yesterday&rsquo;s high), 2047.50 (yesterday&rsquo;s value area high), 2045.50 (yesterday&rsquo;s POC) and 2041.25 (yesterday&rsquo;s value area low). Watch how the overnight high acts as a reference point: if we rally up to there, but fail to take it out or only take it out by a tick or two and then fail back down, you can look to target yesterday&rsquo;s high back down at 2053.50, followed by the value area high, then the POC, then value area low, and then yesterday&rsquo;s low.</p>
 
@@ -410,12 +410,12 @@
   
   <entry>
     <title type="html"><![CDATA[About That High Volume Node]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/05/04/about-that-high-volume-node/"/>
+    <link href="http://www.thetatrades.com/blog/2016/05/04/about-that-high-volume-node/"/>
     <updated>2016-05-04T05:13:57-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/05/04/about-that-high-volume-node</id>
+    <id>http://www.thetatrades.com/blog/2016/05/04/about-that-high-volume-node</id>
     <content type="html"><![CDATA[<p>Congratulations to the Bears. Yesterday&rsquo;s action proved that Monday was nothing more than a fake-out, with the value overlapping Friday&rsquo;s value area. It appears that we&rsquo;re now going to explore the big balance area that we&rsquo;ve had going back from mid-March to mid-April - this is the 2012 to 2067 area:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05042016/es.png"><img src="http://kenniyu.github.io/images/blog/05042016/es.png" alt="/ES - 2016-05-04 - 1hr Chart" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05042016/es.png"><img src="http://www.thetatrades.com/images/blog/05042016/es.png" alt="/ES - 2016-05-04 - 1hr Chart" /></a></p>
 
 <p><a href="www.thetatrades.com/blog/2016/04/30/an-edge-to-the-bears/" title="An Edge to the Bears">As I mentioned multiple times in previous posts</a>, the first target to the downside is 2040.50 - this is where that high volume node sits on the volume composite. Expect any movement to the downside be halted by that area, because that is where a lot of transactions occurred, and traders will most likely be stepping up to buy there (by the way, if you look at the overnight data, look where we stopped - 2040.75 just one tick above that high volume node). If sellers start taking control after that point, then look to target the other side of balance, which is 2012 (again, this is why I&rsquo;ve been having these reference points on the chart for so long, so I can carry this information forward for days like today).</p>
 
@@ -429,18 +429,18 @@
   
   <entry>
     <title type="html"><![CDATA[Mind the POCs]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/05/03/mind-the-pocs/"/>
+    <link href="http://www.thetatrades.com/blog/2016/05/03/mind-the-pocs/"/>
     <updated>2016-05-03T06:11:24-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/05/03/mind-the-pocs</id>
+    <id>http://www.thetatrades.com/blog/2016/05/03/mind-the-pocs</id>
     <content type="html"><![CDATA[<p>We formed two distributions yesterday:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05032016/es.png"><img src="http://kenniyu.github.io/images/blog/05032016/es.png" alt="/ES - 2016-05-03 - 15m Chart" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05032016/es.png"><img src="http://www.thetatrades.com/images/blog/05032016/es.png" alt="/ES - 2016-05-03 - 15m Chart" /></a></p>
 
 <p>We closed yesterday&rsquo;s trade in the upper distribution, which resides back in the intermediate balance area. The Bulls were able to get trade back up into the lower distribution from last Thursday&rsquo;s trade. I&rsquo;m not surprised at all - as I mentioned before, I think the trading we continue to see from both the Bulls and Bears is one of low confidence.</p>
 
 <p>Let&rsquo;s take a closer look on the 5-minute chart:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05032016/es_zoomed.png"><img src="http://kenniyu.github.io/images/blog/05032016/es_zoomed.png" alt="/ES - 2016-05-03 - 5m Chart Taking a Closer Look at POCs and Distributions" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05032016/es_zoomed.png"><img src="http://www.thetatrades.com/images/blog/05032016/es_zoomed.png" alt="/ES - 2016-05-03 - 5m Chart Taking a Closer Look at POCs and Distributions" /></a></p>
 
 <p>As of now, the /ES is gapping down about 12 points. This is inside yesterday&rsquo;s lower distribution. I want to see how traders acknowledge yesterday&rsquo;s POC at around 2065.75. Do we continue to trade near this POC in this lower distribution, or will traders like the upper distribution more? The former gives me a neutral bias, while the latter gives me more of a bullish bias. A healthy move to the downside would be to gap below yesterday&rsquo;s POC, retrace back up to tag it, and then sell off. Watch for this to happen, as this is a bearish sign. Furthermore, keep in mind Friday&rsquo;s POC at around 2058.50. Ignoring overnight data, this POC is currently untouched. Taking trade lower to that point today is also a bearish sign - watch how traders accept this POC as well.</p>
 
@@ -452,38 +452,38 @@
   
   <entry>
     <title type="html"><![CDATA[A Couple of Weekend Trade Ideas]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/05/01/weekend-trade-ideas/"/>
+    <link href="http://www.thetatrades.com/blog/2016/05/01/weekend-trade-ideas/"/>
     <updated>2016-05-01T19:37:05-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/05/01/weekend-trade-ideas</id>
+    <id>http://www.thetatrades.com/blog/2016/05/01/weekend-trade-ideas</id>
     <content type="html"><![CDATA[<p>If we&rsquo;re expecting a bit of retracement in the broad market indices, we can take a look at IWM.</p>
 
 <p>With volatility picking up, we can also look at put calendars.</p>
 
 <p>Here&rsquo;s the Fibonacci fan on the IWM over the February rally which shows us potential retracement areas in the future:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05012016/iwm_fib_fan.png"><img src="http://kenniyu.github.io/images/blog/05012016/iwm_fib_fan.png" alt="IWM - 2016-05-01 - Volume Composite" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05012016/iwm_fib_fan.png"><img src="http://www.thetatrades.com/images/blog/05012016/iwm_fib_fan.png" alt="IWM - 2016-05-01 - Volume Composite" /></a></p>
 
 <p>If we&rsquo;re looking for an upcoming retracement, it helps to combine this fan with the volume profile over the past 20 days to figure out where price would have a predisposition to trade near, and see where the fan and the high volume node areas intersect. This will help us figure out the strike and expiry of our put calendar. With that, here&rsquo;s the volume profile over the past 20 days:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05012016/iwm_volume.png"><img src="http://kenniyu.github.io/images/blog/05012016/iwm_volume.png" alt="IWM - 2016-05-01 - Volume Composite" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05012016/iwm_volume.png"><img src="http://www.thetatrades.com/images/blog/05012016/iwm_volume.png" alt="IWM - 2016-05-01 - Volume Composite" /></a></p>
 
 <p>The high volume node is near 109.5 and it seems to intersect the fan about two weeks out. I&rsquo;ve highlighted this potential area in oval. This means a potential trade setup is the 109.5 put calendar, with the short strike expiring next Friday, and the long strike next next Friday. Here&rsquo;s the risk graph:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05012016/iwm_risk_graph.png"><img src="http://kenniyu.github.io/images/blog/05012016/iwm_risk_graph.png" alt="IWM - 2016-05-01 - Risk Graph" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05012016/iwm_risk_graph.png"><img src="http://www.thetatrades.com/images/blog/05012016/iwm_risk_graph.png" alt="IWM - 2016-05-01 - Risk Graph" /></a></p>
 
 <p>The same thing can be done with others as well. Here&rsquo;s CMG on the weekly:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05012016/cmg_weekly.png"><img src="http://kenniyu.github.io/images/blog/05012016/cmg_weekly.png" alt="CMG - 2016-05-01 - Weekly" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05012016/cmg_weekly.png"><img src="http://www.thetatrades.com/images/blog/05012016/cmg_weekly.png" alt="CMG - 2016-05-01 - Weekly" /></a></p>
 
 <p>Hanging on right above that long-term trendline support. Zooming in:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05012016/cmg_hourly.png"><img src="http://kenniyu.github.io/images/blog/05012016/cmg_hourly.png" alt="CMG - 2016-05-01 - Hourly" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05012016/cmg_hourly.png"><img src="http://www.thetatrades.com/images/blog/05012016/cmg_hourly.png" alt="CMG - 2016-05-01 - Hourly" /></a></p>
 
 <p>I&rsquo;m expecting CMG to bounce, unless the overall market exhibits extreme bearishness. If we do see that bounce, the gap made post-earnings could fill and we could potentially place a trade near the high volume node around 460 over the next couple of weeks.</p>
 
 <p>Here&rsquo;s the risk graph:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/05012016/cmg_risk_graph.png"><img src="http://kenniyu.github.io/images/blog/05012016/cmg_risk_graph.png" alt="CMG - 2016-05-01 - Risk Graph" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/05012016/cmg_risk_graph.png"><img src="http://www.thetatrades.com/images/blog/05012016/cmg_risk_graph.png" alt="CMG - 2016-05-01 - Risk Graph" /></a></p>
 
 <p>If the debit is too much, consider selling some credit spreads against it.</p>
 
@@ -495,24 +495,24 @@
   
   <entry>
     <title type="html"><![CDATA[An Edge to the Bears]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/04/30/an-edge-to-the-bears/"/>
+    <link href="http://www.thetatrades.com/blog/2016/04/30/an-edge-to-the-bears/"/>
     <updated>2016-04-30T09:58:05-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/04/30/an-edge-to-the-bears</id>
+    <id>http://www.thetatrades.com/blog/2016/04/30/an-edge-to-the-bears</id>
     <content type="html"><![CDATA[<p>On Friday, we got an expansion of range yesterday, with value area gapping to the downside:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/04302016/es_5m.png"><img src="http://kenniyu.github.io/images/blog/04302016/es_5m.png" alt="/ESM6 - 2016-04-30 - 5m Chart - Value Area Gapping to the Downside" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/04302016/es_5m.png"><img src="http://www.thetatrades.com/images/blog/04302016/es_5m.png" alt="/ESM6 - 2016-04-30 - 5m Chart - Value Area Gapping to the Downside" /></a></p>
 
-<p><a href="http://kenniyu.github.io/blog/2016/04/29/yesterdays-liquidation-break-going-forward/" title="Liquidation Break Going Forward - Bulls and Bears Have Work to Do">In my premarket post on Friday morning</a>, I mentioned that it would be beneficial for the Bulls to hold value at or above the upper distribution of Thursday&rsquo;s profile, and for the Bears to maintain the continuation of selling and migrate the POC and value area lower.</p>
+<p><a href="http://www.thetatrades.com/blog/2016/04/29/yesterdays-liquidation-break-going-forward/" title="Liquidation Break Going Forward - Bulls and Bears Have Work to Do">In my premarket post on Friday morning</a>, I mentioned that it would be beneficial for the Bulls to hold value at or above the upper distribution of Thursday&rsquo;s profile, and for the Bears to maintain the continuation of selling and migrate the POC and value area lower.</p>
 
 <p>Well, congratulations to the Bears, because they did exactly that and were able to keep trade <em>well below</em> both of Thursday&rsquo;s distributions. When the market opened, we saw the Bulls try to push price back into Thursday&rsquo;s value area, but could not even reach it before falling back down. We then tagged the POC from 4/12, and for the rest of the day, we built value in the large balance area developed from mid-March to mid-April. By the end of the day, it was clear that Friday&rsquo;s value area is a gap below Thursday&rsquo;s. That&rsquo;s an expansion of range to the downside, and this generally signifies the start of a new trend (in this case, a down-trend):</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/04302016/es_15m.png"><img src="http://kenniyu.github.io/images/blog/04302016/es_15m.png" alt="/ESM6 - 2016-04-30 - 15m Chart - Expansion of Range Signifying Beginning of a New Trend" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/04302016/es_15m.png"><img src="http://www.thetatrades.com/images/blog/04302016/es_15m.png" alt="/ESM6 - 2016-04-30 - 15m Chart - Expansion of Range Signifying Beginning of a New Trend" /></a></p>
 
 <p>The only argument that I have against the Bears is that all of this trading seems to be of low confidence. The big rip that we saw at the end of the session tells me that shorts are nervous into the close. Still, Bulls have no confidence, either. I am, however, switching my bias from neutral to slightly bearish.</p>
 
 <p>Taking a look at the volume composite over the past 20 days:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/04302016/es_volume_comp.png"><img src="http://kenniyu.github.io/images/blog/04302016/es_volume_comp.png" alt="/ESM6 - 2016-04-30 - Volume Composite" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/04302016/es_volume_comp.png"><img src="http://www.thetatrades.com/images/blog/04302016/es_volume_comp.png" alt="/ESM6 - 2016-04-30 - Volume Composite" /></a></p>
 
 <p>Prices have a predisposition to trade near high volume nodes. They also have a tendency to reject trading around low volume nodes. In accordance with that behavior, we can see that the next target to the downside is around 2040.50. This makes sense - looking back to early April, that was where a lot of the volume traded. So again, as a downside target reference, <strong>I&rsquo;m expecting traders to explore the 2040.50 area next.</strong></p>
 
@@ -524,25 +524,25 @@
 
 <p>Let&rsquo;s take a look at the weeklies for the broad market indices. Here&rsquo;s the SPX:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/04302016/spx.png"><img src="http://kenniyu.github.io/images/blog/04302016/spx.png" alt="SPX - 2016-04-30 - Daily Chart" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/04302016/spx.png"><img src="http://www.thetatrades.com/images/blog/04302016/spx.png" alt="SPX - 2016-04-30 - Daily Chart" /></a></p>
 
 <p>Prior to this past week, we had a green candle that failed to close the week above the trendline resistance. This past week, we confirmed that failure by taking prices lower.</p>
 
 <p>Here&rsquo;s the DJX:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/04302016/djx.png"><img src="http://kenniyu.github.io/images/blog/04302016/djx.png" alt="DJX - 2016-04-30 - Daily Chart" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/04302016/djx.png"><img src="http://www.thetatrades.com/images/blog/04302016/djx.png" alt="DJX - 2016-04-30 - Daily Chart" /></a></p>
 
 <p>Very similar to the SPX. Let&rsquo;s see if we get a continuation to the downside this coming week.</p>
 
 <p>Here&rsquo;s the NDX:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/04302016/ndx.png"><img src="http://kenniyu.github.io/images/blog/04302016/ndx.png" alt="NDX - 2016-04-30 - Daily Chart" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/04302016/ndx.png"><img src="http://www.thetatrades.com/images/blog/04302016/ndx.png" alt="NDX - 2016-04-30 - Daily Chart" /></a></p>
 
 <p>This one, as continuously mentioned, is the weakest of the bunch and exhibits the bearishness more clearly than the other indices. Watch for a break of the 4300 level, and see how the 38% fib level holds.</p>
 
 <p>Here&rsquo;s the RUT:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/04302016/rut.png"><img src="http://kenniyu.github.io/images/blog/04302016/rut.png" alt="RUT - 2016-04-30 - Daily Chart" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/04302016/rut.png"><img src="http://www.thetatrades.com/images/blog/04302016/rut.png" alt="RUT - 2016-04-30 - Daily Chart" /></a></p>
 
 <p>Currently testing that trendline support. If that support fails, I&rsquo;ll be looking to target the upward-sloping trendline support first at around 1100.</p>
 
@@ -554,18 +554,18 @@
   
   <entry>
     <title type="html"><![CDATA[Yesterday's Liquidation Break Going Forward]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/04/29/yesterdays-liquidation-break-going-forward/"/>
+    <link href="http://www.thetatrades.com/blog/2016/04/29/yesterdays-liquidation-break-going-forward/"/>
     <updated>2016-04-29T05:03:36-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/04/29/yesterdays-liquidation-break-going-forward</id>
+    <id>http://www.thetatrades.com/blog/2016/04/29/yesterdays-liquidation-break-going-forward</id>
     <content type="html"><![CDATA[<p>Yesterday&rsquo;s liquidation was one which I haven&rsquo;t seen in a while and showed some signs of life from the sellers.</p>
 
 <p>Whether or not Icahn contributed to the scare doesn&rsquo;t matter. Here&rsquo;s the current volume profile over the past 15 days:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/04292016/es.png"><img src="http://kenniyu.github.io/images/blog/04292016/es.png" alt="/ESM6 - 2016-04-29 - 15d Chart - Volume Profile" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/04292016/es.png"><img src="http://www.thetatrades.com/images/blog/04292016/es.png" alt="/ESM6 - 2016-04-29 - 15d Chart - Volume Profile" /></a></p>
 
 <p>By the end of the session, we managed to trade back inside the intermediate balance area. Though traders got themselves stretched too short to the downside, notice that they did so with volume and were able to form two distributions (highlighted by the pink boxes):</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/04292016/es_zoomed.png"><img src="http://kenniyu.github.io/images/blog/04292016/es_zoomed.png" alt="/ESM6 - 2016-04-29 - 5d Chart - Volume Profile" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/04292016/es_zoomed.png"><img src="http://www.thetatrades.com/images/blog/04292016/es_zoomed.png" alt="/ESM6 - 2016-04-29 - 5d Chart - Volume Profile" /></a></p>
 
 <p>The profile shows that the trades that occurred at the bottom distribution happened with decent volume, almost as much as there was in the upper distribution. This is definitely an edge to the Bears. However, notice that the volume POC did not migrate lower - it remained at 2087.5 - and most of the time was spent trading up there as well.</p>
 
@@ -575,25 +575,25 @@
 
 <p>Here&rsquo;s the SPX:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/04292016/spx.png"><img src="http://kenniyu.github.io/images/blog/04292016/spx.png" alt="SPX - 2016-04-29 - Daily Chart" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/04292016/spx.png"><img src="http://www.thetatrades.com/images/blog/04292016/spx.png" alt="SPX - 2016-04-29 - Daily Chart" /></a></p>
 
 <p>We&rsquo;ve now fallen back below that trendline which we&rsquo;ve meandered back and forth between. Let&rsquo;s see if the Bears can hold it below here and show some continuation to the downside.</p>
 
 <p>The DJX:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/04292016/djx.png"><img src="http://kenniyu.github.io/images/blog/04292016/djx.png" alt="DJX - 2016-04-29 - Daily Chart" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/04292016/djx.png"><img src="http://www.thetatrades.com/images/blog/04292016/djx.png" alt="DJX - 2016-04-29 - Daily Chart" /></a></p>
 
 <p>We&rsquo;re now below the highs of Nov 2015. Looks like the Bulls failed to keep it above there for now.</p>
 
 <p>The NDX:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/04292016/ndx.png"><img src="http://kenniyu.github.io/images/blog/04292016/ndx.png" alt="NDX - 2016-04-29 - Daily Chart" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/04292016/ndx.png"><img src="http://www.thetatrades.com/images/blog/04292016/ndx.png" alt="NDX - 2016-04-29 - Daily Chart" /></a></p>
 
 <p>That trendline resistance has played out well, and this is still the weakest of the bunch. We&rsquo;re now below that 61.8% Fib retracement, closing yesterday&rsquo;s trade below it on a wide body candle.</p>
 
 <p>Here&rsquo;s the RUT:</p>
 
-<p><a href="http://kenniyu.github.io/images/blog/04292016/rut.png"><img src="http://kenniyu.github.io/images/blog/04292016/rut.png" alt="RUT - 2016-04-29 - Daily Chart" /></a></p>
+<p><a href="http://www.thetatrades.com/images/blog/04292016/rut.png"><img src="http://www.thetatrades.com/images/blog/04292016/rut.png" alt="RUT - 2016-04-29 - Daily Chart" /></a></p>
 
 <p>Still holding above the trendline support quite well. We&rsquo;ll need to see if this one will start rolling over.</p>
 

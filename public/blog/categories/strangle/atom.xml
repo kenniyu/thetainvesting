@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: strangle | ThetaTrades]]></title>
-  <link href="http://kenniyu.github.io/blog/categories/strangle/atom.xml" rel="self"/>
-  <link href="http://kenniyu.github.io/"/>
-  <updated>2016-11-26T14:33:50-08:00</updated>
-  <id>http://kenniyu.github.io/</id>
+  <link href="http://www.thetatrades.com/blog/categories/strangle/atom.xml" rel="self"/>
+  <link href="http://www.thetatrades.com/"/>
+  <updated>2016-11-26T16:28:15-08:00</updated>
+  <id>http://www.thetatrades.com/</id>
   <author>
     <name><![CDATA[theta]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Bias Remains to the Upside Currently]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/03/26/bias-remains-to-the-upside-currently/"/>
+    <link href="http://www.thetatrades.com/blog/2016/03/26/bias-remains-to-the-upside-currently/"/>
     <updated>2016-03-26T17:38:12-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/03/26/bias-remains-to-the-upside-currently</id>
+    <id>http://www.thetatrades.com/blog/2016/03/26/bias-remains-to-the-upside-currently</id>
     <content type="html"><![CDATA[<p>Remember this chart from last Friday?</p>
 
 <p><a href="/images/blog/03182016/esm6_thurs_fri.png"><img src="/images/blog/03182016/esm6_thurs_fri.png" alt="/ESM6 - 2016-03-18 Hourly Time Frame - Single Prints Separating Distributions as Weak Reference Points" /></a></p>

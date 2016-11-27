@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: value area | ThetaTrades]]></title>
-  <link href="http://kenniyu.github.io/blog/categories/value-area/atom.xml" rel="self"/>
-  <link href="http://kenniyu.github.io/"/>
-  <updated>2016-11-26T14:33:50-08:00</updated>
-  <id>http://kenniyu.github.io/</id>
+  <link href="http://www.thetatrades.com/blog/categories/value-area/atom.xml" rel="self"/>
+  <link href="http://www.thetatrades.com/"/>
+  <updated>2016-11-26T16:28:15-08:00</updated>
+  <id>http://www.thetatrades.com/</id>
   <author>
     <name><![CDATA[theta]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Nothing New]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/05/13/nothing-new/"/>
+    <link href="http://www.thetatrades.com/blog/2016/05/13/nothing-new/"/>
     <updated>2016-05-13T05:32:26-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/05/13/nothing-new</id>
+    <id>http://www.thetatrades.com/blog/2016/05/13/nothing-new</id>
     <content type="html"><![CDATA[<p><a href="/images/blog/05132016/es.png"><img src="/images/blog/05132016/es.png" alt="/ES - 2016-05-13 - 15m Chart - Volume Profile" /></a></p>
 
 <p>Yesterday, we had another day where value area overlapped the prior days&rsquo;s value area. Again, this spells low confidence - traders have a tough time getting prices to trend in any direction whatsoever. We had liquidation breaks followed by short squeezes closely following each other in many of the recent sessions (yesterday&rsquo;s price action showed that very clearly), so the struggle between the Bulls and the Bears continue.</p>
