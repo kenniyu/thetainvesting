@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://www.thetatrades.com/blog/2016/12/03/some-options-trade-ideas/</loc>
+<lastmod>2016-12-03T11:56:00-08:00</lastmod>
+</url>
+<url>
 <loc>http://www.thetatrades.com/blog/2016/11/26/hello/</loc>
 <lastmod>2016-11-26T14:32:38-08:00</lastmod>
 </url>
@@ -499,5 +503,11 @@
 </url>
 <url>
 <loc>http://www.thetatrades.com/blog/categories/aapl/</loc>
+</url>
+<url>
+<loc>http://www.thetatrades.com/blog/categories/options/</loc>
+</url>
+<url>
+<loc>http://www.thetatrades.com/blog/categories/slash-6e/</loc>
 </url>
 </urlset>
