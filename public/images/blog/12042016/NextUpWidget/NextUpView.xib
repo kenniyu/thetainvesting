@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11201" systemVersion="15G1004" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="kOx-UD-oiL" customClass="NextUpView" customModule="NextUp">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="122"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="ijz-Ho-YRt">
+                    <constraints>
+                        <constraint firstAttribute="height" constant="32" id="Zbg-TR-JI6"/>
+                        <constraint firstAttribute="width" constant="32" id="ipK-Im-lbk"/>
+                    </constraints>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Learning How to Learn" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xFH-Ma-W4Q">
+                    <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="yz2-hZ-FaM">
+                    <subviews>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8h8-ZY-wfG">
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="2" id="kqq-5A-VMO"/>
+                            </constraints>
+                        </view>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="249" text="Sitting down and thinking about things" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LOm-65-ye9">
+                            <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="253" horizontalCompressionResistancePriority="753" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hNs-EM-9A3">
+                            <inset key="contentEdgeInsets" minX="20" minY="8" maxX="20" maxY="8"/>
+                            <state key="normal" title="Resume"/>
+                        </button>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="751" text="PRACTICE QUIZ" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uF0-J7-ZIA" userLabel="Item Type Label">
+                            <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="7 min" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hov-fx-OTA">
+                            <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <constraints>
+                        <constraint firstItem="uF0-J7-ZIA" firstAttribute="trailing" secondItem="LOm-65-ye9" secondAttribute="trailing" id="0FM-eS-z7b"/>
+                        <constraint firstItem="hNs-EM-9A3" firstAttribute="centerY" secondItem="yz2-hZ-FaM" secondAttribute="centerY" id="51h-Wl-4kA"/>
+                        <constraint firstItem="LOm-65-ye9" firstAttribute="top" secondItem="uF0-J7-ZIA" secondAttribute="bottom" constant="1" id="CWm-iE-lD6"/>
+                        <constraint firstItem="uF0-J7-ZIA" firstAttribute="top" secondItem="yz2-hZ-FaM" secondAttribute="top" id="DSo-zr-wuu"/>
+                        <constraint firstItem="hNs-EM-9A3" firstAttribute="leading" secondItem="LOm-65-ye9" secondAttribute="trailing" constant="8" id="Gi2-o1-Azq"/>
+                        <constraint firstItem="8h8-ZY-wfG" firstAttribute="centerY" secondItem="LOm-65-ye9" secondAttribute="centerY" id="IAQ-xb-f4s"/>
+                        <constraint firstItem="hov-fx-OTA" firstAttribute="leading" secondItem="uF0-J7-ZIA" secondAttribute="leading" id="NtP-xD-P00"/>
+                        <constraint firstItem="hov-fx-OTA" firstAttribute="top" secondItem="LOm-65-ye9" secondAttribute="bottom" constant="1" id="QmX-t0-0hR"/>
+                        <constraint firstItem="8h8-ZY-wfG" firstAttribute="top" secondItem="yz2-hZ-FaM" secondAttribute="top" id="SKt-4g-Hz8"/>
+                        <constraint firstItem="uF0-J7-ZIA" firstAttribute="leading" secondItem="yz2-hZ-FaM" secondAttribute="leading" constant="8" id="Yxs-nO-JL3"/>
+                        <constraint firstItem="hov-fx-OTA" firstAttribute="trailing" secondItem="LOm-65-ye9" secondAttribute="trailing" id="cW2-mw-1u9"/>
+                        <constraint firstItem="LOm-65-ye9" firstAttribute="leading" secondItem="uF0-J7-ZIA" secondAttribute="leading" id="ieV-6k-YtV"/>
+                        <constraint firstItem="8h8-ZY-wfG" firstAttribute="leading" secondItem="yz2-hZ-FaM" secondAttribute="leading" id="l3f-AE-0PW"/>
+                        <constraint firstAttribute="bottom" secondItem="8h8-ZY-wfG" secondAttribute="bottom" id="vol-NJ-TdA"/>
+                        <constraint firstAttribute="trailing" secondItem="hNs-EM-9A3" secondAttribute="trailing" id="w0a-kh-Ujq"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="xFH-Ma-W4Q" firstAttribute="top" secondItem="ijz-Ho-YRt" secondAttribute="top" id="4HK-Xe-Tek"/>
+                <constraint firstItem="xFH-Ma-W4Q" firstAttribute="trailing" secondItem="yz2-hZ-FaM" secondAttribute="trailing" id="8Gn-P7-4RM"/>
+                <constraint firstItem="xFH-Ma-W4Q" firstAttribute="leading" secondItem="ijz-Ho-YRt" secondAttribute="trailing" constant="8" id="EGF-aq-H9X"/>
+                <constraint firstAttribute="bottom" secondItem="yz2-hZ-FaM" secondAttribute="bottom" constant="8" id="IDg-r0-Ckd"/>
+                <constraint firstItem="yz2-hZ-FaM" firstAttribute="top" secondItem="ijz-Ho-YRt" secondAttribute="bottom" constant="8" id="NZK-Hm-w3P"/>
+                <constraint firstItem="ijz-Ho-YRt" firstAttribute="top" secondItem="kOx-UD-oiL" secondAttribute="top" constant="8" id="dYZ-dM-Ivf"/>
+                <constraint firstItem="xFH-Ma-W4Q" firstAttribute="bottom" secondItem="ijz-Ho-YRt" secondAttribute="bottom" id="f4S-Wy-zAc"/>
+                <constraint firstItem="ijz-Ho-YRt" firstAttribute="leading" secondItem="yz2-hZ-FaM" secondAttribute="leading" id="hem-zV-XO2"/>
+                <constraint firstAttribute="trailing" secondItem="yz2-hZ-FaM" secondAttribute="trailing" constant="12" id="k2f-1Q-Hxb"/>
+                <constraint firstItem="ijz-Ho-YRt" firstAttribute="leading" secondItem="kOx-UD-oiL" secondAttribute="leading" constant="12" id="mb5-0Y-b9i"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <edgeInsets key="layoutMargins" top="0.0" left="0.0" bottom="0.0" right="0.0"/>
+            <connections>
+                <outlet property="assignmentBarView" destination="8h8-ZY-wfG" id="1Pe-uu-bRt"/>
+                <outlet property="assignmentEstimatedTimeLabel" destination="hov-fx-OTA" id="Wsu-Qb-XjO"/>
+                <outlet property="assignmentItemTypeLabel" destination="uF0-J7-ZIA" id="d7E-lB-NMG"/>
+                <outlet property="assignmentNameLabel" destination="LOm-65-ye9" id="1qh-Am-6F3"/>
+                <outlet property="courseImageView" destination="ijz-Ho-YRt" id="itZ-J0-oDA"/>
+                <outlet property="courseNameLabel" destination="xFH-Ma-W4Q" id="byJ-Mn-Lyp"/>
+                <outlet property="nextStepButton" destination="hNs-EM-9A3" id="rM3-PS-4jt"/>
+            </connections>
+            <point key="canvasLocation" x="33.5" y="60"/>
+        </view>
+    </objects>
+</document>
