@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://www.thetatrades.com/blog/2017/01/30/trade-the-trend/</loc>
+<lastmod>2017-01-30T19:35:08-08:00</lastmod>
+</url>
+<url>
 <loc>http://www.thetatrades.com/blog/2017/01/23/long-pcln/</loc>
 <lastmod>2017-01-23T17:58:39-08:00</lastmod>
 </url>
@@ -594,5 +598,32 @@
 </url>
 <url>
 <loc>http://www.thetatrades.com/blog/categories/trend/</loc>
+</url>
+<url>
+<loc>http://www.thetatrades.com/blog/categories/mcd/</loc>
+</url>
+<url>
+<loc>http://www.thetatrades.com/blog/categories/xec/</loc>
+</url>
+<url>
+<loc>http://www.thetatrades.com/posts/2/</loc>
+</url>
+<url>
+<loc>http://www.thetatrades.com/posts/3/</loc>
+</url>
+<url>
+<loc>http://www.thetatrades.com/posts/4/</loc>
+</url>
+<url>
+<loc>http://www.thetatrades.com/posts/5/</loc>
+</url>
+<url>
+<loc>http://www.thetatrades.com/posts/6/</loc>
+</url>
+<url>
+<loc>http://www.thetatrades.com/posts/7/</loc>
+</url>
+<url>
+<loc>http://www.thetatrades.com/posts/8/</loc>
 </url>
 </urlset>
