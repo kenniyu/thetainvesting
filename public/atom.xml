@@ -4,7 +4,7 @@
   <title><![CDATA[ThetaTrades]]></title>
   <link href="http://www.thetatrades.com/atom.xml" rel="self"/>
   <link href="http://www.thetatrades.com/"/>
-  <updated>2017-01-30T20:04:39-08:00</updated>
+  <updated>2017-01-30T22:00:51-08:00</updated>
   <id>http://www.thetatrades.com/</id>
   <author>
     <name><![CDATA[theta]]></name>
@@ -12,6 +12,60 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A Conservative SPY Short Against Trend]]></title>
+    <link href="http://www.thetatrades.com/blog/2017/01/30/a-conservative-spy-short-against-trend/"/>
+    <updated>2017-01-30T21:56:33-08:00</updated>
+    <id>http://www.thetatrades.com/blog/2017/01/30/a-conservative-spy-short-against-trend</id>
+    <content type="html"><![CDATA[<p>Many bears coming out today.</p>
+
+<p>It&rsquo;s always quite hard to fight against the trend - bears usually find themselves frustrated as it has taken some time for down moves to play out.</p>
+
+<p>Knowing this, it&rsquo;s possible to put on a trade that captures a slow dribble down to the middle of the channel we&rsquo;ve been forming on the SPY. Observe chart below:</p>
+
+<h3 id="20170130-spy">SPY</h3>
+
+
+<p><a href="http://www.thetatrades.com/images/blog/20170130/spy.png"><img src="http://www.thetatrades.com/images/blog/20170130/spy.png" alt="SPY - 2017-01-30 - Daily" /></a></p>
+
+<p>If we&rsquo;re looking for a pullback to near the 222.5 level, we can buy a 5-point wide Feb put butterfly centered around there, currently going for .74 debit:</p>
+
+<h3 id="20170130-spy-fly">SPY Put Butterfly</h3>
+
+
+<p><a href="http://www.thetatrades.com/images/blog/20170130/spy_butterfly.png"><img src="http://www.thetatrades.com/images/blog/20170130/spy_butterfly.png" alt="Put Butterfly" /></a></p>
+
+<p>Profit target should be about half the max profit, or 2.50. That&rsquo;s roughly a bit over 3R. Adjust number of contracts to fit your risk tolerance.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[How to Get Long AAPL for Cheap]]></title>
+    <link href="http://www.thetatrades.com/blog/2017/01/30/how-to-get-long-aapl-for-cheap/"/>
+    <updated>2017-01-30T21:33:22-08:00</updated>
+    <id>http://www.thetatrades.com/blog/2017/01/30/how-to-get-long-aapl-for-cheap</id>
+    <content type="html"><![CDATA[<p>If you&rsquo;re looking for a chance to get long $AAPL, and possibly make money on the downside, one way is to take advantage of the upcoming earnings.</p>
+
+<p>Here&rsquo;s the current chart of $AAPL on the daily:</p>
+
+<h3 id="20170130-aapl">AAPL</h3>
+
+
+<p><a href="http://www.thetatrades.com/images/blog/20170130/aapl.png"><img src="http://www.thetatrades.com/images/blog/20170130/aapl.png" alt="AAPL - 2017-01-30 - Daily" /></a></p>
+
+<p>The 200MA is a nice place to go long. One way to make money if we get a downside move to the 110 area after earnings is to play a Feb 115/110 put backratio:</p>
+
+<h3 id="20170130-aapl-backratio">AAPL Backratio</h3>
+
+
+<p><a href="http://www.thetatrades.com/images/blog/20170130/aapl_backratio.png"><img src="http://www.thetatrades.com/images/blog/20170130/aapl_backratio.png" alt="Backratio" /></a></p>
+
+<p>This will only cost you a 0.16 debit, pretty cheap!</p>
+
+<p>So if $AAPL expires at 110 at expiration, not only will you get to own the stock (100 shares per backratio you put on), but you&rsquo;ll also make an additional 4.84 per spread, or $484 per spread (less commissions).</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Trade the Trend]]></title>
@@ -608,72 +662,6 @@ The down move has been slightly overextended. If you&rsquo;re expecting a pullba
 <p>Note the High Volume Nodes (HVN) at around <strong>2051</strong>, <strong>2075</strong>, and <strong>2085</strong>. Remember that prices tend to get pulled in those directions. With the /ES currently at 2062 (low volume node), expect prices to migrate away from here and possibly find acceptance near one of the HVNs.</p>
 
 <p>That&rsquo;s it for today&rsquo;s morning market outlook. If you haven&rsquo;t already, make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> to receive my tweets in real time. I&rsquo;ll be posting all of my trade entries, adjustments, and exits.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Low Confidence Continues]]></title>
-    <link href="http://www.thetatrades.com/blog/2016/05/09/low-confidence-continues/"/>
-    <updated>2016-05-09T05:44:41-07:00</updated>
-    <id>http://www.thetatrades.com/blog/2016/05/09/low-confidence-continues</id>
-    <content type="html"><![CDATA[<p>Last Friday we formed two distributions:</p>
-
-<p><a href="http://www.thetatrades.com/images/blog/05092016/es.png"><img src="http://www.thetatrades.com/images/blog/05092016/es.png" alt="/ES - 2016-05-09 - 5m Chart - Volume Profile" /></a></p>
-
-<p>Traders took the market back up to the upper distribution formed on Thursday.</p>
-
-<p>Overall, the market last week moved lower, but did so with a bit of a forced action. Ultimately traders found themselves unable to take the market much lower in multiple sessions, and by the end of these sessions, we saw an end of the day rally. Furthermore, value areas were mostly overlapping throughout last week, meaning it seemed hard for the Bears to get any sort of momentum to the downside or a trend going at all. All of this spells low confidence to me.</p>
-
-<p>I&rsquo;m remaining neutral going into this week until things change. For downside targets, I&rsquo;ll be watching last week&rsquo;s RTH low at 2033.75 and overnight low at 2030.50 to see how those hold. For upside targets, we have high volume nodes at around 2075 and 2085. If we have any sort of a rally, I&rsquo;ll be looking to put on a trade that captures a move into those areas, for a credit.</p>
-
-<p>Here is a brief look at the major market indices on the weekly.</p>
-
-<p>SPX:</p>
-
-<p><a href="http://www.thetatrades.com/images/blog/05092016/spx.png"><img src="http://www.thetatrades.com/images/blog/05092016/spx.png" alt="SPX - 2016-05-09 - Weekly Chart" /></a></p>
-
-<p>Still holding below trendline resistance, and has room to fall to the downside to the 38% Fib.</p>
-
-<p>DJX:</p>
-
-<p><a href="http://www.thetatrades.com/images/blog/05092016/djx.png"><img src="http://www.thetatrades.com/images/blog/05092016/djx.png" alt="DJX - 2016-05-09 - Weekly Chart" /></a></p>
-
-<p>This one is holding well above the trendline support.</p>
-
-<p>NDX:</p>
-
-<p><a href="http://www.thetatrades.com/images/blog/05092016/ndx.png"><img src="http://www.thetatrades.com/images/blog/05092016/ndx.png" alt="NDX - 2016-05-09 - Weekly Chart" /></a></p>
-
-<p>As the weakest of the bunch, it&rsquo;s spent a long time grinding lower and is holding above the 50% Fib.</p>
-
-<p>RUT:</p>
-
-<p><a href="http://www.thetatrades.com/images/blog/05092016/rut.png"><img src="http://www.thetatrades.com/images/blog/05092016/rut.png" alt="RUT - 2016-05-09 - Weekly Chart" /></a></p>
-
-<p>Just closed below the trendline resistance last week. Let&rsquo;s see how that trendline acts as resistance this week, however.</p>
-
-<p>That&rsquo;s it for this weekend/morning market outlook. We&rsquo;ll be doing more trade adjustments today, so as always, make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me there</a> to receive tweets about our trades in real-time.</p>
-
-<p>Good luck in the markets!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Still Grinding Lower]]></title>
-    <link href="http://www.thetatrades.com/blog/2016/05/06/still-grinding-lower/"/>
-    <updated>2016-05-06T05:11:48-07:00</updated>
-    <id>http://www.thetatrades.com/blog/2016/05/06/still-grinding-lower</id>
-    <content type="html"><![CDATA[<p>We formed two distributions yesterday, with the POC at 2049.25. Although we slowly took trade to the lower distribution of yesterday&rsquo;s trade, value was overlapping to up - not something I would point to as extremely bearish:</p>
-
-<p><a href="http://www.thetatrades.com/images/blog/05062016/es.png"><img src="http://www.thetatrades.com/images/blog/05062016/es.png" alt="/ES - 2016-05-06 - 15m Chart - Volume Profile" /></a></p>
-
-<p>Currently, /ES is gapping down about 5 points. As mentioned in previous blog posts, the Bears still have a lot to chew through to get well past the 2040.50 level. The unemployment numbers coming out today could be the deciding factor of whether or not we move up or down. Watch the internals and look for selling backed by volume. If we do head lower, look for a slight bounce at 2032.75. If that doesn&rsquo;t hold, 2012 is that next target:</p>
-
-<p><a href="http://www.thetatrades.com/images/blog/05062016/es_comp.png"><img src="http://www.thetatrades.com/images/blog/05062016/es_comp.png" alt="/ES - 2016-05-06 - 1hr Chart - Volume Composite" /></a></p>
-
-<p>That&rsquo;s it for the market outlook. We&rsquo;ll be doing more trade adjustments today, so as always, make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me there</a> to receive tweets regarding our trades in real-time. Also, turn on notifications specifically from me. Just visit my Twitter profile on mobile, select the Settings gear, and then select the option to turn on notifications.</p>
-
-<p>Good luck in the markets!</p>
 ]]></content>
   </entry>
   

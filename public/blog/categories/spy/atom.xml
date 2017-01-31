@@ -4,7 +4,7 @@
   <title><![CDATA[Category: spy | ThetaTrades]]></title>
   <link href="http://www.thetatrades.com/blog/categories/spy/atom.xml" rel="self"/>
   <link href="http://www.thetatrades.com/"/>
-  <updated>2017-01-30T20:04:39-08:00</updated>
+  <updated>2017-01-30T22:00:51-08:00</updated>
   <id>http://www.thetatrades.com/</id>
   <author>
     <name><![CDATA[theta]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A Conservative SPY Short Against Trend]]></title>
+    <link href="http://www.thetatrades.com/blog/2017/01/30/a-conservative-spy-short-against-trend/"/>
+    <updated>2017-01-30T21:56:33-08:00</updated>
+    <id>http://www.thetatrades.com/blog/2017/01/30/a-conservative-spy-short-against-trend</id>
+    <content type="html"><![CDATA[<p>Many bears coming out today.</p>
+
+<p>It&rsquo;s always quite hard to fight against the trend - bears usually find themselves frustrated as it has taken some time for down moves to play out.</p>
+
+<p>Knowing this, it&rsquo;s possible to put on a trade that captures a slow dribble down to the middle of the channel we&rsquo;ve been forming on the SPY. Observe chart below:</p>
+
+<h3 id="20170130-spy">SPY</h3>
+
+
+<p><a href="/images/blog/20170130/spy.png"><img src="/images/blog/20170130/spy.png" alt="SPY - 2017-01-30 - Daily" /></a></p>
+
+<p>If we&rsquo;re looking for a pullback to near the 222.5 level, we can buy a 5-point wide Feb put butterfly centered around there, currently going for .74 debit:</p>
+
+<h3 id="20170130-spy-fly">SPY Put Butterfly</h3>
+
+
+<p><a href="/images/blog/20170130/spy_butterfly.png"><img src="/images/blog/20170130/spy_butterfly.png" alt="Put Butterfly" /></a></p>
+
+<p>Profit target should be about half the max profit, or 2.50. That&rsquo;s roughly a bit over 3R. Adjust number of contracts to fit your risk tolerance.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Breaking out of Balance]]></title>
