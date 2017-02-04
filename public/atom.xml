@@ -4,7 +4,7 @@
   <title><![CDATA[ThetaTrades]]></title>
   <link href="http://www.thetatrades.com/atom.xml" rel="self"/>
   <link href="http://www.thetatrades.com/"/>
-  <updated>2017-01-31T19:37:09-08:00</updated>
+  <updated>2017-02-03T20:50:37-08:00</updated>
   <id>http://www.thetatrades.com/</id>
   <author>
     <name><![CDATA[theta]]></name>
@@ -12,6 +12,77 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Generating Monthly Cashflow from Chipotle]]></title>
+    <link href="http://www.thetatrades.com/blog/2017/02/03/generating-monthly-cashflow-from-chipotle/"/>
+    <updated>2017-02-03T20:34:26-08:00</updated>
+    <id>http://www.thetatrades.com/blog/2017/02/03/generating-monthly-cashflow-from-chipotle</id>
+    <content type="html"><![CDATA[<p>I&rsquo;m a big fan of generating cashflow. Especially on stocks that show signs of trading near a long-term trendline support.</p>
+
+<p>One of those stocks is Chipotle - check out the chart below:</p>
+
+<h3 id="20170203-cmg">CMG</h3>
+
+
+<p><a href="http://www.thetatrades.com/images/blog/20170203/cmg.png"><img src="http://www.thetatrades.com/images/blog/20170203/cmg.png" alt="CMG - 2017-02-03 - Daily" /></a></p>
+
+<p>This is a weekly chart of CMG. The trendline support is drawn from all the way back in 2008 to the lows of 2009 and swung out to the present. We still haven&rsquo;t quite been able to touch that support recently, but when price explores that level, buyers may step in.</p>
+
+<p>What I like to do every month is sell put spreads below that support level to collect some premium. And if I get assigned the stock, I&rsquo;ll be ok with owning some at that level (and then selling some calls on it). Here&rsquo;s a trade idea you can do every month on CMG:</p>
+
+<p><a href="http://www.thetatrades.com/images/blog/20170203/cmgps.png"><img src="http://www.thetatrades.com/images/blog/20170203/cmgps.png" alt="CMG Put Spread - 2017-02-03 - Daily" /></a></p>
+
+<p>This is a 365/360 put spread expiring in March, currently going for about .72 credit. That translates to $72 per spread that you put on, and it only requires $500 of capital, or a 14% return on capital - delicious! Time to finance those burrito bowls!</p>
+
+<p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> to receive my tweets in real time whenever I make posts!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hottest Stocks in the Utilities Sector]]></title>
+    <link href="http://www.thetatrades.com/blog/2017/01/31/hottest-stocks-in-the-utilities-sector/"/>
+    <updated>2017-01-31T20:46:39-08:00</updated>
+    <id>http://www.thetatrades.com/blog/2017/01/31/hottest-stocks-in-the-utilities-sector</id>
+    <content type="html"><![CDATA[<p>The Utilities sector, amongst many other sectors, has made a decent recovery and has a lot of room to the upside.</p>
+
+<h3 id="20170131-xlu">XLU</h3>
+
+
+<p><a href="http://www.thetatrades.com/images/blog/20170131/xlu.png"><img src="http://www.thetatrades.com/images/blog/20170131/xlu.png" alt="XLU - 2017-01-31 - Daily" /></a>
+XLU - Steady trend up</p>
+
+<p>Overall, the trend here is clearly up, making it a great sector to go long some stocks.</p>
+
+<p>Here are some of the best stocks to buy, offering great risk/reward in the upcoming short term in the utilities sector:</p>
+
+<h3 id="20170131-lnt">LNT</h3>
+
+
+<p><a href="http://www.thetatrades.com/images/blog/20170131/lnt.png"><img src="http://www.thetatrades.com/images/blog/20170131/lnt.png" alt="LNT - 2017-01-31 - Daily" /></a>
+Great recapture and successful retest of the 200MA. Today confirmed, offering great trade location.</p>
+
+<h3 id="20170131-ppl">PPL</h3>
+
+
+<p><a href="http://www.thetatrades.com/images/blog/20170131/ppl2.png"><img src="http://www.thetatrades.com/images/blog/20170131/ppl2.png" alt="PPL - 2017-01-31 - Daily" /></a>
+As discussed in another <a href="http://www.thetatrades.com/blog/2017/01/31/why-the-bears-got-trapped/" title="PPL Long">recent post</a>. This one closed above 200MA, and continued strength in the sector can get this stock up to previous highs.</p>
+
+<h3 id="20170131-es">ES</h3>
+
+
+<p><a href="http://www.thetatrades.com/images/blog/20170131/es2.png"><img src="http://www.thetatrades.com/images/blog/20170131/es2.png" alt="ES - 2017-01-31 - Daily" /></a>
+Very similar to LNT, with lots of room to the upside.</p>
+
+<h3 id="20170131-xel">XEL</h3>
+
+
+<p><a href="http://www.thetatrades.com/images/blog/20170131/xel.png"><img src="http://www.thetatrades.com/images/blog/20170131/xel.png" alt="XEL - 2017-01-31 - Daily" /></a>
+Very similar to all of the above, also with lots of room to the upside.</p>
+
+<p>For more trade ideas like these, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> to receive my tweets in real time when I enter positions.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Why the Bears Got Trapped]]></title>
@@ -637,44 +708,6 @@ The down move has been slightly overextended. If you&rsquo;re expecting a pullba
 <p>That&rsquo;s it for today&rsquo;s market outlook. As a side note, I&rsquo;ll be out of town until 5/23 and will have limited access to the blog during this time; however, I will still be managing our trades, so make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> - that&rsquo;s where I post all of my trade entries/adjustments/exits in real-time. To get the most out of Twitter, turn on notifications specifically from me to be able to get my tweets on your phone as they come.</p>
 
 <p>Good luck in the markets, and enjoy the weekend.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Extremely Low Confidence - Remaining Neutral For Now]]></title>
-    <link href="http://www.thetatrades.com/blog/2016/05/12/extremely-low-confidence-remaining-neutral-for-now/"/>
-    <updated>2016-05-12T06:05:12-07:00</updated>
-    <id>http://www.thetatrades.com/blog/2016/05/12/extremely-low-confidence-remaining-neutral-for-now</id>
-    <content type="html"><![CDATA[<p><a href="http://www.thetatrades.com/images/blog/05122016/es.png"><img src="http://www.thetatrades.com/images/blog/05122016/es.png" alt="/ES - 2016-05-12 - 15m Chart - Volume Profile &amp; 20d Composite" /></a></p>
-
-<p>On Wednesday, we had an entire retracement of Tuesday&rsquo;s rally. <a href="http://www.thetatrades.com/blog/2016/05/11/expecting-consolidation-before-next-hvn-at-2085/" title="Expecting Consolidation Before Next HVN at 2085">In the blog post yesterday</a>, we mentioned that if we did see that, it puts the rally in question. All of this just goes to show the low confidence that traders have in the market. If we were in a high confidence market, you wouldn&rsquo;t see a rally give back like this. You would see a slight pullback or pause, before a continuation higher. You would definitely see things trend more easily without value areas grinding slowly in one direction, overlapping the previous day&rsquo;s. And you would definitely see more volume. Last week it felt like the Bears couldn&rsquo;t get a good momentum to the downside, and now, the Bulls can&rsquo;t seem to hold up their end either.</p>
-
-<p>I&rsquo;m going to have to remain neutral here, keeping focus on the HVNs at 2075 and 2085 on the upside, and 2050 on the downside. As of the time of this writing, /ES is trading at 2069, which is within yesterday&rsquo;s value area. I would not be surprised if we continue to build value here.</p>
-
-<p>As always, keep putting on theta and vega positive positions. And if you haven&rsquo;t already, make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> to receive my tweets in real time. I&rsquo;ll be posting all of my trade entries, adjustments, and exits.</p>
-
-<p>Good luck in the markets today!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Expecting Consolidation Before Next HVN at 2085]]></title>
-    <link href="http://www.thetatrades.com/blog/2016/05/11/expecting-consolidation-before-next-hvn-at-2085/"/>
-    <updated>2016-05-11T05:50:34-07:00</updated>
-    <id>http://www.thetatrades.com/blog/2016/05/11/expecting-consolidation-before-next-hvn-at-2085</id>
-    <content type="html"><![CDATA[<p>We had a tremendous rally yesterday:</p>
-
-<p><a href="http://www.thetatrades.com/images/blog/05112016/es.png"><img src="http://www.thetatrades.com/images/blog/05112016/es.png" alt="/ES - 2016-05-11 - 15m Chart - Volume Profile &amp; 20d Composite" /></a></p>
-
-<p>Profile is a bit stretched and volume a bit low; regardless, the edge here is clearly to the Bulls. <a href="http://www.thetatrades.com/blog/2016/05/10/mind-the-hvns/" title="Mind the HVNs">As mentioned yesterday morning</a>, for the Bulls, we were looking for a move to near one of the HVNs, either 2075 or 2085. We got that first one, with yesterday&rsquo;s POC right at 2074.50, so the next target now is 2085.</p>
-
-<p>Bias here is now slightly bullish. I wouldn&rsquo;t be surprised to see some consolidation or retracement here before we continue the movement higher. However, an entire retracement of yesterday&rsquo;s upmove puts yesterday&rsquo;s rally into question, so watch out for that as well.</p>
-
-<p>I mentioned I would place some trades near the HVNs of 2075 and 2085, but due to lack of good pricing, I wasn&rsquo;t able to find one. However, I&rsquo;ll still be looking for some, possibly to the downside as well, so stay tuned.</p>
-
-<p>That&rsquo;s it for today&rsquo;s market outlook. If you haven&rsquo;t already, make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> to receive my tweets in real time. I&rsquo;ll be posting all of my trade entries, adjustments, and exits.</p>
-
-<p>Happy trading, and good luck in the markets!</p>
 ]]></content>
   </entry>
   

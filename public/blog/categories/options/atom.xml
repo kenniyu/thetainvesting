@@ -4,7 +4,7 @@
   <title><![CDATA[Category: options | ThetaTrades]]></title>
   <link href="http://www.thetatrades.com/blog/categories/options/atom.xml" rel="self"/>
   <link href="http://www.thetatrades.com/"/>
-  <updated>2017-01-31T19:37:09-08:00</updated>
+  <updated>2017-02-03T20:50:37-08:00</updated>
   <id>http://www.thetatrades.com/</id>
   <author>
     <name><![CDATA[theta]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Generating Monthly Cashflow from Chipotle]]></title>
+    <link href="http://www.thetatrades.com/blog/2017/02/03/generating-monthly-cashflow-from-chipotle/"/>
+    <updated>2017-02-03T20:34:26-08:00</updated>
+    <id>http://www.thetatrades.com/blog/2017/02/03/generating-monthly-cashflow-from-chipotle</id>
+    <content type="html"><![CDATA[<p>I&rsquo;m a big fan of generating cashflow. Especially on stocks that show signs of trading near a long-term trendline support.</p>
+
+<p>One of those stocks is Chipotle - check out the chart below:</p>
+
+<h3 id="20170203-cmg">CMG</h3>
+
+
+<p><a href="/images/blog/20170203/cmg.png"><img src="/images/blog/20170203/cmg.png" alt="CMG - 2017-02-03 - Daily" /></a></p>
+
+<p>This is a weekly chart of CMG. The trendline support is drawn from all the way back in 2008 to the lows of 2009 and swung out to the present. We still haven&rsquo;t quite been able to touch that support recently, but when price explores that level, buyers may step in.</p>
+
+<p>What I like to do every month is sell put spreads below that support level to collect some premium. And if I get assigned the stock, I&rsquo;ll be ok with owning some at that level (and then selling some calls on it). Here&rsquo;s a trade idea you can do every month on CMG:</p>
+
+<p><a href="/images/blog/20170203/cmgps.png"><img src="/images/blog/20170203/cmgps.png" alt="CMG Put Spread - 2017-02-03 - Daily" /></a></p>
+
+<p>This is a 365/360 put spread expiring in March, currently going for about .72 credit. That translates to $72 per spread that you put on, and it only requires $500 of capital, or a 14% return on capital - delicious! Time to finance those burrito bowls!</p>
+
+<p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> to receive my tweets in real time whenever I make posts!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A Conservative SPY Short Against Trend]]></title>
