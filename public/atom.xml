@@ -4,7 +4,7 @@
   <title><![CDATA[ThetaTrades]]></title>
   <link href="http://www.thetatrades.com/atom.xml" rel="self"/>
   <link href="http://www.thetatrades.com/"/>
-  <updated>2017-02-03T20:52:27-08:00</updated>
+  <updated>2017-02-04T16:15:11-08:00</updated>
   <id>http://www.thetatrades.com/</id>
   <author>
     <name><![CDATA[theta]]></name>
@@ -12,6 +12,80 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How To Cover Your Cigarette Expenses]]></title>
+    <link href="http://www.thetatrades.com/blog/2017/02/04/how-to-cover-your-cigarette-expenses/"/>
+    <updated>2017-02-04T16:01:50-08:00</updated>
+    <id>http://www.thetatrades.com/blog/2017/02/04/how-to-cover-your-cigarette-expenses</id>
+    <content type="html"><![CDATA[<p>This year, the <a href="http://finviz.com/groups.ashx?g=industry&amp;v=210&amp;o=-perf1w" title="Top Performing Sectors - 8.3% Return on Tobacco Products Sector">tobacco industry has already shown a 8.3% return on investment</a>. We&rsquo;re looking for this trend to continue. One stock in this industry is Philip Morris - the largest cigarette manufacturer in America. Please observe the chart below:</p>
+
+<h3 id="20170204-pm">PM</h3>
+
+
+<p><a href="http://www.thetatrades.com/images/blog/20170204/pm.png"><img src="http://www.thetatrades.com/images/blog/20170204/pm.png" alt="PM - 2017-02-04 - Daily" /></a></p>
+
+<p>PM is in a strong uptrend, breaking the 200MA and very far from the 20MA. We&rsquo;re now exploring the upper balance area set from 2016. Given the strong industry, how earnings has already passed, and that we&rsquo;re now in this upper range of balance and expect it to stay within this range, we&rsquo;re looking to collect premium in a favorable buy spot around the 200MA at $95.</p>
+
+<p>Going over to the option chain and selecting the 95 Put strike in March:</p>
+
+<p><a href="http://www.thetatrades.com/images/blog/20170204/pmoc.png"><img src="http://www.thetatrades.com/images/blog/20170204/pmoc.png" alt="PM - 2017-02-04 - Daily" /></a></p>
+
+<p>With the bid at .34 and the ask at .41, we can look to sell this option for around .37. Essentially we could collect about $37 by March expiration. Hey, that covers the cost of about 6 or 7 cigarette packs. Although if you&rsquo;re smoking this much a month, you should really consider cutting back, for the sake of your health.</p>
+
+<p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> to receive our tweets in real time whenever we make posts!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Collecting Money off Gold Put Options]]></title>
+    <link href="http://www.thetatrades.com/blog/2017/02/04/collecting-money-off-gold-put-options/"/>
+    <updated>2017-02-04T15:44:03-08:00</updated>
+    <id>http://www.thetatrades.com/blog/2017/02/04/collecting-money-off-gold-put-options</id>
+    <content type="html"><![CDATA[<p>We like stocks that break the 200MA as a signal to go long. One of those stocks is $GDX. <a href="http://finviz.com/groups.ashx?g=industry&amp;v=210&amp;o=-perf1w" title="Top Performing Sectors">Being a top performing sector of the year</a>, Gold is an asset that catches our eye as an option to go long.</p>
+
+<p>On that note, we&rsquo;d love to own GDX at the 50MA (marked by the blue curve) - that&rsquo;s near $22.50:</p>
+
+<h3 id="20170204-gdx">GDX</h3>
+
+
+<p><a href="http://www.thetatrades.com/images/blog/20170204/gdx.png"><img src="http://www.thetatrades.com/images/blog/20170204/gdx.png" alt="GDX - 2017-02-04 - Daily" /></a></p>
+
+<p>Going to the options table, we can look to sell the 22.5 Put option expiring in March, and collect about .49 in premium:</p>
+
+<p><a href="http://www.thetatrades.com/images/blog/20170204/gdxoc.png"><img src="http://www.thetatrades.com/images/blog/20170204/gdxoc.png" alt="GDX Options Chain- 2017-02-04 - Daily" /></a></p>
+
+<p>That&rsquo;s $49 per contract sold. If you don&rsquo;t mind buying 100 shares of $GDX at $22.50, then at least making money while sitting around and waiting for it to come down to that level would be a great way to earn some cash. This trade idea is basically the same strategy as <a href="http://www.thetatrades.com/blog/2017/02/04/waiting-patiently-for-aapl-while-getting-paid/" title="Waiting Patiently for $AAPL While Getting Paid">that of our previous one on $AAPL</a>. Rinse and repeat is a great way to continuously generate monthly cashflow.</p>
+
+<p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> to receive our tweets in real time whenever we make posts!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Waiting Patiently for AAPL While Getting Paid]]></title>
+    <link href="http://www.thetatrades.com/blog/2017/02/04/waiting-patiently-for-aapl-while-getting-paid/"/>
+    <updated>2017-02-04T15:11:36-08:00</updated>
+    <id>http://www.thetatrades.com/blog/2017/02/04/waiting-patiently-for-aapl-while-getting-paid</id>
+    <content type="html"><![CDATA[<p>If you&rsquo;re like us and you love owning a great stock at a lower price, but want to make money while waiting for it to be cheaper, then you&rsquo;ll like this options trading strategy.</p>
+
+<p>Here&rsquo;s the daily chart of $AAPL:</p>
+
+<h3 id="20170204-aapl">AAPL</h3>
+
+
+<p><a href="http://www.thetatrades.com/images/blog/20170204/aapl.png"><img src="http://www.thetatrades.com/images/blog/20170204/aapl.png" alt="AAPL - 2017-02-04 - Daily" /></a></p>
+
+<p>During such bullish times, the 20 period moving average (marked by the yellow curve) is a decent buy point. Which means, we don&rsquo;t mind owning some stock around the level marked currently by the yellow curve. An even number around this level would be $120.</p>
+
+<p>Going to the options table, we can look to sell the 120 Put option expiring in March, and collect about .41 in premium:</p>
+
+<p><a href="http://www.thetatrades.com/images/blog/20170204/aaploc.png"><img src="http://www.thetatrades.com/images/blog/20170204/aaploc.png" alt="AAPL Options Chain- 2017-02-04 - Daily" /></a></p>
+
+<p>That&rsquo;s $41 per contract sold. If you don&rsquo;t mind buying 100 shares of $AAPL at $120, then at least making money while sitting around and waiting for it to come down to that level would be a great way to earn some cash. If, by the time March expiration rolls around, $AAPL is still not trading near 120, then you can rinse and repeat for April expiration was well.</p>
+
+<p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> to receive our tweets in real time whenever we make posts!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Generating Monthly Cashflow from Chipotle]]></title>
@@ -643,71 +717,6 @@ The down move has been slightly overextended. If you&rsquo;re expecting a pullba
 <p>That&rsquo;s it for the market outlook. As always, we&rsquo;ll be entering new trades and adjusting/exiting our existing positions, so be sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a>.</p>
 
 <p>Good luck in the markets!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Market Still Remains in Balance - Be Theta Positive]]></title>
-    <link href="http://www.thetatrades.com/blog/2016/05/24/market-still-remains-in-balance-be-theta-positive/"/>
-    <updated>2016-05-24T05:17:00-07:00</updated>
-    <id>http://www.thetatrades.com/blog/2016/05/24/market-still-remains-in-balance-be-theta-positive</id>
-    <content type="html"><![CDATA[<p>In a market that barely moves these days, it&rsquo;s great when the core of your portfolio is theta positive. We already are, but this is just an emphasis on that fact.</p>
-
-<p>The market is still stuck within the large balance area between 2080 and 2012, with 2052 being a very prominent volume node:</p>
-
-<p><a href="http://www.thetatrades.com/images/blog/05242016/es.png"><img src="http://www.thetatrades.com/images/blog/05242016/es.png" alt="/ES - 2016-05-24 - 1h Chart - Volume Composite" /></a></p>
-
-<p>The next prominent HVN over the past 30 days appears to be 2075, which is towards the upper end of this balance area. 2075 would be the first upside target to aim for if we see the market move higher. Placing a butterfly there for a credit would be a great play, or some kind of a call ratio with more room to the upside. I&rsquo;ll be looking for something to do here.</p>
-
-<p>Volume has been extremely low during these past trading sessions, but for us, it doesn&rsquo;t really matter. Keep that in mind, though, as a breakout of the balance area may cause volume to start picking back up again, and depending on your portfolio, you may need to adjust.</p>
-
-<p>Yesterday we opened new trades on $NFLX, $TGT and $ES_F. These all seem to be looking good so far. Keep an eye on $NFLX - I think it&rsquo;s going to be interesting seeing how it plays out.</p>
-
-<p>That&rsquo;s it for the market outlook. As always, we&rsquo;ll be entering new trades and adjusting/exiting our existing positions, so be sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a>.</p>
-
-<p>Good luck in the markets today!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Market Remains in Balance]]></title>
-    <link href="http://www.thetatrades.com/blog/2016/05/23/market-remains-in-balance/"/>
-    <updated>2016-05-23T05:25:23-07:00</updated>
-    <id>http://www.thetatrades.com/blog/2016/05/23/market-remains-in-balance</id>
-    <content type="html"><![CDATA[<p>Last week, we had a whole lot of nothing, closing the week flat where we started:</p>
-
-<p><a href="http://www.thetatrades.com/images/blog/05232016/es.png"><img src="http://www.thetatrades.com/images/blog/05232016/es.png" alt="/ES - 2016-05-23 - Weekly Chart" /></a></p>
-
-<p>Notice the developing high volume node around 2050 on the /ES:</p>
-
-<p><a href="http://www.thetatrades.com/images/blog/05232016/es_profile.png"><img src="http://www.thetatrades.com/images/blog/05232016/es_profile.png" alt="/ES - 2016-05-23 - 4h Chart - Volume Composite" /></a></p>
-
-<p>Traders love this spot, and it&rsquo;s smack in the middle of our big balance area. Consider buying wide, weekly butterflies in this area to capture a lot of theta.</p>
-
-<p>So what I&rsquo;m looking for this week on the /ES is for us to continue staying in balance along this descending channel:</p>
-
-<p><a href="http://www.thetatrades.com/images/blog/05232016/es_channel.png"><img src="http://www.thetatrades.com/images/blog/05232016/es_channel.png" alt="/ES - 2016-05-23 - 1d Chart - Descending Channel" /></a></p>
-
-<p>Watch for bounces off of the channel support and resistance.</p>
-
-<p>Last week we booked many winners. We had a few losers which were the small calendar debits we payed for, but they were offset by the winners significantly. As always, we&rsquo;ll be entering new trades and adjusting/exiting our existing positions, so be sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nothing New]]></title>
-    <link href="http://www.thetatrades.com/blog/2016/05/13/nothing-new/"/>
-    <updated>2016-05-13T05:32:26-07:00</updated>
-    <id>http://www.thetatrades.com/blog/2016/05/13/nothing-new</id>
-    <content type="html"><![CDATA[<p><a href="http://www.thetatrades.com/images/blog/05132016/es.png"><img src="http://www.thetatrades.com/images/blog/05132016/es.png" alt="/ES - 2016-05-13 - 15m Chart - Volume Profile" /></a></p>
-
-<p>Yesterday, we had another day where value area overlapped the prior days&rsquo;s value area. Again, this spells low confidence - traders have a tough time getting prices to trend in any direction whatsoever. We had liquidation breaks followed by short squeezes closely following each other in many of the recent sessions (yesterday&rsquo;s price action showed that very clearly), so the struggle between the Bulls and the Bears continue.</p>
-
-<p>The /ES is currently down approximately 4 points at the time of this writing. For today, I&rsquo;m not expecting much, as I&rsquo;m still neutral here until we get out of this low confidence environment and are able to establish a trend. Remember guys, don&rsquo;t be fooled by price; continue watching those value areas, and keep in mind the HVN at 2050 below us, and 2075 above us.</p>
-
-<p>That&rsquo;s it for today&rsquo;s market outlook. As a side note, I&rsquo;ll be out of town until 5/23 and will have limited access to the blog during this time; however, I will still be managing our trades, so make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> - that&rsquo;s where I post all of my trade entries/adjustments/exits in real-time. To get the most out of Twitter, turn on notifications specifically from me to be able to get my tweets on your phone as they come.</p>
-
-<p>Good luck in the markets, and enjoy the weekend.</p>
 ]]></content>
   </entry>
   
