@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: passive income | ThetaTrades]]></title>
+  <link href="http://www.thetatrades.com/blog/categories/passive-income/atom.xml" rel="self"/>
+  <link href="http://www.thetatrades.com/"/>
+  <updated>2017-02-05T01:03:45-08:00</updated>
+  <id>http://www.thetatrades.com/</id>
+  <author>
+    <name><![CDATA[theta]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[McDonald's - Utilizing a Backratio Financed By a Naked Put]]></title>
+    <link href="http://www.thetatrades.com/blog/2017/02/04/mcdonalds-utilizing-a-backratio-financed-by-a-naked-put/"/>
+    <updated>2017-02-04T21:04:07-08:00</updated>
+    <id>http://www.thetatrades.com/blog/2017/02/04/mcdonalds-utilizing-a-backratio-financed-by-a-naked-put</id>
+    <content type="html"><![CDATA[<p>We&rsquo;re fans of the naked put - an option that allows us to buy the underlying at a price that we deem reasonable, while collecting some premium during the process. But sometimes, we want to capture more gains to the upside. In this case, we can consider putting on some kind of a spread that, over time, allows us to make money if the underlying goes up.</p>
+
+<p>Let&rsquo;s take a look at $MCD as an example:</p>
+
+<h3 id="20170204-mcd">$MCD</h3>
+
+
+<p><a href="/images/blog/20170204/mcd.png"><img src="/images/blog/20170204/mcd.png" alt="MCD - 2017-02-04 - Daily" /></a></p>
+
+<p>Here&rsquo;s the chart of $MCD - obviously quite bullish. With earnings aside and the trendline resistance broken, $MCD has room to run back to the all time highs of 132. If we want to capture a move to 132, a 130/135 call backratio spread would net us about 2.00 in profit (per spread). This spread alone costs a slight debit, but if our overall bias on $MCD is bullish, we can finance it with a naked put at a price level which we deem reasonable to buy stock. Given that the 200 period moving average is around 118, we can look to sell a put option slightly below that, or the 115 put option.</p>
+
+<p>Ultimately, the trade setup comes out to selling the 115 put option, and buying the 130 call option, and selling two times the 135 call option, all expiring in March:</p>
+
+<p><a href="/images/blog/20170204/mcdoc.png"><img src="/images/blog/20170204/mcdoc.png" alt="MCD Risk Graph- 2017-02-04 - Daily" /></a></p>
+
+<p>IF $MCD manages to go higher and stay between $115 and $140 by expiration, we&rsquo;ll be profitable (90% chance of happening). And if it lands anywhere near 135 by expiration, we&rsquo;ll get to make roughly 5.00, or $500. Putting on this spread allows us to collect .17 in credit. Essentially, we get paid $17 to make roughly $500. That should cover a whole year&rsquo;s worth of eating at McDonald&rsquo;s.</p>
+
+<p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> or <a href="https://facebook.com/thetatrades" title="Follow @thetatrades on Facebook">Facebook</a> to receive our tweets and posts in real time! And if you haven&rsquo;t yet, subscribe to our email listing below to receive get special email alerts as well.</p>
+
+<p><div class="mailchimp-container">
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="//thetatrades.us15.list-manage.com/subscribe/post?u=6bda6bf3f9f26dec5de37ce46&amp;id=0e87c74d0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<h2>Subscribe to our mailing list</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+	<label for="mce-FNAME">First Name </label>
+	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+	<label for="mce-LNAME">Last Name </label>
+	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6bda6bf3f9f26dec5de37ce46_0e87c74d0f" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+</div>
+
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
+</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Software Security Strength]]></title>
+    <link href="http://www.thetatrades.com/blog/2017/02/04/software-security-strength/"/>
+    <updated>2017-02-04T17:51:50-08:00</updated>
+    <id>http://www.thetatrades.com/blog/2017/02/04/software-security-strength</id>
+    <content type="html"><![CDATA[<p>Security software and services has been doing quite well this year, <a href="http://finviz.com/groups.ashx?g=industry&amp;v=210&amp;o=perfytd" title="Top Performing Sectors - 15.7% Return on Security Software and Services">showing a 15.7% return on investment</a>. Symantec $SYMC is one of the stocks in this industry. Please observe the chart below:</p>
+
+<h3 id="20170204-symc">$SYMC</h3>
+
+
+<p><a href="/images/blog/20170204/symc.png"><img src="/images/blog/20170204/symc.png" alt="SYMC - 2017-02-04 - Daily" /></a></p>
+
+<p>Here is $SYMC on the weekly. As it just broke out to new 11 year highs this week, $SYMC is headed well for the all time highs at $34. Of course, this won&rsquo;t happen over the next week or month, so to be able to sustain a move in that direction for a long duration, consider this trade:</p>
+
+<p><a href="/images/blog/20170204/symcoc.png"><img src="/images/blog/20170204/symcoc.png" alt="SYMC - 2017-02-04 - Daily" /></a></p>
+
+<p>Here, we are buying the 30/34 call spread expiring in April, that expires in 76 days (from today), for a .47 debit or $47. Max profit is achieved if $SYMC reaches $34 by expiration - the value of this spread will be $400. If this happens, that&rsquo;s a return of over roughly 8*R (where R, risk = 47). Consider lowering the cost of the debit by selling nearer term put options. If so, R would essentially be lower, and the reward to risk ratio becomes significantly higher, which is great!</p>
+
+<p>Lastly, we like to trade in the direction of the trend, so this is a trade to watch out for come Monday.</p>
+
+<p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> or <a href="https://facebook.com/thetatrades" title="Follow @thetatrades on Facebook">Facebook</a> to receive our tweets and posts in real time! And if you haven&rsquo;t yet, subscribe to our email listing below to receive get special email alerts as well.</p>
+
+<p><div class="mailchimp-container">
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="//thetatrades.us15.list-manage.com/subscribe/post?u=6bda6bf3f9f26dec5de37ce46&amp;id=0e87c74d0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<h2>Subscribe to our mailing list</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+	<label for="mce-FNAME">First Name </label>
+	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+	<label for="mce-LNAME">Last Name </label>
+	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6bda6bf3f9f26dec5de37ce46_0e87c74d0f" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+</div>
+
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
+</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[How To Cover Your Cigarette Expenses]]></title>
+    <link href="http://www.thetatrades.com/blog/2017/02/04/how-to-cover-your-cigarette-expenses/"/>
+    <updated>2017-02-04T16:01:50-08:00</updated>
+    <id>http://www.thetatrades.com/blog/2017/02/04/how-to-cover-your-cigarette-expenses</id>
+    <content type="html"><![CDATA[<p>This year, the <a href="http://finviz.com/groups.ashx?g=industry&amp;v=210&amp;o=-perf1w" title="Top Performing Sectors - 8.3% Return on Tobacco Products Sector">tobacco industry has already shown a 8.3% return on investment</a>. We&rsquo;re looking for this trend to continue. One stock in this industry is Philip Morris - the largest cigarette manufacturer in America. Please observe the chart below:</p>
+
+<h3 id="20170204-pm">PM</h3>
+
+
+<p><a href="/images/blog/20170204/pm.png"><img src="/images/blog/20170204/pm.png" alt="PM - 2017-02-04 - Daily" /></a></p>
+
+<p>PM is in a strong uptrend, breaking the 200MA and very far from the 20MA. We&rsquo;re now exploring the upper balance area set from 2016. Given the strong industry, how earnings has already passed, and that we&rsquo;re now in this upper range of balance and expect it to stay within this range, we&rsquo;re looking to collect premium in a favorable buy spot around the 200MA at $95.</p>
+
+<p>Going over to the option chain and selecting the 95 Put strike in March:</p>
+
+<p><a href="/images/blog/20170204/pmoc.png"><img src="/images/blog/20170204/pmoc.png" alt="PM - 2017-02-04 - Daily" /></a></p>
+
+<p>With the bid at .34 and the ask at .41, we can look to sell this option for around .37. Essentially we could collect about $37 by March expiration. Hey, that covers the cost of about 6 or 7 cigarette packs. Although if you&rsquo;re smoking this much a month, you should really consider cutting back, for the sake of your health.</p>
+
+<p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> or <a href="https://facebook.com/thetatrades" title="Follow @thetatrades on Facebook">Facebook</a> to receive our tweets and posts in real time! And if you haven&rsquo;t yet, subscribe to our email listing below to receive get special email alerts as well.</p>
+
+<p><div class="mailchimp-container">
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="//thetatrades.us15.list-manage.com/subscribe/post?u=6bda6bf3f9f26dec5de37ce46&amp;id=0e87c74d0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<h2>Subscribe to our mailing list</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+	<label for="mce-FNAME">First Name </label>
+	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+	<label for="mce-LNAME">Last Name </label>
+	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6bda6bf3f9f26dec5de37ce46_0e87c74d0f" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+</div>
+
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
+</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Collecting Money off Gold Put Options]]></title>
+    <link href="http://www.thetatrades.com/blog/2017/02/04/collecting-money-off-gold-put-options/"/>
+    <updated>2017-02-04T15:44:03-08:00</updated>
+    <id>http://www.thetatrades.com/blog/2017/02/04/collecting-money-off-gold-put-options</id>
+    <content type="html"><![CDATA[<p>We like stocks that break the 200MA as a signal to go long. One of those stocks is $GDX. <a href="http://finviz.com/groups.ashx?g=industry&amp;v=210&amp;o=-perf1w" title="Top Performing Sectors">Being a top performing sector of the year</a>, Gold is an asset that catches our eye as an option to go long.</p>
+
+<p>On that note, we&rsquo;d love to own GDX at the 50MA (marked by the blue curve) - that&rsquo;s near $22.50:</p>
+
+<h3 id="20170204-gdx">GDX</h3>
+
+
+<p><a href="/images/blog/20170204/gdx.png"><img src="/images/blog/20170204/gdx.png" alt="GDX - 2017-02-04 - Daily" /></a></p>
+
+<p>Going to the options table, we can look to sell the 22.5 Put option expiring in March, and collect about .49 in premium:</p>
+
+<p><a href="/images/blog/20170204/gdxoc.png"><img src="/images/blog/20170204/gdxoc.png" alt="GDX Options Chain- 2017-02-04 - Daily" /></a></p>
+
+<p>That&rsquo;s $49 per contract sold. If you don&rsquo;t mind buying 100 shares of $GDX at $22.50, then at least making money while sitting around and waiting for it to come down to that level would be a great way to earn some cash. This trade idea is basically the same strategy as <a href="/blog/2017/02/04/waiting-patiently-for-aapl-while-getting-paid/" title="Waiting Patiently for $AAPL While Getting Paid">that of our previous one on $AAPL</a>. Rinse and repeat is a great way to continuously generate monthly cashflow.</p>
+
+<p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> or <a href="https://facebook.com/thetatrades" title="Follow @thetatrades on Facebook">Facebook</a> to receive our tweets and posts in real time! And if you haven&rsquo;t yet, subscribe to our email listing below to receive get special email alerts as well.</p>
+
+<p><div class="mailchimp-container">
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="//thetatrades.us15.list-manage.com/subscribe/post?u=6bda6bf3f9f26dec5de37ce46&amp;id=0e87c74d0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<h2>Subscribe to our mailing list</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+	<label for="mce-FNAME">First Name </label>
+	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+	<label for="mce-LNAME">Last Name </label>
+	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6bda6bf3f9f26dec5de37ce46_0e87c74d0f" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+</div>
+
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
+</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Waiting Patiently for AAPL While Getting Paid]]></title>
+    <link href="http://www.thetatrades.com/blog/2017/02/04/waiting-patiently-for-aapl-while-getting-paid/"/>
+    <updated>2017-02-04T15:11:36-08:00</updated>
+    <id>http://www.thetatrades.com/blog/2017/02/04/waiting-patiently-for-aapl-while-getting-paid</id>
+    <content type="html"><![CDATA[<p>If you&rsquo;re like us and you love owning a great stock at a lower price, but want to make money while waiting for it to be cheaper, then you&rsquo;ll like this options trading strategy.</p>
+
+<p>Here&rsquo;s the daily chart of $AAPL:</p>
+
+<h3 id="20170204-aapl">AAPL</h3>
+
+
+<p><a href="/images/blog/20170204/aapl.png"><img src="/images/blog/20170204/aapl.png" alt="AAPL - 2017-02-04 - Daily" /></a></p>
+
+<p>During such bullish times, the 20 period moving average (marked by the yellow curve) is a decent buy point. Which means, we don&rsquo;t mind owning some stock around the level marked currently by the yellow curve. An even number around this level would be $120.</p>
+
+<p>Going to the options table, we can look to sell the 120 Put option expiring in March, and collect about .41 in premium:</p>
+
+<p><a href="/images/blog/20170204/aaploc.png"><img src="/images/blog/20170204/aaploc.png" alt="AAPL Options Chain- 2017-02-04 - Daily" /></a></p>
+
+<p>That&rsquo;s $41 per contract sold. If you don&rsquo;t mind buying 100 shares of $AAPL at $120, then at least making money while sitting around and waiting for it to come down to that level would be a great way to earn some cash. If, by the time March expiration rolls around, $AAPL is still not trading near 120, then you can rinse and repeat for April expiration was well.</p>
+
+<p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> or <a href="https://facebook.com/thetatrades" title="Follow @thetatrades on Facebook">Facebook</a> to receive our tweets and posts in real time! And if you haven&rsquo;t yet, subscribe to our email listing below to receive get special email alerts as well.</p>
+
+<p><div class="mailchimp-container">
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="//thetatrades.us15.list-manage.com/subscribe/post?u=6bda6bf3f9f26dec5de37ce46&amp;id=0e87c74d0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<h2>Subscribe to our mailing list</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+	<label for="mce-FNAME">First Name </label>
+	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+	<label for="mce-LNAME">Last Name </label>
+	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6bda6bf3f9f26dec5de37ce46_0e87c74d0f" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+</div>
+
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
+</p>
+]]></content>
+  </entry>
+  
+</feed>

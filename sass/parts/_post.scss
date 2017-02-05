@@ -47,7 +47,7 @@
 				position: absolute;
 				left: 0;
 			}
-	
+
 			@media screen and (max-width: 620px){
 				@include inline-block;
 				margin-right: 30px;
@@ -57,4 +57,15 @@
 		.tags:before{content: "\f02c";}
 		.comments:before{content: "\f075";}
 	}
+}
+
+#mc_embed_signup {
+	label {
+		color: #FF9900;
+	}
+}
+
+.mailchimp-container {
+	margin: auto;
+	width: 360px;
 }

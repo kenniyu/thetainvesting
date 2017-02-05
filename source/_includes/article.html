@@ -11,13 +11,11 @@
 		{{ content | excerpt }}
 		{% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
 		{% if excerpted == 'true' %}<a href="{{ root_url }}{{ post.url }}" class="more-link">{{ site.excerpt_link }}</a>{% endif %}
-		<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
 	</div>
 {% else %}
 	<h2 class="title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h2>
 	<div class="entry-content">
 		{{ content }}
-		<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
 	</div>
 {% endif %}
 

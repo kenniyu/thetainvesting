@@ -5,3 +5,23 @@ footer{
 	font-size: 0.9em;
 }
 
+
+.widget-overlay-container {
+	background: #eee;
+	box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25);
+	padding: 15px;
+	width: 32px;
+	position: fixed;
+	left: 0;
+	top: 44%;
+	text-align: center;
+
+	.option {
+		display: inline-block;
+
+		.social-media-image {
+			width: 32px;
+			height: 32px;
+		}
+	}
+}
