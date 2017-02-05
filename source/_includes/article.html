@@ -11,15 +11,20 @@
 		{{ content | excerpt }}
 		{% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
 		{% if excerpted == 'true' %}<a href="{{ root_url }}{{ post.url }}" class="more-link">{{ site.excerpt_link }}</a>{% endif %}
+		<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
 	</div>
 {% else %}
 	<h2 class="title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h2>
-	<div class="entry-content">{{ content }}</div>
+	<div class="entry-content">
+		{{ content }}
+		<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
+	</div>
 {% endif %}
 
 <div class="meta">
 	<div class="date">{% include post/date.html %}{{ time }}</div>
 	{% include post/categories.html %}
+
 	{% if site.disqus_short_name and site.disqus_show_comment_count == true %}
 		<span class="comments"><a href="{{ root_url }}{{ post.url }}{{ page.url }}#disqus_thread">Comments</a></span>
 	{% endif %}

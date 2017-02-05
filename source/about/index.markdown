@@ -7,7 +7,7 @@ sharing: true
 footer: true
 ---
 
-This is a personal blog tracking the journey of a self-directed investor. This blog focuses heavily in options trading with an emphasis on theta positive trades. Follow along with the trade ideas, thoughts, and his progress over time.<br/>
+This is a blog tracking the journey of a self-directed invest team. This blog focuses heavily in options trading with an emphasis on theta positive trades. Follow along with the team's trade ideas, thoughts, and progress over time.<br/>
 <br/>
 ***
 

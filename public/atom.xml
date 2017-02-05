@@ -4,7 +4,7 @@
   <title><![CDATA[ThetaTrades]]></title>
   <link href="http://www.thetatrades.com/atom.xml" rel="self"/>
   <link href="http://www.thetatrades.com/"/>
-  <updated>2017-02-04T16:15:11-08:00</updated>
+  <updated>2017-02-04T18:23:38-08:00</updated>
   <id>http://www.thetatrades.com/</id>
   <author>
     <name><![CDATA[theta]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Software Security Strength]]></title>
+    <link href="http://www.thetatrades.com/blog/2017/02/04/software-security-strength/"/>
+    <updated>2017-02-04T17:51:50-08:00</updated>
+    <id>http://www.thetatrades.com/blog/2017/02/04/software-security-strength</id>
+    <content type="html"><![CDATA[<p>Security software and services has been doing quite well this year, <a href="http://finviz.com/groups.ashx?g=industry&amp;v=210&amp;o=perfytd" title="Top Performing Sectors - 15.7% Return on Security Software and Services">showing a 15.7% return on investment</a>. Symantec $SYMC is one of the stocks in this industry. Please observe the chart below:</p>
+
+<h3 id="20170204-symc">$SYMC</h3>
+
+
+<p><a href="http://www.thetatrades.com/images/blog/20170204/symc.png"><img src="http://www.thetatrades.com/images/blog/20170204/symc.png" alt="SYMC - 2017-02-04 - Daily" /></a></p>
+
+<p>Here is $SYMC on the weekly. As it just broke out to new 11 year highs this week, $SYMC is headed well for the all time highs at $34. Of course, this won&rsquo;t happen over the next week or month, so to be able to sustain a move in that direction for a long duration, consider this trade:</p>
+
+<p><a href="http://www.thetatrades.com/images/blog/20170204/symcoc.png"><img src="http://www.thetatrades.com/images/blog/20170204/symcoc.png" alt="SYMC - 2017-02-04 - Daily" /></a></p>
+
+<p>Here, we are buying the 30/34 call spread expiring in April, that expires in 76 days (from today), for a .47 debit or $47. Max profit is achieved if $SYMC reaches $34 by expiration - the value of this spread will be $400. If this happens, that&rsquo;s a return of over roughly 8*R (where R, risk = 47). Consider lowering the cost of the debit by selling nearer term put options. If so, R would essentially be lower, and the reward to risk ratio becomes significantly higher, which is great!</p>
+
+<p>Lastly, we like to trade in the direction of the trend, so this is a trade to watch out for come Monday.</p>
+
+<p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> to receive our tweets in real time whenever we make posts!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[How To Cover Your Cigarette Expenses]]></title>
@@ -696,25 +720,6 @@ The down move has been slightly overextended. If you&rsquo;re expecting a pullba
 <p>Yesterday we put on call calendars on AAPL and NFLX. AAPL hasn&rsquo;t done much since, but NFLX looks to be trading up 4 premarket. This is good for our short term calendar, but our longer term call ratio will be hurting a bit here. No worries as we have time to work it out, and our breakeven is a bit above 105, which is the gap fill. We&rsquo;ll see what happens and adjust if necessary.</p>
 
 <p>That&rsquo;s it for today&rsquo;s morning market outlook. We&rsquo;ll be doing more trade adjustments today, so as always, make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me there</a> to receive tweets about our trades in real-time.</p>
-
-<p>Good luck in the markets!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Watch Development of HVN at 2075-2085]]></title>
-    <link href="http://www.thetatrades.com/blog/2016/05/25/watch-development-of-hvn-at-2075-2085/"/>
-    <updated>2016-05-25T06:27:07-07:00</updated>
-    <id>http://www.thetatrades.com/blog/2016/05/25/watch-development-of-hvn-at-2075-2085</id>
-    <content type="html"><![CDATA[<p>/ES broke out of the descending channel yesterday and closed strong above it. This is slightly bullish, but in a long term perspective, still neutral:</p>
-
-<p><a href="http://www.thetatrades.com/images/blog/05252016/es.png"><img src="http://www.thetatrades.com/images/blog/05252016/es.png" alt="/ES - 2016-05-25 - 1h Chart - Volume Composite" /></a></p>
-
-<p>I&rsquo;m expecting tomorrow&rsquo;s action to pause a bit, especially after such a rally. If this happens, it only makes the developing volume node at 2075 more prominent.</p>
-
-<p>Watch how the volume composite develops throughout this week. 2075 to 2085 could become the high volume node over the past 30 days. Also, developing value at the upper end of the balance area primes us for a stronger breakout to the upside.</p>
-
-<p>That&rsquo;s it for the market outlook. As always, we&rsquo;ll be entering new trades and adjusting/exiting our existing positions, so be sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a>.</p>
 
 <p>Good luck in the markets!</p>
 ]]></content>
