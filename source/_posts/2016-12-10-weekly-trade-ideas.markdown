@@ -67,3 +67,8 @@ Bear flag.
 <h3 id="12102016-snr">SNR</h3>
 [![SNR - 2016-12-10 - Daily](/images/blog/12102016/snr.png)](/images/blog/12102016/snr.png)
 Rounding. Moving averages above us.
+
+If you're interested in more ideas like this, [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time! And if you haven't yet, subscribe to our email listing below to receive special email alerts as well.
+
+{% include post/mailchimp.html %}
+{% include post/amazon_ad_books.html %}

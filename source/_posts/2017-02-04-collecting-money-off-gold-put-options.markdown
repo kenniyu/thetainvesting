@@ -19,7 +19,7 @@ Going to the options table, we can look to sell the 22.5 Put option expiring in 
 
 That's $49 per contract sold. If you don't mind buying 100 shares of $GDX at $22.50, then at least making money while sitting around and waiting for it to come down to that level would be a great way to earn some cash. This trade idea is basically the same strategy as [that of our previous one on $AAPL](/blog/2017/02/04/waiting-patiently-for-aapl-while-getting-paid/ "Waiting Patiently for $AAPL While Getting Paid"). Rinse and repeat is a great way to continuously generate monthly cashflow.
 
-If you're interested in more ideas like this, [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time! And if you haven't yet, subscribe to our email listing below to receive get special email alerts as well.
+If you're interested in more ideas like this, [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time! And if you haven't yet, subscribe to our email listing below to receive special email alerts as well.
 
 {% include post/mailchimp.html %}
 {% include post/amazon_ad_books.html %}

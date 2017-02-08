@@ -53,3 +53,8 @@ Watching this one closely to see if it breaks and holds above the 200MA.
 <h3 id="20170122-tk">TK</h3>
 [![TK - 2017-01-22 - Daily](/images/blog/20170122/tk.png)](/images/blog/20170122/tk.png)
 This one just broke and held above the 200MA, very clean. Monitor this one for being a potential change in trend.
+
+If you're interested in more ideas like this, [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time! And if you haven't yet, subscribe to our email listing below to receive special email alerts as well.
+
+{% include post/mailchimp.html %}
+{% include post/amazon_ad_books.html %}

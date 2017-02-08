@@ -24,4 +24,9 @@ The trend appears to be positive - both the 200MA and the 50MA are pointing up. 
 
 The trend here also appears to be positive - both the 200MA and the 50MA are pointing up. We've pulled back near the 50MA, which appears to be a decent spot for a buy.
 
-Just some directional ideas here. Good trading!
+Just some directional ideas here.
+
+If you're interested in more ideas like this, [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time! And if you haven't yet, subscribe to our email listing below to receive special email alerts as well.
+
+{% include post/mailchimp.html %}
+{% include post/amazon_ad_books.html %}

@@ -32,3 +32,8 @@ The down move has been slightly overextended. If you're expecting a pullback, bu
 A call-side broken wing butterfly with max profit at 1.08. The mark is a bit off right now, so will probably have to wait til Sunday night to get a more accurate pricing on this.
 
 Enjoy the weekend, and good trading next week!
+
+If you're interested in more ideas like this, [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time! And if you haven't yet, subscribe to our email listing below to receive special email alerts as well.
+
+{% include post/mailchimp.html %}
+{% include post/amazon_ad_books.html %}

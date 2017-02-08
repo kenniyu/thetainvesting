@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Long Corn"
+date: 2017-02-05 19:01:01 -0800
+comments: true
+categories: [corn, trend, /zc]
+---
+
+If you have too much exposure in the equities markets, here's a trade that may help spread your risk across different areas. This underlying in particular is corn: /ZC. Please observe the chart below:
+
+<h3 id="20170205-zc">/ZC</h3>
+[![/ZC - 2017-02-05 - Daily](/images/blog/20170205/zc.png)](/images/blog/20170205/zc.png)
+
+Over the past half year, we've been in an ascending channel and recently broke above and held the 200MA.
+
+We're currently sitting above the 20, 50, and 200MA. It appears that in the recent days, the buyers seem to be in control - we've had slow, steady selling, followed by strong buy candles that eclipsed previous days, all the while maintaining the general uptrend.
+
+Trading with the trend, we plan on going long at the 20MA denoted by the yellow curve, at roughly 363. Our stop would be at 347.25, denoted by the white dashed horizontal. Size positions according to your personal risk tolerance. We plan on riding this trend for as long as we can until we get stopped out. As the position moves in our favor, our stop will be trailed up below the 200MA.
+
+If you're interested in more ideas like this, [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time! And if you haven't yet, subscribe to our email listing below to receive special email alerts as well.
+
+{% include post/mailchimp.html %}
+{% include post/amazon_ad_books.html %}

@@ -21,7 +21,7 @@ Going to the options table, we can look to sell the 120 Put option expiring in M
 
 That's $41 per contract sold. If you don't mind buying 100 shares of $AAPL at $120, then at least making money while sitting around and waiting for it to come down to that level would be a great way to earn some cash. If, by the time March expiration rolls around, $AAPL is still not trading near 120, then you can rinse and repeat for April expiration was well.
 
-If you're interested in more ideas like this, [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time! And if you haven't yet, subscribe to our email listing below to receive get special email alerts as well.
+If you're interested in more ideas like this, [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time! And if you haven't yet, subscribe to our email listing below to receive special email alerts as well.
 
 {% include post/mailchimp.html %}
 {% include post/amazon_ad_books.html %}

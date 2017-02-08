@@ -12,3 +12,8 @@ With earnings still pretty far away, we're considering long PCLN. Please observe
 [![PCLN - 2017-01-23 - Daily](/images/blog/20170123/pcln.png)](/images/blog/20170123/pcln.png)
 
 Last week, we broke the descending trendline, but were unable to move anywhere. A lot of balance occured in a relatively small range. We finally saw a move up higher into today's close, and based on that, we will aim to go long with a target set at the 1600 level.
+
+If you're interested in more ideas like this, [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time! And if you haven't yet, subscribe to our email listing below to receive special email alerts as well.
+
+{% include post/mailchimp.html %}
+{% include post/amazon_ad_books.html %}

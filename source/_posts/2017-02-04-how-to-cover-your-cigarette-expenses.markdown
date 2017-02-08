@@ -19,7 +19,7 @@ Going over to the option chain and selecting the 95 Put strike in March:
 
 With the bid at .34 and the ask at .41, we can look to sell this option for around .37. Essentially we could collect about $37 by March expiration. Hey, that covers the cost of about 6 or 7 cigarette packs. Although if you're smoking this much a month, you should really consider cutting back, for the sake of your health.
 
-If you're interested in more ideas like this, [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time! And if you haven't yet, subscribe to our email listing below to receive get special email alerts as well.
+If you're interested in more ideas like this, [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time! And if you haven't yet, subscribe to our email listing below to receive special email alerts as well.
 
 {% include post/mailchimp.html %}
 {% include post/amazon_ad_books.html %}

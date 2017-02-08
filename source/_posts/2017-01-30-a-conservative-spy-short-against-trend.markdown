@@ -22,7 +22,7 @@ If we're looking for a pullback to near the 222.5 level, we can buy a 5-point wi
 
 Profit target should be about half the max profit, or 2.50. That's roughly a bit over 3R. Adjust number of contracts to fit your risk tolerance.
 
-If you're interested in more ideas like this, [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time! And if you haven't yet, subscribe to our email listing below to receive get special email alerts as well.
+If you're interested in more ideas like this, [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time! And if you haven't yet, subscribe to our email listing below to receive special email alerts as well.
 
 {% include post/mailchimp.html %}
 {% include post/amazon_ad_books.html %}

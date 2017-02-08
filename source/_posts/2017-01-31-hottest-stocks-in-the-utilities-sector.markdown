@@ -32,7 +32,7 @@ Very similar to LNT, with lots of room to the upside.
 [![XEL - 2017-01-31 - Daily](/images/blog/20170131/xel.png)](/images/blog/20170131/xel.png)
 Very similar to all of the above, also with lots of room to the upside.
 
-If you're interested in more ideas like this, [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time! And if you haven't yet, subscribe to our email listing below to receive get special email alerts as well.
+If you're interested in more ideas like this, [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time! And if you haven't yet, subscribe to our email listing below to receive special email alerts as well.
 
 {% include post/mailchimp.html %}
 {% include post/amazon_ad_books.html %}

@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Long NFLX"
+date: 2017-02-07 18:17:01 -0800
+comments: true
+categories: [nflx, trend]
+---
+
+Those that love $NFLX, it just broke to a new all time high. Here are a few ways to play it.
+
+Please observe the chart below.
+
+<h3 id="20170207-nflx">$NFLX</h3>
+[![$NFLX - 2017-02-07 - Daily](/images/blog/20170207/nflx.png)](/images/blog/20170207/nflx.png)
+
+With the new high today for this stock, it has the potential to continue its thrust upwards in the near term. Consider buying front-month call spreads or naked calls. Perhaps an OOM naked call, or a call vertical like so:
+
+[![NFLX Options Chain - Call Vertical - 2017-02-07 - Daily](/images/blog/20170207/nflxoc.png)](/images/blog/20170207/nflxoc.png)
+
+If you're interested in more ideas like this, [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time! And if you haven't yet, subscribe to our email listing below to receive special email alerts as well.
+
+{% include post/mailchimp.html %}
+{% include post/amazon_ad_books.html %}

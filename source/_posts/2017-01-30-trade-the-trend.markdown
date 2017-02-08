@@ -26,7 +26,7 @@ On the other front of energy, here's a stock that showed relative strength and h
 [![CLX - 2017-01-30 - Daily](/images/blog/20170130/clx.png)](/images/blog/20170130/clx.png)
 And for a stock to short, here's one that's holding nicely below the 200MA. Watch out for earnings. This would be a good short if the 20 and 50MAs did not hold.
 
-If you're interested in more ideas like this, [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time! And if you haven't yet, subscribe to our email listing below to receive get special email alerts as well.
+If you're interested in more ideas like this, [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time! And if you haven't yet, subscribe to our email listing below to receive special email alerts as well.
 
 {% include post/mailchimp.html %}
 {% include post/amazon_ad_books.html %}

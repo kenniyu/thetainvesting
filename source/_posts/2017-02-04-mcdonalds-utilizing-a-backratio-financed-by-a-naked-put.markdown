@@ -21,7 +21,7 @@ Ultimately, the trade setup comes out to selling the 115 put option, and buying 
 
 IF $MCD manages to go higher and stay between $115 and $140 by expiration, we'll be profitable (90% chance of happening). And if it lands anywhere near 135 by expiration, we'll get to make roughly 5.00, or $500. Putting on this spread allows us to collect .17 in credit. Essentially, we get paid $17 to make roughly $500. That should cover a whole year's worth of eating at McDonald's.
 
-If you're interested in more ideas like this, [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time! And if you haven't yet, subscribe to our email listing below to receive get special email alerts as well.
+If you're interested in more ideas like this, [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time! And if you haven't yet, subscribe to our email listing below to receive special email alerts as well.
 
 {% include post/mailchimp.html %}
 {% include post/amazon_ad_books.html %}
