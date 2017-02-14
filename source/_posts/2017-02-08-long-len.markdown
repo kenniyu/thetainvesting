@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Long LEN"
+date: 2017-02-08 17:29:27 -0800
+comments: true
+categories: [len, trend trade]
+---
+
+One of the things we look for when placing trend trades are those that are also supported by technical analysis. One in particular is $LEN.
+
+Please observe the chart below.
+
+<h3 id="20170208-len">$LEN</h3>
+[![$LEN - 2017-02-08 - Daily](/images/blog/20170208/len.png)](/images/blog/20170208/len.png)
+
+$LEN has pulled back to the moving averages and continues to consolidate here for the past couple of weeks, but as part of a rising channel. We can look to initiate a long position closer to the bottom of this consolidation area around 44.60, or look to enter on a break above 45.38. Stop loss will be placed at 42.69. Adjust number of shares to suit your personal risk tolerance.
+
+If you're interested in more ideas like this, [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time! And if you haven't yet, subscribe to our email listing below to receive special email alerts as well.
+
+{% include post/mailchimp.html %}
+{% include post/amazon_ad_books.html %}

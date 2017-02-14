@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Whooping $COF"
+date: 2017-02-13 18:27:05 -0800
+comments: true
+categories: [cof, trend]
+---
+
+We love looking for consolidation patterns and trading with the trend. One particular candidate that fits these criteria is $COF. Please observe the chart below.
+
+<h3 id="20170213-cof">$COF</h3>
+[![$COF - 2017-02-13 - Daily](/images/blog/20170213/cof.png)](/images/blog/20170213/cof.png)
+
+$COF has been consolidating after a huge move to the upside. With the recent breakout in the financials ETF $XLF, we're looking for continued upside. We'll look to get long at a break above yesterday's high: 89.59. Our stop loss will be a close below 85.24, as we're expecting the 50MA to hold, but giving ourself some room for noise. And as long as trend holds, we continue holding this long.
+
+If you're interested in more ideas like this, [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time! And if you haven't yet, subscribe to our email listing below to receive special email alerts as well.
+
+{% include post/mailchimp.html %}
+{% include post/amazon_ad_books.html %}
