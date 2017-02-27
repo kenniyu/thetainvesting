@@ -23,4 +23,4 @@ Second is $TXN:
 $TXN has also trended nicely over the past year, holding above the 50MA. We've pulled back to it recently, making it a great location to get long. We're looking to get long above 75.76, with a stop at 72.20. We'll continue staying long as long as trend holds.
 
 {% include post/mailchimp.html %}
-{% include post/amazon_ad_books.html %}
+<!-- {% include post/amazon_ad_books.html %} -->

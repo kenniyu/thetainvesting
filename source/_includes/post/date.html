@@ -7,7 +7,11 @@
 {% capture was_updated %}{{ updated | size }}{% endcapture %}
 
 {% if has_date != '0' %}
-  {% capture time %}<time datetime="{{ date | datetime | date_to_xmlschema }}" pubdate{% if updated %} data-updated="true"{% endif %}>{{ post.date | date: "%a, %b %e, %Y" }}</time>{% endcapture %}
+  {% if post.date %}
+    {% capture time %}<time datetime="{{ date | datetime | date_to_xmlschema }}" pubdate{% if updated %} data-updated="true"{% endif %}>{{ post.date | date: "%a, %b %e, %Y"  }}</time>{% endcapture %}
+  {% else %}
+    {% capture time %}<time datetime="{{ date | datetime | date_to_xmlschema }}" pubdate{% if updated %} data-updated="true"{% endif %}>{{ page.date | date: "%a, %b %e, %Y"  }}</time>{% endcapture %}
+  {% endif %}
 {% endif %}
 
 {% if was_updated != '0' %}

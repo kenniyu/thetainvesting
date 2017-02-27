@@ -3,6 +3,16 @@
 
 
 <body>
+	{% include post/subs_modal.html %}
+
+	<script type="text/javascript">
+	$().ready(function() {
+	  $('.subscribe-button').on('click', function(e) {
+	    $('.mailchimp-modal-container').toggleClass('hidden', false);
+	  });
+	});
+	</script>
+
 	<header id="header" class="inner">{% include header.html %}</header>
 
 	<div id="content" class="inner">{{ content | expand_urls: root_url }}</div>

@@ -15,4 +15,4 @@ The utility sector in general has been hanging out in an area of value for one t
 With earnings out of the way, and with it reclaiming the 20, 50, and 200MA via a strong close, $DUK looks like it's positioned for another run up. We'll look to buy if price crosses above 78.90, with a stop at 75.79 to give us some leeway to account for recent noise. As long as price holds and trends upward, we'll continue to hold.
 
 {% include post/mailchimp.html %}
-{% include post/amazon_ad_books.html %}
+<!-- {% include post/amazon_ad_books.html %} -->

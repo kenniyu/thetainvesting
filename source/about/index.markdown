@@ -7,8 +7,20 @@ sharing: true
 footer: true
 ---
 
-This is a blog tracking the journey of a self-directed invest team. This blog focuses heavily in options trading with an emphasis on theta positive trades, as well as trend trading resulting in multiple R gains. Follow along with the team's trade ideas, thoughts, and progress over time.<br/>
-<br/>
+Hey traders, welcome to ThetaTrades!
+
+Our mission is to help struggling traders overcome difficulties in the market. Our vision is a world where everyone takes charge of their own trading, free from the chicanery of those who continue to take advantage of traders who just want to learn and make money. We believe education, even in the trading industry, should be free.
+
+We are all too familiar with the numerous subscription services out there that charge the average trader monthly fees for results that are almost way too inconsistent. And with the presence of many social media streams these days, we understand that much of the noise out there distracts many traders from realizing the ultimate zen necessary for achieving optimal trading performance. We're here to help you cut all of that out. We believe that you don't need to pay for ideas. And you certainly don't need to pay for any sort of predictive technical analysis or special "indicators."
+
+So whether you're a veteran trader looking for trade ideas, or just a beginning trader looking to gain some knowledge and experience, we are absolutely here to help. The trading style of our team is trend-trading, or trading with the trend, with an objective of multiple R gains. Follow along with the our trade ideas and thoughts, and if you're just starting out, feel free to head over to our [resources](/resources) section to familiarize yourself with the best books on trading. Any comments or questions are always welcome, so no matter where you are in our site, scroll down to the bottom and leave a comment, and we'll get back to you shortly!
+
+If you want to stay up to date with our upcoming blog posts filled with trade ideas and trading psychology, you can subscribe by hitting the button below, or [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time!
+
+Cheers, and good trading!
+
+{% include post/mailchimp.html %}
+
 ***
 
 <sup><sub><br/>

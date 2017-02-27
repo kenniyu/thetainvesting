@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Long RIG"
+date: 2017-02-23 21:55:17 -0800
+comments: true
+categories: [rig, trend]
+---
+
+Hey traders,
+
+One stock that makes a good long candidate is $RIG, as it just reclaimed the 50MA and is above the 200MA. Please observe the chart below:
+
+[![$RIG - 2017-02-23 - Daily](/images/blog/20170223/rig.png)](/images/blog/20170223/rig.png)
+
+Entry would be around 14.23, and stop would be placed outside the average noise, below the 200MA at around 12.01. As always, remember to always trade with the trend, and ride it for as long as possible.
+
+{% include post/mailchimp.html %}
+<!-- {% include post/amazon_ad_books.html %} -->

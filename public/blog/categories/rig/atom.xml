@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: rig | ThetaTrades]]></title>
+  <link href="http://www.thetatrades.com/blog/categories/rig/atom.xml" rel="self"/>
+  <link href="http://www.thetatrades.com/"/>
+  <updated>2017-02-27T09:30:38-08:00</updated>
+  <id>http://www.thetatrades.com/</id>
+  <author>
+    <name><![CDATA[theta]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Long RIG]]></title>
+    <link href="http://www.thetatrades.com/blog/2017/02/23/long-rig/"/>
+    <updated>2017-02-23T21:55:17-08:00</updated>
+    <id>http://www.thetatrades.com/blog/2017/02/23/long-rig</id>
+    <content type="html"><![CDATA[<p>Hey traders,</p>
+
+<p>One stock that makes a good long candidate is $RIG, as it just reclaimed the 50MA and is above the 200MA. Please observe the chart below:</p>
+
+<p><a href="/images/blog/20170223/rig.png"><img src="/images/blog/20170223/rig.png" alt="$RIG - 2017-02-23 - Daily" /></a></p>
+
+<p>Entry would be around 14.23, and stop would be placed outside the average noise, below the 200MA at around 12.01. As always, remember to always trade with the trend, and ride it for as long as possible.</p>
+
+<p><div class="subscribe-button">
+	<button>Subscribe to Our Posts!</button>
+</div>
+</p>
+
+<!-- <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
+ -->
+
+]]></content>
+  </entry>
+  
+</feed>

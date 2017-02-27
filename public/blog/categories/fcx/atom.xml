@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: fcx | ThetaTrades]]></title>
+  <link href="http://www.thetatrades.com/blog/categories/fcx/atom.xml" rel="self"/>
+  <link href="http://www.thetatrades.com/"/>
+  <updated>2017-02-27T09:30:38-08:00</updated>
+  <id>http://www.thetatrades.com/</id>
+  <author>
+    <name><![CDATA[theta]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[FCX - Another Opportunity]]></title>
+    <link href="http://www.thetatrades.com/blog/2017/02/26/fcx-another-opportunity/"/>
+    <updated>2017-02-26T22:22:29-08:00</updated>
+    <id>http://www.thetatrades.com/blog/2017/02/26/fcx-another-opportunity</id>
+    <content type="html"><![CDATA[<p>Hey traders!</p>
+
+<p>One of the things that we love most about stocks is trading them in the direction of the trend, at an area of value. By area of value, we mean at places like retracements. One particular stock that shows this is $FCX. Check out the chart below:</p>
+
+<p><a href="/images/blog/20170226/fcx.png"><img src="/images/blog/20170226/fcx.png" alt="$FCX - 2017-02-26 - Daily" /></a></p>
+
+<p>With a pullback to the 200MA, FCX provides a good long entry at 13.25. As this stock tends to overshoot past the 200MA, one can consider entering a bit beneath it as well. However, the stop placement should take that into consideration as well and be placed well below it. Though a further stop reduces the size of the position one can place, it also allows us to ride the trend longer. If anything, we can always add to the position on another pullback if $FCX does continue higher.</p>
+
+<p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> or <a href="https://facebook.com/thetatrades" title="Follow @thetatrades on Facebook">Facebook</a> to receive our tweets and posts in real time! And if you haven&rsquo;t yet, subscribe to our email listing below to receive special email alerts as well.</p>
+
+<p><div class="subscribe-button">
+	<button>Subscribe to Our Posts!</button>
+</div>
+</p>
+
+<!-- <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
+ -->
+
+]]></content>
+  </entry>
+  
+</feed>

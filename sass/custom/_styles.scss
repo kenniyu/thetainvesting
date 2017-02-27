@@ -78,3 +78,112 @@
 .center {
   text-align: center;
 }
+
+article .entry-content p.title {
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 0;
+
+  a.book-image {
+    margin-top: 15px;
+    text-decoration: none;
+    border-bottom: 0;
+    display: block;
+    text-align: center;
+  }
+
+  a.fancybox {
+    margin-bottom: -15px;
+    display: block;
+  }
+}
+
+.subscribe-button {
+  margin: auto;
+  text-align: center;
+
+  button {
+    padding: 12px 20px;
+    border: 0;
+    border-radius: 10px;
+    background: #FF9900;
+    font-size: 20px;
+    color: #FFF;
+    margin: 10px auto;
+    cursor: pointer;
+  }
+}
+
+.mailchimp-modal-container {
+  &.hidden {
+    display: none;
+  }
+
+  position: fixed;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.4);
+  height: 100%;
+  z-index: 9999;
+
+  .mailchimp-container {
+    border-radius: 10px;
+    background: #fff;
+    margin-top: 100px;
+    max-width: 360px;
+    width: auto;
+    box-shadow: 0 0 3px 3px rgba(0, 0, 0, 0.5);
+
+    #mc_embed_signup {
+      background: none;
+
+      input {
+        font-size: 14px;
+      }
+
+      input[name="subscribe"] {
+        background-color: #FF9900;
+        border-radius: 10px;
+        height: auto;
+        padding: 5px 25px;
+        font-size: 16px;
+      }
+    }
+
+    .close-button-container {
+      position: relative;
+      display: block;
+    }
+
+    .close-button {
+      img {
+        width: 20px;
+        height: 20px;
+        padding: 5px;
+      }
+
+      z-index:9999;
+      background: none;
+      border: none;
+      cursor: pointer;
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+
+    div.clear {
+      text-align: center;
+    }
+  }
+}
+
+#content.inner {
+  @media screen and (max-width: 1040px) {
+    margin: 0 20px;
+  }
+}
+
+body {
+  @media screen and (max-width: 1040px) {
+    margin: 0;
+  }
+}
