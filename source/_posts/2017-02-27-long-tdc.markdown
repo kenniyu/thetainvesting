@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Long TDC"
+date: 2017-02-27 14:23:11 -0800
+comments: true
+categories: [tdc, trend]
+---
+
+Hey traders!
+
+We love stocks that have reclaimed the 200MA that are above the 50MA and 20MA as well. What's even better is when they pull back to one of these moving averages. One candidate is $TDC, which has pulled back to the 20MA and held. Please observe the chart below:
+
+[![$TDC - 2017-02-27 - Daily](/images/blog/20170227/tdc.png)](/images/blog/20170227/tdc.png)
+
+With a pullback to the 20MA, $TDC offers a good location to get long. Because it is currently a bit far from the 200MA, and with our stop around 27.36, it means that our position size would need to be smaller. But that's fine - the important thing to remember when trying to ride trends is that you want to do it without getting stopped out, and you want your stop to be placed at a point where you're proven wrong, with some buffer added to account for potential noise. Based on this stop distance, you would then calculate your position size to fit your risk tolerance. Again, as with many of our other trades, we're in this trade to ride the trend for as long as possible. As $TDC moves up, we'll also trail our stop below the 200MA.
+
+If you're interested in more ideas like this, [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time! And if you haven't yet, subscribe to our email listing below to receive special email alerts as well.
+
+{% include post/mailchimp.html %}
+<!-- {% include post/amazon_ad_books.html %} -->

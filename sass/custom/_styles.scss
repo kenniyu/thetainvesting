@@ -1,6 +1,7 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 @import "footnote";
+$green: rgb(0, 176, 84);
 
 .adsense {
   padding: 25px;
@@ -106,7 +107,9 @@ article .entry-content p.title {
     padding: 12px 20px;
     border: 0;
     border-radius: 10px;
-    background: #FF9900;
+    background-color: $green;
+    background: $green;
+    font-family: "Georgia";
     font-size: 20px;
     color: #FFF;
     margin: 10px auto;
@@ -135,17 +138,24 @@ article .entry-content p.title {
 
     #mc_embed_signup {
       background: none;
+      font-family: "Georgia";
 
       input {
         font-size: 14px;
       }
 
+      label {
+        color: $green;
+      }
+
       input[name="subscribe"] {
-        background-color: #FF9900;
+        background-color: $green;
+        background: $green;
         border-radius: 10px;
         height: auto;
         padding: 5px 25px;
         font-size: 16px;
+        font-family: "Georgia";
       }
     }
 
@@ -177,13 +187,48 @@ article .entry-content p.title {
 }
 
 #content.inner {
-  @media screen and (max-width: 1040px) {
-    margin: 0 20px;
-  }
 }
 
 body {
+  box-sizing: border-box;
+
   @media screen and (max-width: 1040px) {
     margin: 0;
+    padding: 0 20px;
   }
+
+  .legal {
+    font-size: 10px;
+  }
+}
+
+body#blog-body {
+  font-family: "Georgia";
+  font-weight: 200;
+  color: #4b4b4b;
+
+  p {
+    line-height: 28px;
+  }
+
+  // a, #main-nav a {
+  //   color: #4b4b4b;
+  //
+  //   &:hover {
+  //     color: $green;
+  //   }
+  // }
+  //
+  // .entry-content a {
+  //   color: $green;
+  //   &:hover {
+  //     border-bottom: 1px solid $green;
+  //   }
+  // }
+  //
+  // .meta a {
+  //   &:hover {
+  //     border-bottom: 1px solid $green;
+  //   }
+  // }
 }

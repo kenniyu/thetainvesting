@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://www.thetatrades.com/blog/2017/02/27/long-tdc/</loc>
+<lastmod>2017-02-27T14:23:11-08:00</lastmod>
+</url>
+<url>
 <loc>http://www.thetatrades.com/blog/2017/02/26/fcx-another-opportunity/</loc>
 <lastmod>2017-02-26T22:22:29-08:00</lastmod>
 </url>
@@ -844,30 +848,6 @@
 <loc>http://www.thetatrades.com/blog/categories/fcx/</loc>
 </url>
 <url>
-<loc>http://www.thetatrades.com/posts/2/</loc>
-</url>
-<url>
-<loc>http://www.thetatrades.com/posts/3/</loc>
-</url>
-<url>
-<loc>http://www.thetatrades.com/posts/4/</loc>
-</url>
-<url>
-<loc>http://www.thetatrades.com/posts/5/</loc>
-</url>
-<url>
-<loc>http://www.thetatrades.com/posts/6/</loc>
-</url>
-<url>
-<loc>http://www.thetatrades.com/posts/7/</loc>
-</url>
-<url>
-<loc>http://www.thetatrades.com/posts/8/</loc>
-</url>
-<url>
-<loc>http://www.thetatrades.com/posts/9/</loc>
-</url>
-<url>
-<loc>http://www.thetatrades.com/posts/10/</loc>
+<loc>http://www.thetatrades.com/blog/categories/tdc/</loc>
 </url>
 </urlset>

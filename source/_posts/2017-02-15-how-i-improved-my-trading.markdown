@@ -6,6 +6,8 @@ comments: true
 categories: [psychology, trading, victim, player, betterment, investing, conscious business]
 ---
 
+*[Written by a member of ThetaTrades]*
+
 When I first started trading, I lost a huge amount of money. During this time, I had a full time job, and I would wonder what was the point of working if I’m just going to re-invest it back into my trading account and potentially lose it all again. I felt like I was at a constant loss. I felt like a victim. For days, I beat up myself - sulked around, stopped going to the gym, underperformed at work, and just felt like settling for a lackluster life. Needless to say, this was a pretty big obstacle for me.
 
 Then I came across a book called [Conscious Business](http://amzn.to/2kypWkt "Fred Kofman - Conscious Business") by Fred Kofman. Fred mentions in one chapter the concept of the "victim" vs the "player":
