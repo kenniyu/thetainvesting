@@ -2,6 +2,8 @@
 // Add styles here to make changes without digging in too much
 @import "footnote";
 $green: rgb(0, 176, 84);
+$light-green: rgb(220, 253, 216);
+$medium-green: rgb(86, 229, 69);
 
 .adsense {
   padding: 25px;
@@ -207,28 +209,33 @@ body#blog-body {
   font-weight: 200;
   color: #4b4b4b;
 
+  .entry-content table {
+    th, td {
+      padding: 5px 15px;
+      text-align: center;
+    }
+
+    th {
+      background: $medium-green;
+    }
+
+    tr {
+      background: $light-green;
+      &:nth-child(even) {
+        background: #fff;
+      }
+    }
+  }
+
   p {
     line-height: 28px;
   }
 
-  // a, #main-nav a {
-  //   color: #4b4b4b;
-  //
-  //   &:hover {
-  //     color: $green;
-  //   }
-  // }
-  //
-  // .entry-content a {
-  //   color: $green;
-  //   &:hover {
-  //     border-bottom: 1px solid $green;
-  //   }
-  // }
-  //
-  // .meta a {
-  //   &:hover {
-  //     border-bottom: 1px solid $green;
-  //   }
-  // }
+  @media screen and (max-width: 600px){
+		font-size: 15px;
+	}
+
+  td {
+
+  }
 }

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://www.thetatrades.com/blog/2017/02/27/what-type-of-trader-should-i-be/</loc>
+<lastmod>2017-02-27T21:36:15-08:00</lastmod>
+</url>
+<url>
 <loc>http://www.thetatrades.com/blog/2017/02/27/long-tdc/</loc>
 <lastmod>2017-02-27T14:23:11-08:00</lastmod>
 </url>
@@ -849,5 +853,11 @@
 </url>
 <url>
 <loc>http://www.thetatrades.com/blog/categories/tdc/</loc>
+</url>
+<url>
+<loc>http://www.thetatrades.com/blog/categories/trading-time-frame/</loc>
+</url>
+<url>
+<loc>http://www.thetatrades.com/blog/categories/how-to/</loc>
 </url>
 </urlset>

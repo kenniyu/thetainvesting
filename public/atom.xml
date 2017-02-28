@@ -4,7 +4,7 @@
   <title><![CDATA[ThetaTrades]]></title>
   <link href="http://www.thetatrades.com/atom.xml" rel="self"/>
   <link href="http://www.thetatrades.com/"/>
-  <updated>2017-02-27T15:08:02-08:00</updated>
+  <updated>2017-02-27T22:29:44-08:00</updated>
   <id>http://www.thetatrades.com/</id>
   <author>
     <name><![CDATA[theta]]></name>
@@ -12,6 +12,72 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[What Type of Trader Should I Be?]]></title>
+    <link href="http://www.thetatrades.com/blog/2017/02/27/what-type-of-trader-should-i-be/"/>
+    <updated>2017-02-27T21:36:15-08:00</updated>
+    <id>http://www.thetatrades.com/blog/2017/02/27/what-type-of-trader-should-i-be</id>
+    <content type="html"><![CDATA[<p>Have you ever asked yourself the question - what type of trader should I be?</p>
+
+<p>If you’re just starting to trade, you’ve probably heard of many different styles of trading. Some may even sound scary, but don&rsquo;t worry! We’ll go over them in a little bit of detail here, and with a bit of self-assessment, you&rsquo;ll be able to figure out what trading style best suits you. Here is a table of the main different styles of trading, with their time frames listed:</p>
+
+<table>
+<thead>
+<tr>
+<th> Trading Style    </th>
+<th> Time Frame </th>
+<th> Holding Period                              </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> Day Trading      </td>
+<td> Short term </td>
+<td> Seconds to minutes - no overnight positions </td>
+</tr>
+<tr>
+<td> Swing Trading    </td>
+<td> Short term </td>
+<td> Days to weeks                               </td>
+</tr>
+<tr>
+<td> Position Trading </td>
+<td> Long Term  </td>
+<td> Months to years                             </td>
+</tr>
+</tbody>
+</table>
+
+
+<p>Let’s go over these styles one by one. As you read, please refer to this table above.</p>
+
+<h1>Day Trading</h1>
+
+<p>This is the typical picture that pops up in your head when you think about day trading - a trader sitting behind 8 different monitors, usually constantly monitoring the charts throughout the day. Day traders typically execute anywhere from 1 trade a day to 50+ trades a day. They do not hold any positions overnight, meaning they balance their account and close any open positions before the market closes at the end of the day. Day trading requires an intense amount of focus. If trading is indeed your one and only job, this can be an area for you to explore.</p>
+
+<h1>Swing Trading</h1>
+
+<p>In swing trading, traders typically capture market moves from days to weeks. This type of trading does not necessarily require constant monitoring because traders are more focused on where prices open at the beginning of the day and where they close at the end of the day, not anytime in between. Because trades last over the course of at least multiple days, swing traders hold positions overnight. Generally speaking, swing trading captures larger directional moves than those of day trading, but less than those of position trading.</p>
+
+<h1>Position Trading</h1>
+
+<p>This is essentially the Warren Buffet types of investing. Investors looking for long term buy and hold or long term shorts are position traders. They generally look at their accounts even less than swing traders, typically once or twice a week, and their trades can last from months to years. Generally speaking, position trading captures larger directional moves than those of swing trading and day trading.</p>
+
+<hr />
+
+<p><br/>
+<strong>What time frame does ThetaTrades employ?</strong></p>
+
+<p>At ThetaTrades, our trades operate on the daily time frame, and we maintain our position as long as the overall trend of the underlying holds. Usually, our trades last from days to weeks; however, some trends can last a long time, so they can also extend to months and possibly (though rarely) years, so <strong>we’re actually in both the swing and position trading camps</strong>.</p>
+
+<p>With these trading time frames in mind, it&rsquo;s time to ask yourself, which time frame best suits your lifestyle? Do you have a full time job where you can only look at the market once a day or once a week? If you do, If not, styles that require less attention such as swing trading or position trading may be the better option. However, if you do not have a full-time job and are capable of being in front of the markets all day, then day-trading becomes a possibility in your arena. Whatever you decide, make sure that it absolutely fits your personality and lifestyle.</p>
+
+<p>If you have any questions and are still confused as to what type of time frame best suits you, feel free to leave a comment at the bottom of the page, and we&rsquo;ll get back to you!</p>
+
+<p>Cheers!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Long TDC]]></title>
@@ -598,44 +664,6 @@ This is the opposite of seeing yourself as a ‘victim,’ subject to forces bey
 <p><a href="http://www.thetatrades.com/images/blog/20170205/nococ.png"><img src="http://www.thetatrades.com/images/blog/20170205/nococ.png" alt="NOC - 2017-02-05 - Options Chain" /></a></p>
 
 <p>Do be aware of the option&rsquo;s theta decay.</p>
-
-<p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> or <a href="https://facebook.com/thetatrades" title="Follow @thetatrades on Facebook">Facebook</a> to receive our tweets and posts in real time! And if you haven&rsquo;t yet, subscribe to our email listing below to receive special email alerts as well.</p>
-
-<div class="subscribe-button">
-    <button>Subscribe to Our Updates</button>
-</div>
-
-
-
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
-
-
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[McDonald's - Utilizing a Backratio Financed By a Naked Put]]></title>
-    <link href="http://www.thetatrades.com/blog/2017/02/04/mcdonalds-utilizing-a-backratio-financed-by-a-naked-put/"/>
-    <updated>2017-02-04T21:04:07-08:00</updated>
-    <id>http://www.thetatrades.com/blog/2017/02/04/mcdonalds-utilizing-a-backratio-financed-by-a-naked-put</id>
-    <content type="html"><![CDATA[<p>We&rsquo;re fans of the naked put - an option that allows us to buy the underlying at a price that we deem reasonable, while collecting some premium during the process. But sometimes, we want to capture more gains to the upside. In this case, we can consider putting on some kind of a spread that, over time, allows us to make money if the underlying goes up.</p>
-
-<p>Let&rsquo;s take a look at $MCD as an example:</p>
-
-<h3 id="20170204-mcd">$MCD</h3>
-
-
-<p><a href="http://www.thetatrades.com/images/blog/20170204/mcd.png"><img src="http://www.thetatrades.com/images/blog/20170204/mcd.png" alt="MCD - 2017-02-04 - Daily" /></a></p>
-
-<p>Here&rsquo;s the chart of $MCD - obviously quite bullish. With earnings aside and the trendline resistance broken, $MCD has room to run back to the all time highs of 132. If we want to capture a move to 132, a 130/135 call backratio spread would net us about 2.00 in profit (per spread). This spread alone costs a slight debit, but if our overall bias on $MCD is bullish, we can finance it with a naked put at a price level which we deem reasonable to buy stock. Given that the 200 period moving average is around 118, we can look to sell a put option slightly below that, or the 115 put option.</p>
-
-<p>Ultimately, the trade setup comes out to selling the 115 put option, and buying the 130 call option, and selling two times the 135 call option, all expiring in March:</p>
-
-<p><a href="http://www.thetatrades.com/images/blog/20170204/mcdoc.png"><img src="http://www.thetatrades.com/images/blog/20170204/mcdoc.png" alt="MCD Risk Graph- 2017-02-04 - Daily" /></a></p>
-
-<p>IF $MCD manages to go higher and stay between $115 and $140 by expiration, we&rsquo;ll be profitable (90% chance of happening). And if it lands anywhere near 135 by expiration, we&rsquo;ll get to make roughly 5.00, or $500. Putting on this spread allows us to collect .17 in credit. Essentially, we get paid $17 to make roughly $500. That should cover a whole year&rsquo;s worth of eating at McDonald&rsquo;s.</p>
 
 <p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> or <a href="https://facebook.com/thetatrades" title="Follow @thetatrades on Facebook">Facebook</a> to receive our tweets and posts in real time! And if you haven&rsquo;t yet, subscribe to our email listing below to receive special email alerts as well.</p>
 
