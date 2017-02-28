@@ -40,6 +40,6 @@ What is the price telling you? Is the stock trending up? Down? Sideways? If so, 
 
 *Stay tuned for our next post, where we discuss in detail how to look at price to determine the trend and trade with it.*
 
-*If you haven't yet, subscribe to our email listing below to receive notifications on new posts and special offers.*
+*If you haven't yet, subscribe to our email list below to receive notifications on new posts and special offers.*
 
 {% include post/mailchimp.html %}
