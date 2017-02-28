@@ -7,8 +7,7 @@ sharing: true
 footer: true
 ---
 
-Hey traders, welcome to ThetaTrades!
-===
+##Hey traders, welcome to ThetaTrades!
 
 Before we get started, we wanted to let you know what our mission, vision, and values are so that you know you're in the right place for your trading journey.
 

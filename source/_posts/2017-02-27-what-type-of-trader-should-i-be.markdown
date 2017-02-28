@@ -18,16 +18,16 @@ If you’re just starting to trade, you’ve probably heard of many different st
 
 Let’s go over these styles one by one. As you read, please refer to this table above.
 
-Day Trading
-===
+### Day Trading
+
 This is the typical picture that pops up in your head when you think about day trading - a trader sitting behind 8 different monitors, usually constantly monitoring the charts throughout the day. Day traders typically execute anywhere from 1 trade a day to 50+ trades a day. They do not hold any positions overnight, meaning they balance their account and close any open positions before the market closes at the end of the day. Day trading requires an intense amount of focus. If trading is indeed your one and only job, this can be an area for you to explore.
 
-Swing Trading
-===
+### Swing Trading
+
 In swing trading, traders typically capture market moves from days to weeks. This type of trading does not necessarily require constant monitoring because traders are more focused on where prices open at the beginning of the day and where they close at the end of the day, not anytime in between. Because trades last over the course of at least multiple days, swing traders hold positions overnight. Generally speaking, swing trading captures larger directional moves than those of day trading, but less than those of position trading.
 
-Position Trading
-===
+### Position Trading
+
 This is essentially the Warren Buffet types of investing. Investors looking for long term buy and hold or long term shorts are position traders. They generally look at their accounts even less than swing traders, typically once or twice a week, and their trades can last from months to years. Generally speaking, position trading captures larger directional moves than those of swing trading and day trading.
 
 ---
@@ -41,3 +41,7 @@ With these trading time frames in mind, it's time to ask yourself, which time fr
 If you have any questions and are still confused as to what type of time frame best suits you, feel free to leave a comment at the bottom of the page, and we'll get back to you!
 
 Cheers!
+
+If you're interested in more ideas like this, [follow us on Twitter](https://twitter.com/theta_positive "Follow @thetatrades on Twitter") or [Facebook](https://facebook.com/thetatrades "Follow @thetatrades on Facebook") to receive our tweets and posts in real time! And if you haven't yet, subscribe to our email listing below to receive special email alerts as well.
+
+{% include post/mailchimp.html %}
