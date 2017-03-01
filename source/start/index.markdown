@@ -20,6 +20,8 @@ If you're just starting off, you've probably heard from many people that you sho
 [The Best Stock Trading Books Every Trader Should Read](/blog/2017/02/18/the-best-stock-trading-books-every-trader-should-read/)<br/>
 Don't just go into the markets blindly. To be a successful trader, you must work on the one thing almost no one talks about - trading psychology. In this post, we discuss in detail the contents of the books that we believe are a must-have in every successful trader's arsenal. Remember that the most important investment anyone can have for themselves is education, and understanding proper trading psychology is 95% of your success in the markets.
 
+And for more information about what ThetaTrades is all about, check out our [about page](/about)!
+
 *To stay up to date with our latest posts and trade ideas, hit the subscribe button below to be notified of new posts and special offers*
 
 {% include post/mailchimp.html %}
