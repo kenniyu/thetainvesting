@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: snap | ThetaTrades]]></title>
+  <link href="http://www.thetatrades.com/blog/categories/snap/atom.xml" rel="self"/>
+  <link href="http://www.thetatrades.com/"/>
+  <updated>2017-03-05T11:24:31-08:00</updated>
+  <id>http://www.thetatrades.com/</id>
+  <author>
+    <name><![CDATA[theta]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Oh $SNAP - We're Not Trading It]]></title>
+    <link href="http://www.thetatrades.com/blog/2017/03/02/oh-snap-were-not-trading-it/"/>
+    <updated>2017-03-02T09:17:58-08:00</updated>
+    <id>http://www.thetatrades.com/blog/2017/03/02/oh-snap-were-not-trading-it</id>
+    <content type="html"><![CDATA[<p>Hey traders,</p>
+
+<p>You probably know that $SNAP went public less than a couple of hours ago. One question you might be thinking:</p>
+
+<p><em>Should we trade it?</em></p>
+
+<p>This all depends on your own system. However, here at ThetaTrades, we&rsquo;re trend traders, and we look at the 20, 50, and 200 day moving averages. Since it&rsquo;s $SNAP&rsquo;s first day, we don&rsquo;t have the data necessary for our trend following system. Therefore, we will not be trading $SNAP. Simple as that!</p>
+
+<p>If you do trade it, may we wish you the best. Cheers!</p>
+
+<p><div class="subscribe-button">
+	<button>Subscribe to Our Updates</button>
+</div>
+</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: xle | ThetaTrades]]></title>
+  <link href="http://www.thetatrades.com/blog/categories/xle/atom.xml" rel="self"/>
+  <link href="http://www.thetatrades.com/"/>
+  <updated>2017-03-05T11:24:31-08:00</updated>
+  <id>http://www.thetatrades.com/</id>
+  <author>
+    <name><![CDATA[theta]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A Look at Energy]]></title>
+    <link href="http://www.thetatrades.com/blog/2017/03/02/a-look-at-energy/"/>
+    <updated>2017-03-02T09:01:45-08:00</updated>
+    <id>http://www.thetatrades.com/blog/2017/03/02/a-look-at-energy</id>
+    <content type="html"><![CDATA[<p>Hey traders,</p>
+
+<p>The energy sector has gotten a lot of questions recently - here&rsquo;s our take on how to trade it. Please observe the chart below:</p>
+
+<p><a href="/images/blog/20170302/xle.png"><img src="/images/blog/20170302/xle.png" alt="$XLE - 2017-03-02 - Daily" /></a></p>
+
+<p>For the longest time, the 200MA has held incredibly well. As it&rsquo;s trading around that curve again, $XLE presents a good location to get long. One can initiate a long position at current prices, with a stop around 68.99. Since we&rsquo;re trend followers, we&rsquo;ll continue holding this position for as long as we can, while trailing our stops up as the 200MA curve moves in our favor. As always, our goal is to ride the trend as long as possible, and rely on the rules of the system to get us out.</p>
+
+<p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> or <a href="https://facebook.com/thetatrades" title="Follow @thetatrades on Facebook">Facebook</a> to receive our tweets and posts in real time! And if you haven&rsquo;t yet, subscribe to our email listing below to receive special email alerts as well.</p>
+
+<p><div class="subscribe-button">
+	<button>Subscribe to Our Updates</button>
+</div>
+</p>
+]]></content>
+  </entry>
+  
+</feed>

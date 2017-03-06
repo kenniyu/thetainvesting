@@ -11,7 +11,7 @@ footer: true
 
 Before we get started, we wanted to let you know what our mission, vision, and values are so that you know you're in the right place for your trading journey.
 
-**Our mission is to help struggling traders overcome difficulties in the market. Our vision is a world where everyone takes charge of their own trading through free and reliable information and education, a world without the chicanery of those who continue to take advantage of traders who just want to learn and make money.**
+**Our mission is to help struggling traders overcome difficulties in the market. Our vision is a world where everyone takes charge of their own trading through reliable information and education, a world without the chicanery of those who continue to take advantage of traders who just want to learn and make money.**
 
 We are all too familiar with the numerous subscription services out there that charge the average trader monthly fees for results that are almost way too inconsistent. And with the presence of many social media streams these days, we understand that much of the noise out there distracts many traders from realizing the ultimate zen necessary for achieving optimal trading performance. We're here to help you cut all of that out. We believe that you don't need to pay for ideas. And you certainly don't need to pay for any sort of predictive technical analysis or special "indicators."
 
