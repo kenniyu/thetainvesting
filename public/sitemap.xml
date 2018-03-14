@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://www.thetatrades.com/blog/2018/03/13/a-china-play/</loc>
+<lastmod>2018-03-13T21:17:45-07:00</lastmod>
+</url>
+<url>
 <loc>http://www.thetatrades.com/blog/2017/03/05/upcoming-trades-this-week/</loc>
 <lastmod>2017-03-05T11:16:28-08:00</lastmod>
 </url>
@@ -437,6 +441,9 @@
 <lastmod>2016-03-06T00:49:05-08:00</lastmod>
 </url>
 <url>
+<loc>http://www.thetatrades.com/</loc>
+</url>
+<url>
 <loc>http://www.thetatrades.com/archives/</loc>
 </url>
 <url>
@@ -446,7 +453,16 @@
 <loc>http://www.thetatrades.com/blog/archives/</loc>
 </url>
 <url>
-<loc>http://www.thetatrades.com/</loc>
+<loc>http://www.thetatrades.com/history/</loc>
+</url>
+<url>
+<loc>http://www.thetatrades.com/portfolio/</loc>
+</url>
+<url>
+<loc>http://www.thetatrades.com/about/</loc>
+</url>
+<url>
+<loc>http://www.thetatrades.com/start/</loc>
 </url>
 <url>
 <loc>http://www.thetatrades.com/resources/</loc>
@@ -455,19 +471,7 @@
 <loc>http://www.thetatrades.com/trades/</loc>
 </url>
 <url>
-<loc>http://www.thetatrades.com/portfolio/</loc>
-</url>
-<url>
-<loc>http://www.thetatrades.com/start/</loc>
-</url>
-<url>
 <loc>http://www.thetatrades.com/travel/</loc>
-</url>
-<url>
-<loc>http://www.thetatrades.com/history/</loc>
-</url>
-<url>
-<loc>http://www.thetatrades.com/about/</loc>
 </url>
 <url>
 <loc>http://www.thetatrades.com/blog/categories/outlook/</loc>
@@ -942,5 +946,11 @@
 </url>
 <url>
 <loc>http://www.thetatrades.com/blog/categories/so/</loc>
+</url>
+<url>
+<loc>http://www.thetatrades.com/blog/categories/yy/</loc>
+</url>
+<url>
+<loc>http://www.thetatrades.com/blog/categories/china/</loc>
 </url>
 </urlset>
